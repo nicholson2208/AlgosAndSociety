@@ -1,0 +1,7 @@
+- so far we have 8 depts with only 5 courses each. do we want more?
+- do tfidf, removing stopwords
+- do sage maybe
+- do some sentiment analysis
+- try to control for the ratings/sentiment analysis
+- maybe look at gender
+- qualitatively observe things
