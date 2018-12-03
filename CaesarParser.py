@@ -5,6 +5,7 @@ written poorly by Matt Nicholson
 
 import json
 import re
+import traceback
 
 def count_occurrences(word, sentence):
     """
@@ -284,6 +285,7 @@ def main():
             print("+"*20)
             print(dept)
             print("Something messed up here: {}".format(e))
+            traceback.print_exc()
             print("+"*20)
 
 

@@ -133,7 +133,7 @@ Options        Count        Percentage
 
 
  Northwestern
-Student Report forBMD_ENG_250-0_20: Thermodynamics  (Neha Kamat)
+Student Report for Neha Kamat ( BMD_ENG_250-0_20: Thermodynamics)
 Course and Teacher Evaluations CTEC Winter 2018
 Project Audience 68
 Responses Received 50
@@ -275,7 +275,7 @@ Options        Count        Percentage
 
 
  Northwestern
-Student Report for Mech Of Materials I,Intro to BiomechanicsCIV_ENV_216-0_01: Mech Of Materials I,BMD_ENG_271-0_20: Intro to Biomechanics (Gloria Kim)
+Student Report for Mech Of Materials I,Intro to Biomechanics(CIV_ENV_216-0_01: Mech Of Materials I,BMD_ENG_271-0_20: Intro to Biomechanics) (Gloria Kim)
 Course and Teacher Evaluations CTEC Spring 2017
 Project Audience 96
 Responses Received 87
@@ -432,7 +432,7 @@ Options        Count        Percentage
 
 
  Northwestern
-Student Report for  Mech Of Materials I,Intro to Biomechanics(CIV_ENV_216-0_01: Mech Of Materials I,BMD_ENG_271-0_20: Intro to Biomechanics (Maria Alarcon)
+Student Report for Maria Alarcon ( Mech Of Materials I,Intro to Biomechanics(CIV_ENV_216-0_01: Mech Of Materials I,BMD_ENG_271-0_20: Intro to Biomechanics))
 Course and Teacher Evaluations CTEC Spring 2018
 Project Audience 78
 Responses Received 76
@@ -833,3 +833,818 @@ Options        Count        Percentage
 4        19        39.6%
 5        5        10.4%
 6-Extremely interested        2        4.2%
+
+
+
+
+ Northwestern
+BMD_ENG_305-0_01: Intro to Biomed Sig & Circuits Hao Zhang
+Course and Teacher Evaluations CTEC Fall 2016
+Project Audience 42
+Responses Received 27
+Response Ratio 64.3%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction , republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Tue, Aug 01, 2017
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        27
+Mean        4.44
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        27
+Mean        4.63
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        27
+Mean        4.96
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        27
+Mean        4.63
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        27
+Mean        4.33
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        1        3.7%
+4 - 7        10        37.0%
+8 - 11        14        51.9%
+12 - 15        1        3.7%
+16 - 19        0        0.0%
+20 or more        1        3.7%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+This was a fun introductory circuits class. The labs sometimes took a while to complete but were rewarding in the end. I learned a lot and have a new found interest in circuits and mechanical engineering. The exams are not super difficult if you study. Overall, one of my favorite classes I've taken at NU.
+Great course, homework assignments and labs really help to solidify material taught in class.
+The powerpoints were really crowded and we never actually spent time on them fully in class. His writing was messy/hard to follow and i feel like we didnt do a lot of concrete examples. Some of the homeworks were fine, some were much harder. The tests were fine except for a couple difficult parts, but plenty of time for them. The labs could sometimes be really tricky and time consuming and confusing, other times was able to finish during the lab period. But the grading wasnt harsh for them which was nice
+The weekly labs and homework were fairly time consuming but overall the material wasn't too bad.
+This class was actually a lot of fun. Labs feel a little unguided and above your level at first (because they are) but as the weeks go by it gets a lot easier to pick up the skills that are required for them. Nick is really helpful, so ask for help all the time; this gives him an opportunity to tell you things about the lab (which might be helpful to be in the lab, but any way you can get it, do). Lecture was actually quite enjoyable, and Prof. Zhang is a good instructor. Somehow he manages to avoid a lot of the tedium associated with the "sitting around watching a professor solve problems" style of lecture in a very problem-oriented course. I didn't feel like lecture dragged on or were pointless, and he is very clear about what are the concepts we needed to take away from the class.
+The labs can be frustrating sometimes, but Nick is so helpful.
+The lectures do a good job at covering the theory, though for problem solving more practice is definitely needed outside of class. The labs were interesting and challenging. Office hours were very important as small errors in the labs could take a very long time to fix.
+Great course
+Professor Zhang's lectures were helpful and he did many helpful examples, although sometimes they were hard to understand. The lab component is challenging but helpful- you will probably need to go to office hours to complete them. The exams and quizzes were fair, make sure you understand the homeworks.
+The labs of the course are very engaging and Nick is very helpful. Overall good course.
+The lab portion of this class is pretty great. Nick is a great instructor, although sometimes he's a little too cryptic for my liking. Nick, I'm not asking for help because I want you to do it for me, I'm asking for help because I'm utterly lost and your cryptic answers often do not help at all. Moving on, Hao Zhang, on the other hand, pretty much kills any interest I have in this class. Not only are his slides extremely cluttered and hard to follow, it's just poorly taught. When you combine a weekly homework and labs that you don't finish during the allotted time (because you're totally lost and Nick gives you a non-answer and our TA was obviously instructed to do the same), I find myself spending upwards of 8-11 hours/week on this class OR less than 3. There is no in between, and you never know ahead of time which it'll be.
+The labs may take a while, but they give good hands on experience. The class is not too difficult if you pay attention in class and to the examples Prof. Zhang gives. The homework helps with understanding the material.
+This class was simultaneously the best and worst class I have ever taken at Northwestern. The class was extremely informative and interesting, as I have never taken a hands on circuits class before, but the workload of the lab portion was absolutely insane.
+I actually liked this course more than I thought I would. Hao's teaching takes a little time to adjust to, but I grew to love him throughout the quarter. The labs get really long and challenging as the quarter goes on, so be sure to stay on top of those. I didn't take advantage of the given lab time during class, but I think I would've been much less stressed if I had stayed longer during lab periods. The exams are very straightforward and the labs are graded pretty leniently. Overall, a good course and I learned a ton about circuits without being overly stressed like many other McCormick classes.
+I really enjoyed the content of this class. The lab was great and Nick is super helpful. The lecture was a little all over the place but if you focus hard and listen it will make sense. Getting distracted for a short time will make the whole lecture confusing. Class work is a bit much with homework and quiz and labs on Monday. It was frustrating because Prof Huang would not upload the homework until Thursday when we were supposed to have a week to do it.
+The lab portion was by far the best thing about this course. The lecture felt like a slightly more in depth re-hash of EA3 and physics 135-2, and I personally felt that most of the same information could be provided through only the lab section with just a few changes. I had never really touched circuits before taking this class, but I learned so much and feel quite confident with circuits now.
+The lab was really interesting and somewhat demanding. Prof. Zhang and the TA showed mercy when grading.
+I felt that the lectures didn't add that much to the class. I learned from the book and homework assignments. The content isn't particularly hard, and it didn't take that long to learn the concepts. The major portion of this class was the lab, as they proved to be more challenging and time-intensive than other labs I've had at Northwestern.
+Sometimes lectures are kind of confusing, but not a bad class overall. Actually super interesting bc I didn't know anything about this topic before this class. Labs can be really frustrating, but Nick is the best!!
+Nick the TA has office hours for lab every weekday for two hours and it's extremely helpful, but also sometimes if the lab was particularly hard, it was difficult to get his attention for help. Prof. Zhang was a decent professor, but the slides need so much work, it's hard to follow both in and out of class.
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        0        0.0%
+Communication        0        0.0%
+Graduate School        0        0.0%
+KGSM        0        0.0%
+McCormick        23        95.8%
+Medill        0        0.0%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        1        4.2%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        0        0.0%
+Sophomore        1        3.7%
+Junior        24        88.9%
+Senior        2        7.4%
+Graduate        0        0.0%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        0        0.0%
+Major/Minor requirement        26        96.3%
+Elective requirement        0        0.0%
+No requirement        1        3.7%
+Other requirement        0        0.0%
+Respondent(s)        27        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        0        0.0%
+2        1        3.7%
+3        11        40.7%
+4        9        33.3%
+5        6        22.2%
+6-Extremely interested        0        0.0%
+
+
+
+
+ Northwestern
+Student Report for BMD_ENG_305-0_01: Intro to Biomed Sig & Circuits (Hao Zhang)
+Course and Teacher Evaluations CTEC Fall 2017
+Project Audience 64
+Responses Received 51
+Response Ratio 79.7%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction, republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Thu, Jan 25, 2018
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        48
+Mean        3.98
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        51
+Mean        4.27
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        51
+Mean        4.82
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        50
+Mean        4.56
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        48
+Mean        3.96
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        1        2.0%
+4 - 7        20        39.2%
+8 - 11        20        39.2%
+12 - 15        8        15.7%
+16 - 19        2        3.9%
+20 or more        0        0.0%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+Course involves lots of work, but if you keep up, you'll do fine. Nick is absolutely great and he's super super helpful.
+Hao is a great and funny person! However, his teaching skills progressively declined over the quarter. We ran through Fourier Transforms way too quickly, and he moves incredibly fast. So, it is quite hard to even understand where you are confused, until you get to the homework and realize you have no idea what is going on. As for the labs, Nick Marchuk is a lifesaver. Absolutely fantastic and helpful person. GO TO HIS OFFICE HOURS!
+slides are messy and have squares and he writes messy on the board and talks soft and is not engaging. doesnt really explain anything. nick is great!!!!!!!!!!!!!
+The problem sets and quizzes are not difficult. You will spend a lot of time on labs-they are a huge pain but will help you learn concepts in class.
+I think this course is very challenging, but great at engaging the students. The lecture portion could be improved, a lot of times I was lost on what we were supposed to know and didn't learn it until I did the homeworks. The lab portion was great, I learned a lot.
+The lectures are hard to follow. The lab TAs are super helpful during lab.
+Such an interesting class. Hao's slides are bad but he rocks!!!!!!
+The coding in 305 is relatively simple and allows you to learn about the circuits. Weekly quizzes and homeworks help you keep up with the material. Hao is a really nice guy and is funny, and makes fun of his own slides but STILL WONT CHANGE ALL OF THEM OVER TO BETTER SLIDES AHAHAH. Nick ROCKS and will help you understand everything you're doing, rather than just telling you answers. Nick is also an awesome circuit debugger.
+This class is pretty nice, as far as junior year BME classes go, but that's not really saying much. Hao is an alright professor, it can be kinda hard to get exactly the information you want from him sometimes when you ask a question. The lab part of class can be hard, but is super informative and feels very practical, especially in the later labs. Nick is dope, very smart, reasonable and easy to talk to.
+This is a pretty good introductory circuits class; however, if you've taken any circuits classes before (ME 233𯌳, GEN_ENG 295, etc.) the lectures will be mostly review and kinda boring. The labs were really fun, and Nick does a good job at hands-on teaching. The last few weeks of the class get a little abstract so definitely pay attention to that. Lecture slides are a joke, so either read the book or look things up online if you're trying to review the lectures.
+This course is doable, but you have to do a lot of the work on your own. Homework assignments aren't bad if you read the book for strategies. Labs aren't too bad, since Nick and the TAs are really willing to help out.
+This class was overall very good. The labs were really well-run and helped the class learn a lot. The grading scheme was also very reasonable.
+Lecture is pretty easy and going to class is not necessary. Quizzes are super easy but the exams were pretty hard. Lab is more challenging especially if you have no experience with building circuits. Nick is super helpful though in office hours.
+Hao's lectures can be confusing, but the example problems are very helpful if you ask him to slow down. Definitely look at examples out of the book because that is the only way I knew how to do the homework. Labs are very time-consuming but kind of cool.
+Prof. Zhang really cares about his students and the course as a whole and it comes off as such when he lectures, which is refreshing compared to another course taken simultaneously with this one *ahem*. He reads the CTECs and legitimately takes it to heart. I hope he puts this message on the slide for CTECs -- I also want to mention the obligatory "Nick is the man" (but don't fret, Hao is also the man).
+The beginning was not hard and went slowly, but the second half went quickly and was harder.
+Lab is kind of fun but you have no clue what you're doing. Prof Hao is one of the worst teachers I've had at NU. Nice guy, but cannot explain the material in a way that is different from reading the textbook, except for his explanations are less complete than the book. The final exam was nothing like we expected either.
+Pretty good class. Nick is very helpful for lab. Hao is a pretty good lecturer, but the slides suck. Hao acknowledged that they're bad but refuses to remake them.
+I enjoyed being able to apply what we learned in class to build circuits during lab. I also enjoyed working on labs specifically designed for biomedical purposes.
+This class was pretty much useless and yet somehow it was made difficult. The content was not hard, it's basically a recap of EA3/Physics2 plus a bit more on circuit diagrams and Op-Amps. The difficulty arose in the terrible lecturing style, the poorly written test questions, and a just general lack of structure. Starting with the lectures, the slides are awful and if the fact that the slides are awful is mentioned then the professor will laugh and say "they are not his and are from the book so don't complain about them". He made a point at the beginning of the class that the slides are messy and has gotten many evaluations that cite the uselessness of the slides so I am not sure why he has not taken the time to put together slides that are actually usable. On to the tests, if you don't solve a problem the specific way the prof taught you then you are likely to get a zero for the entire question despite the fact that your method 1) gives the correct answer, 2) is in the book, 3) is buried in the useless slides he insisted on using, and 4) how you did it on the homework where you got full credit, good luck figuring that out. The professor also disappeared during the final and there were no TAs present so good luck if you had questions or were worried about cheating. The labs themselves were pretty straight forward and Nick is really good at helping you get your circuit to work and explain what is going on, which is especially important because lecture is most certainly behind lab because you will spend 2 weeks relearning Kirchoffs Laws for the third time in your NU career and if you took any sort of physics in high school you can probably just skip lecture. In general, if you don't have to take this class don't, there are better circuits classes with more responsible professors at NU.
+Overall course was challenging but very easy to succeed and then the final just wrecked me as it did everyone else so just be prepared for a very difficult final that doesn't match the rest of the class's difficulty level.
+Hao is cool, Nick is amazing
+I enjoyed this class, you learn some cool stuff in the lab. Take advantage of lab time.
+Good in class in that it's actually trying to teach you the material instead of just making it hard. Labs get easier after you start to understand the concepts.
+Great class! Nick is awesome and Prof Zhang is really nice. A little frustrating at times with poor communication regarding hw and last minute changes, but overall pretty straightforward and definitely teaches you a lot.
+Professor Zhang is a great guy who's very approachable and easy to talk to so it was really easy to get help. He obviously puts effort into teaching. The only issue I had was the lack of coordination between labs and lectures. We started using op-amps in lab weeks before we actually learned what they did in lecture.
+As far as a mandatory BME class goes, this isnt too bad. The grade is very evenly split between homework, quizzes, labs, and exams. Lecture can feel a bit aimless or pointless at times, but it definitely helps for completing the homework. Hao is a solid professor and actually cares about how the class is being received by the students. Nick (head of the lab portion) is a godsend, makes learning the circuits much easier. Loved the hands on portion of this class.
+I did not expect myself to be able to do many of the objectives outlined in the labs, but the course taught me a lot and the TAs were extremely helpful in achieving the goal of the lab. Very well put together class.
+Overall a great course. You learn a lot. Not the most organized but you can do well if you read the book and do a lot of practice problems. The circuits portion is great! Nick is great!
+I wish I could take this class again, definitely one of my favorite classes at Northwestern so far.
+A necessary evil. Thought I was done with MATLAB but I was wrong. This class should be for EECS˼omp_Sci majors but for some reason it's a BME class. Steep learning curve so don't get left in the dust. I'm scared for the rest of the sequence
+I enjoyed the class. The labs are super cool and practical.
+I enjoyed this course. The lecture material was slightly challenging but not ridiculously difficult. The homework assignments and weekly quizzes were a happy medium between easy and impossible and helped to prepare me for the exams. The lab portion of the course was super cool and it felt like the skills we were learning were really applicable. The labs were a little more challenging than the homework, and they required a good bit of work outside of class. That being said NICK (lab instructor) IS A GOD and he will help you through any obstacles you run into.
+
+
+TL;DR Nick is the man. Utilize him as much as you can
+This class is challenging but what's great about it is the way grading is distributed so that you get out what you put. Because homework and labs are such a high percent of your grade, if you work hard then you'll both learn a lot and do really well in the class. I thought it was super interesting, and that's from someone who had never touched a circuit before.
+The lectures were pointless and all learning was done in your own time with the "custom" textbook. The professor marked a whole question wrong on the midterm from the entire class because, despite it being worked out properly via what the textbook stated, it wasnt done the way he wanted.
+Fairly easy course if you take the time to go see Marchuk for lab help. "I just want to be home with my Christmas tree" - Friends & I while studying for the final
+This class was very interesting and very easy to grasp. No prior knowledge was required and the material is taught essentially from the basics. Although Professor Zhang conveys the general concepts of what he is trying to teach well, his lectures can sometimes get hard to follow because he goes very fast when he does problems on the board. Although his powerpoints are cluttered, he takes examples and shows derivations and solves problems on the board, but they are very hard to follow because he goes through them relatively quickly. If you go to class everyday and follow the lecture though, this class is a sure fire A. He isn't trying to trick you; rather, wants you to understand the concept properly and apply it in slightly altered contexts.
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        0        0.0%
+Communication        0        0.0%
+Graduate School        0        0.0%
+KGSM        0        0.0%
+McCormick        47        100.0%
+Medill        0        0.0%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        0        0.0%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        0        0.0%
+Sophomore        4        7.8%
+Junior        46        90.2%
+Senior        1        2.0%
+Graduate        0        0.0%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        1        2.0%
+Major/Minor requirement        50        98.0%
+Elective requirement        0        0.0%
+No requirement        0        0.0%
+Other requirement        0        0.0%
+Respondent(s)        51        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        1        2.0%
+2        6        11.8%
+3        16        31.4%
+4        16        31.4%
+5        9        17.6%
+6-Extremely interested        3        5.9%
+
+
+
+
+ Northwestern
+Student Report for Jonathan Rivnay ( BMD_ENG_305-0_01: Intro to Biomed Sig & Circuits)
+Course and Teacher Evaluations CTEC Spring 2018
+Project Audience 13
+Responses Received 11
+Response Ratio 84.6%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction, republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Fri, Jul 13, 2018
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        11
+Mean        5.36
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        11
+Mean        4.64
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        11
+Mean        5.18
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        11
+Mean        5.09
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        11
+Mean        4.73
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        0        0.0%
+4 - 7        7        63.6%
+8 - 11        4        36.4%
+12 - 15        0        0.0%
+16 - 19        0        0.0%
+20 or more        0        0.0%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+This class focused strictly on the materials of the textbook, so it did not necessarily vary into what was interesting to the students.
+Overall a pretty good class, should definitely spend more time on Fourier Transformations and less on some of the repetitive circuit analysis problems
+The lecture part of this class was mostly a breeze since you should already know the basics of circuits from EA and Physics. The midterm was very easy with a high average. The final however was ridiculously hard as the material in the second half of the quarter gets much more difficult. The lab portion of this class is good at teaching how to build circuits, however the labs were very stressful and it was difficult to finish the work during the time. I also feel like the lab instructions were usually unclear which made it even more difficult. Nick was very good at helping out with the labs however.
+You're only going to take this class if you're required because you BME. All I can say is it was nice to take it early in the spring and have a smaller class instead of the big lecture in the fall
+The labs and the homeworks were quite challenging, but you get to make some really cool circuits in this class. The lecture content was manageable but I got a bit lost towards the end of the course.
+I did enjoy this class because it was definitely not necessarily hard. Challenging but manageable to do well.
+I think if you have a chance to take 305 in the spring lead sequence like I did, you should. Rivnay is a good prof and really knows what he is talking about and is very helpful. Also, you get a lot more personal help from Nick Marchuk in the lab section, which is like half your grade. Had a good time in this class and learned a lot
+This course is taught well, I just hated the subject material. It's interesting if you want to go into bioelectronics, but not applicable to other interests in BME.
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        0        0.0%
+Communication        0        0.0%
+Graduate School        0        0.0%
+KGSM        0        0.0%
+McCormick        11        100.0%
+Medill        0        0.0%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        0        0.0%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        0        0.0%
+Sophomore        9        81.8%
+Junior        2        18.2%
+Senior        0        0.0%
+Graduate        0        0.0%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        0        0.0%
+Major/Minor requirement        11        100.0%
+Elective requirement        0        0.0%
+No requirement        0        0.0%
+Other requirement        0        0.0%
+Respondent(s)        11        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        1        9.1%
+2        0        0.0%
+3        2        18.2%
+4        3        27.3%
+5        5        45.5%
+6-Extremely interested        0        0.0%
+
+
+
+
+ Northwestern
+BMD_ENG_325-0_20: Medical Imaging Alan Varteres Sahakian
+Course and Teacher Evaluations CTEC Fall 2016
+Project Audience 41
+Responses Received 26
+Response Ratio 63.4%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction , republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Tue, Aug 01, 2017
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        25
+Mean        5.04
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        25
+Mean        4.92
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        25
+Mean        4.80
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        25
+Mean        4.40
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        25
+Mean        5.04
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        5        19.2%
+4 - 7        15        57.7%
+8 - 11        3        11.5%
+12 - 15        3        11.5%
+16 - 19        0        0.0%
+20 or more        0        0.0%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+Sahakian is an amazing professor who very clearly knows his material and wants students to be able to understand the material -- one of the best BME classes I have ever taken at McCormick. Definitely take this class if you are interested in medical imaging at all.
+Very good introduction to a variety of medical imaging modalities. Sahakian is incredibly knowledgable.
+This is my favorite engineering course so far at Northwestern. The textbook, while pricey, was extremely well written and worth the money. The material is fascinating. Professor Sahakian is a great professor who explains challenging concepts well and has fair expectations on homework and exams. 10⼐.
+Overall this is a great course, you learn a lot about many different imaging techniques. The professor does a nice job teaching the class and I am very glad that I took the course.
+comprehensive, mostly about physical basis and some electrical details; slides sometimes too abstract, most understood by reading the book
+Sahakian is one of the nicest professors I've had and genuinely cares a lot. It's an extremely fair course and I think the workload is practical. The exams are basically exactly what you would expect, I have nothing but good things to say about this course.
+I was somewhat disappointed in this course. I didn't really get much out of the lectures, and about the only truly enjoyable part of the course was working on my project. Homeworks seemed a bit unfair given that the lectures didn't really cover problem solving.
+Very doable class, exams pretty straightforward. Sahakian has a very soothing voice.
+we had a great TA which is what helped make the class more clear. Exams were based on lectures and homework. Overall a very straightforward class that lets us research any medical imaging topic we wanted. Definitely recommend this course for anyone interested in medical technology!
+Prof. Sahakian was really patient when answering our questions and showed great mercy when grading. The class notes were summarized by Prof. Sahakian and very helpful.
+Great class for an introduction into biophotonics. Good for BME's to take to see if they are interested in the subject
+The material in the class is extremely interesting, but somewhat poorly organized. The tests are very fair and the homework assignments are not overly challenging.
+Course was structured in a way that was very conducive to learning the material, greatly enjoyed the instruction
+Hands down one of the best classes I have taken at NU. Sahakian breaks down complex concepts into such simple ways. One of the best teachers I've had. If you don't understand something, he's really patient and tries to explain it to you in several different ways. The tests are fair and the homework prepares you very well. He sometimes doesn't cover everything on the homework but going to office hours once a week will get you through the homeworks.
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        0        0.0%
+Communication        0        0.0%
+Graduate School        5        20.0%
+KGSM        0        0.0%
+McCormick        19        76.0%
+Medill        0        0.0%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        1        4.0%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        0        0.0%
+Sophomore        0        0.0%
+Junior        8        30.8%
+Senior        6        23.1%
+Graduate        12        46.2%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        3        11.1%
+Major/Minor requirement        12        44.4%
+Elective requirement        9        33.3%
+No requirement        3        11.1%
+Other requirement        0        0.0%
+Respondent(s)        26        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        0        0.0%
+2        0        0.0%
+3        2        7.7%
+4        9        34.6%
+5        11        42.3%
+6-Extremely interested        4        15.4%
+
+
+
+
+ Northwestern
+Student Report for BMD_ENG_325-0_20: Medical Imaging (Alan Varteres Sahakian)
+Course and Teacher Evaluations CTEC Fall 2017
+Project Audience 45
+Responses Received 21
+Response Ratio 46.7%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction, republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Thu, Jan 25, 2018
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        21
+Mean        5.71
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        21
+Mean        5.38
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        20
+Mean        5.05
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        21
+Mean        4.62
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        20
+Mean        5.30
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        7        33.3%
+4 - 7        9        42.9%
+8 - 11        3        14.3%
+12 - 15        2        9.5%
+16 - 19        0        0.0%
+20 or more        0        0.0%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+Fantastic course, Sahakian is great, do actually start the project early, it's fun, but I didn't and it wasn't a good time.
+Very good course with reasonable assignments. Learned a lot about several modalities of medical imaging.
+Awesome professor, exams are very fair
+Prof. Sahakian is a great and he does really well with teaching the material. The homeworks reflect the lectures and are very helpful when it comes to the exams.
+BME325 is a broad overview of imaging. This class has a couple of challenging topics, but overall is not very difficult. The material is very interesting, and Dr. Sahakian is a great guy who makes the material manageable and really cares about how much you learn. He's available, and even willing to take time in class to discuss topics if a few people are having issues. This is a great course to take if you want a course that is not very difficult and are interested in imaging.
+It's an interesting course that provides a high-level background into medical imaging. The lectures tended to be somewhat boring, but I learned as much as I had hoped to in the class.
+Great course, Sahakian is a very good prof and cares a lot about students
+Homework's are fairly straightforward and the solutions are provided after which is nice because the tests (midterm and final) are related to the homework. You can also bring in a sheet of paper to the tests so you don't have to memorize everything It can be hard to pay attention in class and know what's important.
+I really loved this class!!!!! Super easy - a paper on your choice of topic, weekly hw, a midterm, and a final. All the exams are based on is the hw - so if you understand that, the class is super easy. Simultaneously, I was able to learn a lot about imaging that I thought was significantly more complicated than I could learn, so that was super great as well. Overall, I loved this class and am so happy that I was able to take it!!!!!!
+The course gives an excellent introduction into Medical Imaging and is very well organised.
+Midterm and final are very similar to homework. Professor explains things clearly.
+Dr. Sahakian is very passionate about making sure his students learn. This class is a decent amount of work and reading but is by far the most rewarding of the quarter, Sahakian cares about his students greatly.
+Great survey of medical imaging. Alan Sahakian is amazing, very understanding and compassionate. His homeworks actually furthered my understanding of the material instead of being busywork. The paper was not fun to write though.
+I came into this course really excited about the material and then realized it wasn't for me. It isn't bad but at this point, I am not interested in the subject matter.
+I really liked this class and I definitely learned a lot. It wasn't exactly on what I had expected, I thought it would be more about reading medical images than understanding the physics behind medical imaging, but I still enjoyed it. Professor Sahakian is very friendly and you can tell that he wants everyone to learn the material. The exams are fair and the homeworks are manageable. Iɽ recommend taking this for fulfilling BME track electives.
+Professor Sahakian is a great professor and made the class very interesting. He is clearly very passionate about the subject, and is very willing to help students! Not too much work, fair midterm.
+The professor is very nice and patient.
+ALAN SAHAKIAN FOR PROFESSOR OF THE DECADE. this guy rocks. he has all custom note-sheets with excerpts from the textbook and from very highly regarded primary reference sources old and new alike. he explains all the concepts super clearly and makes really good analogies that help bring some of the harder concepts to life. the homework assignments are very applicable to the exams and the exams aren't meant to trip you up. THIS CLASS IS AN EXAMPLE OF HOW ALL ENGINEERING CLASSES SHOULD BE CONDUCTED. This class is learning-focused and if you're at all interested in medical imaging sign up right now.
+This is a great Category A elective for BMEs! The instructor is really nice and teaches well. Homework load is fairly light, but I ended up retaining a lot of the information presented in class because I just found the course really interesting. Exams are pretty easy too. Overall, a really well-taught class that provides a lot of insight into medical imaging technology.
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        0        0.0%
+Communication        0        0.0%
+Graduate School        3        14.3%
+KGSM        0        0.0%
+McCormick        18        85.7%
+Medill        0        0.0%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        0        0.0%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        0        0.0%
+Sophomore        0        0.0%
+Junior        6        28.6%
+Senior        11        52.4%
+Graduate        4        19.0%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        1        4.0%
+Major/Minor requirement        8        32.0%
+Elective requirement        13        52.0%
+No requirement        3        12.0%
+Other requirement        0        0.0%
+Respondent(s)        21        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        0        0.0%
+2        0        0.0%
+3        1        4.8%
+4        11        52.4%
+5        3        14.3%
+6-Extremely interested        6        28.6%
+
+
+
+
+ Northwestern
+Student Report for BMD_ENG_346-0_01: Tissue Engineering (Guillermo Antonio Ameer)
+Course and Teacher Evaluations CTEC Winter 2017
+Project Audience 26
+Responses Received 15
+Response Ratio 57.7%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction , republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Mon, Jun 26, 2017
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        15
+Mean        5.20
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        15
+Mean        4.67
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        15
+Mean        4.87
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        15
+Mean        4.60
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        15
+Mean        5.00
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        0        0.0%
+4 - 7        8        53.3%
+8 - 11        7        46.7%
+12 - 15        0        0.0%
+16 - 19        0        0.0%
+20 or more        0        0.0%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+This was a great course to introduce the fundamentals of tissue engineering. Dr Ameer encourages discussion in class, and the class itself is designed on the principles of self-driven learning. We also get to work on case studies with a partner, and this helps a lot to discuss your ideas˿indings with each other. The project is also great to work, and gives you a sense of how tacking a hypothetical tissue engineering problem is.
+I would take this course again. While the lectures were sparse, I appreciated how Professor Ameer gave us skills to independently approach tissue engineering problems and the time to research topics that specifically interested us.
+I really enjoyed the discussion sessions and also the final project. These both provided good feedback from the class and instructor.
+I liked the discussion setup of the course, but I wish the class syllabus was better structured. There were a lot of changes we had to adapt to. This class was fairly challenging for me, as it is my first tissue engineering related course, but I did like that we were tested on what we researched and analyzed through our writeups, rather than memorizing a bunch of information for exams. I've done well so far though, so I would definitely recommend this class if you're looking to do any form of research in this field now or in the future.
+Self paced course. I learned as much as I cared to learn.
+Good class for further building on tissue engineering concepts, largely in the form of reading papers and thinking about what people are currently doing in the field. All of the work is partner (hw) or group (project) based.
+The case study˽iscussion format of the class is interesting and not overly time consuming in terms of workload. As someone with no prior BME experience, I found the class challenging but very manageable. A lot of learning on your own but not overly stressful. I highly recommend taking this course if you are interested in tissue engineering and regenerative medicine.
+Since the course is discussion based, it is a lot more interesting than if it was just lecture based. Case studies help you apply theoretical knowledge to actual problems in the field of tissue engineering. Dr. Ameer has a vast knowledge about the subject and encourages the students to participate. Glad I took the course!
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        0        0.0%
+Communication        0        0.0%
+Graduate School        6        50.0%
+KGSM        0        0.0%
+McCormick        6        50.0%
+Medill        0        0.0%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        0        0.0%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        0        0.0%
+Sophomore        0        0.0%
+Junior        1        6.7%
+Senior        1        6.7%
+Graduate        13        86.7%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        3        16.7%
+Major/Minor requirement        5        27.8%
+Elective requirement        8        44.4%
+No requirement        2        11.1%
+Other requirement        0        0.0%
+Respondent(s)        15        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        0        0.0%
+2        1        6.7%
+3        2        13.3%
+4        4        26.7%
+5        2        13.3%
+6-Extremely interested        6        40.0%
+
+
+
+
+ Northwestern
+Student Report for Guillermo Antonio Ameer ( BMD_ENG_346-0_01: Tissue Engineering)
+Course and Teacher Evaluations CTEC Winter 2018
+Project Audience 27
+Responses Received 17
+Response Ratio 63.0%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction, republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Fri, Apr 13, 2018
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        16
+Mean        4.56
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        15
+Mean        4.13
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        15
+Mean        4.27
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        16
+Mean        4.38
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        16
+Mean        4.69
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        3        18.8%
+4 - 7        10        62.5%
+8 - 11        2        12.5%
+12 - 15        1        6.3%
+16 - 19        0        0.0%
+20 or more        0        0.0%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+This class is a discussion based class where each student looks up papers for each week's case study to discuss in class. I felt that I would have learned more if there was a short lecture giving background for each case study before we looked at papers.
+Dr. Ameer presents a guideline for each week to guide you to follow and you must do a lot of research yourself. If you do not like little guidance, this course may not be for you as you have to dig into the literature and make sure you can take criticism for your ideas.
+The discussion and case study format was a strength of this course as it allowed for the application of knowledge and class discussion.
+A repeat of biomaterials with less effort put into it.
+No exams
+Highly discussion based
+This class was a lot different than what I would've thought. It was 2 days a week with discussions about preliminary research on Tuesdays and then discussions again on Thursday. I thought he would've lectured at least one of the days so weɽ know what to do for the case study. This would've been very helpful because I came in with no background on Tissue Engineering. It took 3 case studies (out of 6) for my partner and I to get the hang of them. We learned to do like 20 minutes of research for Tuesday's discussion and not start writing until Thursday afternoon (they were due on Fridays) because Ameer would give advice on both Tuesday and Thursday class. The proposal project was okay... my group really didn't pull their weight so my partner and I felt pretty burdened. One less case study would have made the proposal process a lot less stressful.
+A discussion based course was intriguing, and the class met expectations for the first few weeks. However, the conversations became very similar week to week, and it was not as interesting as I expected.
+Good course if you're interested in the topic or as an elective. The final project is a nice way of applying the knowledge acquired during the quarter while developing a novel idea.
+very good class but is a little intimidating as an undergrad.
+Case studies were interesting but not necessarily that useful for learning broadly about the topic of tissue engineering. The course was not well structured and a lot of time felt wasted due to that fact.
+Interesting class but too many grad students. It’s hard to produce work on their level and the TA doesn’t seem to take your grade level into account.
+Somewhat hard to jump into if you don't have a strong tissue engineering background, there aren't really lectures since it's all case studies and discussions based off a weekly prompt so if you don't have a strong background on basic tissue engineering there is a somewhat steep learning curve at the beginning. But Prof. Ameer answers all questions, even basic ones, very thoroughly without judgment and is always helping us to succeed and understand the material instead of just writing a document to turn in. If you are disciplined enough to read a lot of papers and retain the information, this class will be easy. Otherwise, it will be rough for a few weeks, but the case studies and the midterm / final presentations and papers aren't terribly difficult.
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        0        0.0%
+Communication        0        0.0%
+Graduate School        5        35.7%
+KGSM        0        0.0%
+McCormick        9        64.3%
+Medill        0        0.0%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        0        0.0%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        0        0.0%
+Sophomore        1        7.1%
+Junior        3        21.4%
+Senior        0        0.0%
+Graduate        10        71.4%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        1        6.7%
+Major/Minor requirement        8        53.3%
+Elective requirement        5        33.3%
+No requirement        1        6.7%
+Other requirement        0        0.0%
+Respondent(s)        15        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        0        0.0%
+2        0        0.0%
+3        0        0.0%
+4        4        28.6%
+5        4        28.6%
+6-Extremely interested        6        42.9%

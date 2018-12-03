@@ -1,5 +1,5 @@
 ﻿Northwestern
-Student Report for EECS_111-0_20: Fund Comp Prog (Ian Horswill)
+EECS_111-0_20: Fund Comp Prog Ian Horswill
 Course and Teacher Evaluations CTEC Fall 2016
 Project Audience 284
 Responses Received 201
@@ -252,7 +252,7 @@ Options        Count        Percentage
 
 
  Northwestern
-Student Report for EECS_111-0_1: Fund Comp Prog (Jesse Tov)
+Student Report for Jesse Tov ( EECS_111-0_1: Fund Comp Prog)
 Course and Teacher Evaluations CTEC Spring 2018
 Project Audience 67
 Responses Received 52
@@ -563,7 +563,7 @@ Options        Count        Percentage
 
 
  Northwestern
-Student Report for EECS_211-0_20: Fundmtls of Computer Prog II (Sara Owsley)
+Student Report for Sara Owsley ( EECS_211-0_20: Fundmtls of Computer Prog II)
 Course and Teacher Evaluations CTEC Spring 2018
 Project Audience 203
 Responses Received 156
@@ -878,7 +878,7 @@ Options        Count        Percentage
 
 
  Northwestern
-Student Report for EECS_336-0_1: Design &Analysis of Algorithms (Konstantin Makarychev)
+Student Report for Konstantin Makarychev ( EECS_336-0_1: Design &Analysis of Algorithms)
 Course and Teacher Evaluations CTEC Spring 2018
 Project Audience 80
 Responses Received 52
@@ -1010,3 +1010,1314 @@ Options        Count        Percentage
 4        18        34.6%
 5        14        26.9%
 6-Extremely interested        10        19.2%
+
+
+
+
+ Northwestern
+Student Report for EECS_213-0_1: Intro to Computer Systems (Zachary Bischof)
+Course and Teacher Evaluations CTEC Winter 2017
+Project Audience 104
+Responses Received 75
+Response Ratio 72.1%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction , republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Mon, Jun 26, 2017
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        72
+Mean        3.14
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        73
+Mean        3.33
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        72
+Mean        4.43
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        73
+Mean        4.96
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        72
+Mean        3.03
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        1        1.4%
+4 - 7        16        21.6%
+8 - 11        21        28.4%
+12 - 15        25        33.8%
+16 - 19        9        12.2%
+20 or more        2        2.7%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+Needs to be taken
+This course gave me an in-depth look at computer science.
+This class is hard. Very hard.
+The class felt disorganized and lectures were confusing. A lot of the studying was done on my own time through other resources.
+Most of the time, this class made it feel like I was solving puzzles.
+Hard, poorly organized course. Happy to walk away with a better understanding of how a computer actually works, but labs were horrible, and it was never clear what was important during lecture. Midterm / final made up a little by being fairly forgiving. Overall, the adaptation of a semester-long course from Carnegie Mellon to a quarter at Northwestern does not work smoothly. Frustrating for most of the course, but occasionally rewarding.
+You probably don't have a choice whether or not you take this class but it's not that bad. Would highly recommend taking 203 and/or 205 before hand - will definitely help a lot.
+This class is really difficult. The exams were actually fine, and the homeworks weren't bad either, but the labs were really hard. You will need to spend a lot of time on the labs and consult heavily with TAs and/or Google.
+The professor is nice, but he is new, so no harsh judgement.
+It was very difficult and the labs were extremely time consuming and often didnt go hand in hand with what was being learned/taught in class
+Prof Bischof is a good guy and seems to genuinely care about students' learning, but his lectures were confusing. I had to learn most of the material by reading the textbook.
+The homework assignments were reasonable. I was hoping for more homework assignments that would help with the labs. It felt very overwhelming to have these insane labs with no guidance. Many things were self learnt or learnt through looking at other's people codes because there was no guidance on these labs. Whenever the labs were assigned, it was a given that we would have to figure out everything ourselves, including the concept, language, etc. It was hard to apply things we've learned in class when we're so busy trying to get used to the coding language.
+This class was very difficult, complex, and confusing. Professor Bischof was not good at getting main ideas across.
+So I thought I would hate this class but it was actually fun, v enlightening as to how computers work under the hood. Just keep up w/ lectures and start stuff early, and it's fine.
+It didn't make computer science seem meaningful or fun, everything was extremely abstract.
+The labs are really difficult, so you will need to spend a long time on them. I found that it was really hard to pay attention
+Course is dry, and required, but good to know.
+I mostly relied on the textbook and videos from cmu.
+Hard but not terrible. Labs and homeworks are tricky- definitely give yourself time to do them. Bischof doesn't curve and his lectures move quickly and are pretty confusing, so the textbook will be your best friend for this one. Tests are open book.
+HORRIBLE LECTURER!! DON'T TAKE IT WITH BISCHOF!
+The course material is very interesting. The class is overrated in terms of difficulty. Yes, the labs take some time. No, it is not impossible. The material is very logical and makes sense.
+It was Zachary's first time teaching the class and he did an ok job. The material delivery was not very structured in that regard and I started not going to class. He is very knowledgable of the material, just not good at presenting it. He is VERY good at answering questions though.
+Labs and homework assignments take a lot of time and lectures are generally unhelpful.
+The CMU online lectures are more helpful.
+Lectures were not very helpful, the book is your best friend.
+This was the teacher's first time teaching, so he was not a good teacher. He clearly knew the material, but he didn't yet know how to explain it. I never went to class, but he posts the slides online so I learned through those.
+Hard but rewarding course. Start work early, don't do things last minute. Actually pretty manageable course if you study and do assignments on time.
+I felt like I did a lot of self-learning for this class because I didn't learn that much in lectures. The textbook is a useful reference. The four labs are super time-consuming and challenging, but not impossible if you put in the time! The homeworks and midterm are okay. There were a lot of office hours and Piazza is a great resource, so those help with the homeworks/labs. Overall, I found 213 very challenging and not very interesting, so it was rough, but putting in the time𯻿ort pays off.
+The slides are extremely dry and confusing. The material is very hard. Pretty sure NO ONE knew what they were doing for the first homework (and probably still don't). 
+
+
+This professor got confused by his own slides and made an already dry topic even more boring which made learning extremely difficult. I learned more by watching the Carnegie Mellon videos online. The class is difficult but its a major requirement so you just have to truck through. Make sure you get a good partner, because everything is partner based.
+A lot of work. Had to teach myself a lot of the material, but the course is based very directly on the textbook and all material/labs are very well documented online.
+This class was challenging but interesting!
+SO HARD, lecturer is awful, labs are just taken from another university
+The lecture gives too little information, and the book gives too much - probably best to keep up with both!
+If Bischof is the professor in the future, do not take this class with him. This is a difficult class - in my opinion it is the hardest of the CS prerequisite classes - and Bischoff was not equipped to teach this class. When you take it (because the people who take this do it because they have to) look online for the Carnegie Mellon lectures and use those and the textbook as resources
+This is a good course. Professor Bischof is a new professor. However, he is really good and has a ton of potential.
+Professor Bischof was really good one-on-one, but not so great in the classroom. It was his first time lecturing, so I expect he will improve with time. The exams were pretty straightforward if you listen in class and read up a few days beforehand. The labs require a good partner, but with that, v doable. It is possible to do well in this class. Go to office hours for every assignment or risk wasting your time.
+Super interesting class, but very challenging.
+The content is a bit dull and still very abstract, even though the course is marketed as one in which you learn about how the computer "really works". The labs are fun though.
+Make sure you buy the textbook. Professor Bischof doesn't teach well, so reading the textbook is crucial to success. The labs are difficult but you'll learn a lot in the process. Professor Bischof does not write or grade the labs or the homeworks, so asking for his help on those matters is often unfruitful. This placed undue stress on the TAs and peer mentors, who often had to teach far more of the course than they should have.
+VERY difficult class. Material is very interesting if you're into computer science, but there is TOO MUCH MATERIAL for one quarter. Its understandable because it is supposed to be the necessary basics of Computer Systems but still, very hard to keep up with the lectures. If you push off reading/studying, your FINAL WEEKS WILL BE TORTUROUS because you will have the final to study for, the hardest lab that is known to take 15-50 hours to complete, and a homework assignment. Professor Bischoff is very intelligent, but is not very good at conveying his knowledge to people that don't know/understand the material, which is usually everyone because they haven't taken the class yet.
+Great course, this is Bischof's first time instructing, so things were rough and lectures only made the content more confusing; read the textbook, understand the slides, and give yourself lots of time for labs.
+Bischoff is brand new and it was his first time teaching this course, so he was not the best at teaching concepts. Watch the CMU lectures and everything will be ok. You will learn so much in this class, but be challenged so hard.
+Zach does an okay job, clearly a new professor. Labs are interesting and easy to find material for, homeworks can be difficult. He isn't a great lecturer, it's not really worth going to class. The Malloc lab timing was absolutely, 100% ridiculous. Why would put the hardest lab during finals week? It just is unfair, completely sadistic and utterly deflating. He actively changed the scheduled labs so that we would have the malloc lab last. I am honestly shocked. Also having it due the day after our final? Have a heart.
+I think that a lot of ctecs might mention that they didn't go to lectures because they found alternative learning options more effective, in Zach's defense, he did make an effort to teach the concepts and clearly understood them well, but it's very hard to teach better than videotaped lectures of the same content, especially because they give the rewinding option. Also, the way this course is graded, it is much more effective towards assignments/tests to read the textbook exclusively (e.g. content not clear from the slides being tested).
+Going to class was pointless because the professor wasn't a great lecturer. Labs take a long time, homework takes a good amount of time too unless you really understand the material, and the midterm placed a lot of weight on material that was only briefly covered. Get a good partner for homework/labs to suffer through this class with.
+Lots of content. Some of it pretty interesting, some not so much. Definitely read the book sections before the lecture, and don't put off the lab until the last minute. Good class all in all, good content.
+Zach just...wasn't a good teacher. I want to cut him some slack since it was his first time teaching the course (or ANY course, for that matter), but I would recommend taking this class with someone else. Labs are difficult but manageable as long as you START EARLY - each one easily takes upwards of 10 hours.
+His first time teaching the course so it was a bit spacy in class sometimes. Start homeworks and labs early. Open note exams make it better, so many practice tests online to study from.
+The instruction could be better but given how dense the material is, I'm not sure how well other instructors could have done. I had to do a lot of self studying to be able to start on assignments and labs.
+SOS this class was so hard. Labs take forever, but the homeworks weren't too bad. Midterm and final were both open note, but still a struggle. READ THE TEXTBOOK!!!
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        1        1.4%
+Communication        2        2.7%
+Graduate School        2        2.7%
+KGSM        0        0.0%
+McCormick        38        52.1%
+Medill        1        1.4%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        29        39.7%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        1        1.3%
+Sophomore        51        68.0%
+Junior        19        25.3%
+Senior        2        2.7%
+Graduate        2        2.7%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        2        2.6%
+Major/Minor requirement        68        88.3%
+Elective requirement        1        1.3%
+No requirement        5        6.5%
+Other requirement        1        1.3%
+Respondent(s)        75        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        3        4.1%
+2        10        13.5%
+3        22        29.7%
+4        21        28.4%
+5        12        16.2%
+6-Extremely interested        6        8.1%
+
+
+
+
+ Northwestern
+Student Report for EECS_213-0_20: Intro to Computer Systems (Peter Dinda)
+Course and Teacher Evaluations CTEC Spring 2017
+Project Audience 53
+Responses Received 20
+Response Ratio 37.7%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction , republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Thu, Jul 13, 2017
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        19
+Mean        4.47
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        19
+Mean        4.26
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        19
+Mean        5.37
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        19
+Mean        5.37
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        18
+Mean        4.33
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        1        5.3%
+4 - 7        6        31.6%
+8 - 11        6        31.6%
+12 - 15        4        21.1%
+16 - 19        2        10.5%
+20 or more        0        0.0%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+If you can, Iɽ recommend not taking this class with Dinda. Despite being able to explain things decently, he is a quite unorganized, which really made me struggle in the class. That being said, don't let him stop you from taking the course. The textbook has a lot of material in it, and with Dinda it's hard to tell which details are important and which aren't.
+It was hard, but the office hours were beyond awesome. Professor Dinda is very helpful and enthusiastic about his subject. He'll gladly help or talk to you about more in-depth topics.
+You learn lots.
+This class was a train wreck. A flipped classroom is a great idea if you're going to execute it correctly-- by giving us lectures to watch outside of class and giving us class time to actually work on things. Instead, we were expected to read a very dense textbook and listen to Dinda ramble for a while-- it's hard to know what you don't understand when just reading the textbook. I love that we were just told directly to go to the CMU website and use their slides instead of Dinda actually lecturing. At least he salvaged it with tons of extra credit and relatively easy exams, but if I'm paying four grand for a course, Iɽ like to be taught, and not just referred to another university's slides. Complete waste of my time and caused so much unnecessary stress.
+Good things: No Malloc Lab this quarter. Not so good: reverse classroom so don't really expect to learn much in class but instead by reading hundreds of pages in the text. Required attendance in the beginning was required in random in class-questions instead of a homework grade but the professor stopped asking questions and people stopped coming to class since people didn't really learn from class. I dropped last quarter to take it this quarter, doesn't seem there is a good quarter to take it since Bishoff also couldn't teach very well. Recommend taking Fall if looking for a standard class or this quarter (spring) if you want to self study.
+Dinda is a nice guy, but he often goes on lengthy tangents on small subject so the lectures get irrelevant real fast.
+One of the harder courses in the intro CS sequence - be warned it takes more time with reading and assignments than 111𯈑𯈔. Check out the Carnegie Mellon slides (http://www.cs.cmu.edu⾯s˼s�mic˼lass�-f15/www/schedule.html) which follow the book pretty closely but are easier to digest. Dinda is a nice, knowledgable guy and I can tell he actually cares about his students' success, but he can have a tendency to drone on about stuff that's already pretty boring, which can make it difficult to pay attention in class
+Overall, a really enjoyable class. We had a flipped-classroom teaching structure such that we would read the textbook and come to class with questions. While I would definitely prefer the normal structure of teaching, the flipped-classroom implementation was not as bad as anticipated as northwestern's 213 class is essentially CMU's 213 class save a few lectures. 
+
+
+The material itself is super interesting as well. You finally get to see how something like the stack and heap work and even create your own parallel program. If you're someone who has an urge to understand what is going on behind the scenes and loves to break down abstractions, then you'll definitely enjoy this class. 
+
+
+Finally, the labs are all really fun (although they take quite a large amount of your time.)
+didn't really like how the class was set up as a flipped classroom. I didn't;t really feel like I gained that much from lecture
+Material is very technical and sometimes hard to understand if you don't have a background, but tests and labs aren't too bad. Don't be scared to ask questions!
+This class may appear daunting, but you come out the other side with a remarkable depth and breadth of knowledge about modern systems considering that this is a single-quarter introductory course. The labs are a lot of fun, and while the book can be dense at times the subject matter is incredibly cool.
+The class is really interactive. Prof. Dinda tries his best to make students participate in the class. However, I think it would be helpful to have straight forward lecture on the materials since they are really hard for students to understand in a systematic way without clear guideline.
+Required course. Don't pair with other hard courses.
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        0        0.0%
+Communication        0        0.0%
+Graduate School        0        0.0%
+KGSM        0        0.0%
+McCormick        7        36.8%
+Medill        1        5.3%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        11        57.9%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        3        15.8%
+Sophomore        11        57.9%
+Junior        5        26.3%
+Senior        0        0.0%
+Graduate        0        0.0%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        0        0.0%
+Major/Minor requirement        18        94.7%
+Elective requirement        1        5.3%
+No requirement        0        0.0%
+Other requirement        0        0.0%
+Respondent(s)        19        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        0        0.0%
+2        1        5.3%
+3        5        26.3%
+4        3        15.8%
+5        8        42.1%
+6-Extremely interested        2        10.5%
+
+
+
+
+ Northwestern
+Student Report for EECS_213-0_20: Intro to Computer Systems (Vincent St Amour)
+Course and Teacher Evaluations CTEC Fall 2017
+Project Audience 84
+Responses Received 58
+Response Ratio 69.0%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction, republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Thu, Jan 25, 2018
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        58
+Mean        4.83
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        58
+Mean        3.81
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        58
+Mean        4.86
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        58
+Mean        5.45
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        58
+Mean        4.33
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        1        1.8%
+4 - 7        6        10.5%
+8 - 11        11        19.3%
+12 - 15        23        40.4%
+16 - 19        7        12.3%
+20 or more        9        15.8%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+This is a very interesting class. You cover so much material, and I learned a lot about computers that I had always wanted to know. The knowledge you gain is also useful for applying to programming in general. Homework's are reasonably easy, but labs are quite difficult, so start early. Malloc lab is definitely very time consuming, but you actually learn a lot from them and they are pretty interesting in retrospect. There are 4 homework's and 4 labs, plus a midterm and a final. Nikos and Vincent are really good lecturers.
+This class is impossible. If you can get out of it, get out. No matter how much effort you put it, you'll probably just scrape by. There are only 5 hours of office hours and they're at incredibly inconvenient times. You're not prepped enough to do most of the labs and the professors are not very forgiving.
+213 is a very interesting class, but it's taught very poorly. The class is taken from Carnegie Mellon, including the lab assignments, so you can find all the answers online. While the labs are fun and interesting, they are also incredibly difficult, prompting people to use online resources. The topics learned in lecture are sometimes irrelevant to the hws and don't show up on exams. There is an expectation that you know C very well and the professors don't do a great job of explaining code in C because they assume everyone already knows it
+God
+It's very difficult and requires very good time management to pull through.
+This course is hard. Expect to not do super well unless you put in effort to understand the course material. It is important to go to lecture, but even then it is likely you won't understand everything that is going on unless you do the readings. It is also cumulative as the course goes on, so if you do not understand a concept it is important to try to figure it out before the next class. There are TA office hours every day i believe, so it shouldn't be too hard to find the help you need.
+This class is hard. Harder than many 300 level classes. The profs weren't amazing but are the best of the 213 instructors. Having taken and dropped this class the year before, it was much better the second time around, due to better instructors and coming in ready to treat it as my hardest class. Go to class, take notes, make sure you deeply understand all the material. Also, the last lab (malloc) is the single hardest assignment I've faced yet in college. My partner and I started a week and a half early, spent over 40 hours on it, and still turned it in half done. This is a necessary class, but be prepared for it.
+While the content of this course was not unreasonably difficult, the labs were definitely the hardest part of the class. The homeworks reflected the content of the course more so than the labs did and were a better indicator of the content of exams. The midterm was extremely difficult but the professors made it up by making the final easier. Definitely get an early start on the labs and homeworks and take advantage of office hours!
+This class was very difficult and hard to keep pace with. The lectures were very dry and the assignments are difficult.
+I think there is a lot of important material covered in this course and I learned a lot about the bridge between hardware and software and how to use this information to be a better programmer. However, this course has TOO much material squished into one quarter. I think the course needs to be split between two quarters so students really understand the material and have more time for it to click. The labs are also too difficult. Also, this course is just a copy of the CMU course which is frustrating. It is hard to want to attend lecture when you can just watch the equivalent original CMU lectures. It's also hard to respect the teachers and assignments when they just copy from CMU. It also makes people more likely to cheat on the assignments.
+The class was quite difficult at times, but is necessary in preparation for classes to come.
+Start the labs early and do weekly readings.
+I'm not sure how useful this class will be to most people, but it's very hard and not very well taught. Things that come up in class don't always appear in the homework, but do show up on the midterm (haven't taken the final yet, it's gonna be cheeks). Reading the book before class might help if the book weren't made by the same people we steal the curriculum from. The slides and the book are confusing. @profs make sure your TAs know what they're doing so they don't confuse other students
+I am so disappointed in this class. Peer mentor office hours were only offered Monday - Friday from 11-12 and another hour on Friday. I had to deliberately skip my other classes in order to make office hours because the homework and labs were tough. There should have been more peer mentor office hours offered maybe in the evenings.
+This class is very difficult. I highly recommend reading the book before each lecture if you want to do well. Labs and homework are both challenging, and it is very important that you go to office hours when you have questions.
+Obviously a very very difficult class, but the concepts are interesting enough to make the homeworks bearable.
+For me, lecture for this course was brutally boring. I thought that the labs and content were actually pretty interesting, but it was hard for me to see how things in lecture were relevant until after I had completed the lab for that section.
+Lectures are fast and it's easy to fall behind (although I will say St. Amour is a cool guy and good lecturer), use CMU's 15⼘-213 videos if you fall behind. I'll even link them here for you: http://www.cs.cmu.edu/~213/schedule.html Labs take a long time, so make sure to start early (especially malloc lab). Please please please for the love of Linux find a good partner, ditch your current partner if you have to for another one early on if they underperform, or you will forever suffer like me, have to carry hard through the later harder half, and to do 2x 8-11 hours of work per week while your partner rides on you like a space shuttle on a 747. Class is frustrating sometimes, you'll feel like you're drowning in work and don't know anything, but keep up on CMU's lectures, go to OH if needed (only the TAs who are most helpful, they vary in quality), and you'll make it, I promise.
+*Disclaimer: I am not a systems person and found the course material rather dry. So take this CTEC with a large grain of salt.* In terms of assignments: this class was freaking HARD. This is straight-up the most difficult class I have ever taken at this school, graduate math classes included! The bomb and malloc labs are pure evil. That said: the teachers were amazing. They both understand the field deeply, doing a great job of pointing out overarching themes and interesting historical context. Their lecture slides were very helpful and carried me through the class. Nikos' voice is also musical and pleasant to listen to; it helps me not fall asleep in class. Heh.
+This class is so freaking hard. Seriously, it will kick your butt. The labs easily take 25+ hours a week and alot of times, we had homework assignments on top of that so it didn't make it any easier. The lectures put me to sleep and I normally don't ever come close to falling asleep in class. Often, I would actually get out of class and go take a nap because of how exhausted I was from trying to learn the material.
+Weed out course for cs majors. It's tough and a lot of time and might not seem worth it, but you learn a lot.
+Terrible course. Sadly, a requirement for CS. Keep reading for a rant. This course is taught SO badly. First off, I'm a sophomore CS major, and I was completely out of my depth. Not only that, the instructors literally get the slides from Carnegie-Mellon and proceed to quickly read off of them while explaining very little or assuming we already know what the heck any of this even means. There was no proper explanation of any concept, including the labs, which were downright impossible to complete. TA's had very minimal office hours (1 hour per day, during which I wasn't available) and Nikos made it very difficult to ask questions in class, due to his condescending attitude and tone. I struggled immensely in this course, and our averages were awful. I don't know why this course hasn't been redone yet. It's terribly designed and leaves me feeling that I'm not even qualified to do any work relating to assembly, caches, etc. I wish the instructors cared about our success, but from what I've observed, they really don't.
+This class is hard. The amount of information you're required to learn could easily be spread into 2 quarters. Probably half of my class dropped after the midterm. If you're taking this class, expect to work hard. By far the hardest CS core class.
+I learned a tremendous amount in this class. This class is content-packed and it seemed almost impossible to cover so much content in only 10 weeks, but we did anyways. I think the most important thing to note about the class is that it mimicks the original class from CMU. The slides are a derivative from CMU as well as the tests, homeworks, and labs. As a result, there was plenty of online content to learn from if in-class lectures were not enough. In fact, CMU's own online video-taped lectures was one of the most important resources in this class and worth looking at. There are only 2 classes a week and each 1hr20mins. Thus, most of the learning responsibility is definitely on the student's side. The two lectures are NOT enough to cover all the material and it is extremely important to read ahead and learn. In my opinion, if it were not for the online content for 213, my learning experience would have been very different and I perhaps would have had negative opinions about this class.
+It's the hardest EECS class I've ever taken, but it's some pretty interesting stuff. It gets less appealing as it goes on, though.
+Avoid this class at all costs! Extremely difficult and while you learn a lot, the skills are so specific that they aren't really that useful. 4 labs that are really tough, 4 homeworks that are okay, and 2 exams that are impossible. Be sure to start assignments early and go to office hours whenever you can.
+This course is a very material-heavy approach to system-level CS. It gives you a good knowledge of x86 assembly language and of low-level operations that you don't necessarily think about programming with a higher-level language. There is also a good amount of information and a lab involving low-level security exploits, which was very interesting.
+it was hard
+This class is not as bad as people may make it seem. Nikos and Vincent are great professors and as long as you go to class, you'll do fine. The readings go hand in hand with the lectures so if you cant make a lecture or you want to get ahead, the book is right there. Homeworks aren't bad and help you learn but labs are sometimes really long and not very productive
+Without a doubt, the hardest class I have ever taken in my life, which is fitting because 213 is supposed to be one of the hardest classes you take as a CS major. This class is definitely a weed-out class and was taken from Carnegie Mellon, where it is their weed-out class as well. This class is actually so infamous that I mentioned it to an older relative who is in tech and had never gone to college and he knew of the class and how hard it was just through word of mouth. Moving forward to how this section was specifically taught, I did not like the instruction. The content covered in the class is pretty difficult and there is a lot covered. The lectures were not very clear and were too monotone and lifeless so as to make it hard to focus. Nicos wasn't terrible at explaining things but not great either. As a professor, he does not seem to care that much about his students, helping them, and doesn't really respond to student's concerns about the class in general. I generally would not recommend him as a professor for this reason. Outside of class, it didn't feel like we really had many resources for help. There were a handful of TAs that were amazing and that I owe my grade to but most of the other TAs didn't really know the content well and/or didn't really try that hard to help students. The classwork consists of homework and labs that switch off every other week. The homework is kind of hard but can be accomplished if you really understand the material and/or go to office hours; the labs, not so much. The labs are incredibly hard and the only way I got through them was by putting an incredible amount of time into them and by working together with everyone I know and help from TAs when I could; even then, I am not sure how I finished. The exams are usually pretty brutal; the average on the first exam before an unplanned curve was applied was in the 40s. The second exam wasn't as bad but was only easier in response to how poorly everyone did on the first one. Overall, this class is pretty brutal and does not have any mercy. I would not recommend taking it if you don't have to.
+This course covered a lot of material really really fast. The professor was never able to finish all of the lecture and constantly went over time. Every lecture was a new topic, so it was really easy to fall behind. Homework involves: 4 homework assignments (problems about the content learned, not really much coding involved, involves looks at code) and 4 labs (the actually coding part). The labs took a really long time and although they were about the topics we learned in class, it was hard to use the information we learned in class to work on the labs. The TAs weren't really helpful on labs. They were pretty helpful on homework. The tests are open book but that won't really help you, just learn the material really well. All homework assignments are done in pairs, so getting a good partner is important.
+This class requires a ton of time and is very poorly taught but it is interesting nonetheless.
+THIS IS SO HARD. Unfortunately you have to take it for a CS major/minor. Some of the homeworks and labs are notoriously hard and the exams can be quite confusing. I was very lost. I still learnt a lot. But there was a lot more stuff that I just never quite understood.
+I think this course showed a misunderstanding of how students best learn and how much time certain assignments will take. Malloc lab was a huge amount of work and I felt like I was only learning for the first 5 hours I put into it and the next 30 hours I put into it were just fixing seg faults.
+The professors are great and really know what they're talking about. Overall, the course material is super interesting, if sometimes a little hard to grasp. Professor office hours really helped me get a handle on the material, so don't forget to make use of them. That being said, this course is HARD. Homework can take a lot of time if you don't understand it and labs can take 15+ hours each. Take notes during lectures, do the reading (The textbook is really good and easy to understand), go to office hours, and start labs and homeworks as soon as they're assigned. Really cool course, a LOT of work.
+The professors are pretty bad at making tests that are feasible to finish in the allotted time period. Additionally, the course material itself is just slides that are almost verbatim content from the book.
+This is a VERY difficult and time-consuming class, do not take it with other hard classes like 212. However, Profs. Hardavellas and St. Amour are really good teachers.
+This class is really hard. The test is really hard and most people do very badly. The labs take a ton of time and don't feel like they're as applicable as the homeworks do. Make sure you keep up on the course work and start early on the labs!!
+Everything comes from CMU. Don't bother going to class. Just watch CMU online lectures and you'll be 10x better off than going to class.
+Pretty tough class, but definitely interesting. There is so much sheer material covered that it can get a little overwhelming. But, if you go to class, ask for help often, and start the labs early, you will be fine.
+This was an extremely hard class, exams were very theoretical, and more than that, labs were very challenging. Homework was fairly hard but doable. Definitely find a partner you can work with and this class will be much less difficult. It is important to work alot with your partner and start early on most assignments because this is a very difficult class.
+The class is difficult, attending lectures and office hours will help you out a lot. There are no curves, so don't come in expecting one just because the course is difficult. Despite all of that, it was still very fun, and a learned a whole of stuff during the course.
+This course is very difficult and is probably the most difficult of the core requirements for CS. Be prepared to put in a lot of time on the 4 lab assignments and spend a good amount of time outside of lecture learning the material. There is no curve in this class, but they adjust the grade ranges down. If you do a good job on the homeworks and labs, but struggle on the tests (like I did) you should be able to get a B+˺-.
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        0        0.0%
+Communication        2        3.6%
+Graduate School        0        0.0%
+KGSM        0        0.0%
+McCormick        38        69.1%
+Medill        1        1.8%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        14        25.5%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        0        0.0%
+Sophomore        42        73.7%
+Junior        15        26.3%
+Senior        0        0.0%
+Graduate        0        0.0%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        2        3.4%
+Major/Minor requirement        54        91.5%
+Elective requirement        3        5.1%
+No requirement        0        0.0%
+Other requirement        0        0.0%
+Respondent(s)        57        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        1        1.8%
+2        8        14.0%
+3        19        33.3%
+4        16        28.1%
+5        10        17.5%
+6-Extremely interested        3        5.3%
+
+
+
+
+ Northwestern
+Student Report for EECS_213-0_20: Intro to Computer Systems (Nikolaos Hardavellas)
+Course and Teacher Evaluations CTEC Fall 2017
+Project Audience 84
+Responses Received 58
+Response Ratio 69.0%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction, republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Thu, Jan 25, 2018
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        58
+Mean        4.26
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        58
+Mean        3.81
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        58
+Mean        4.86
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        58
+Mean        5.45
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        58
+Mean        3.71
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        1        1.8%
+4 - 7        6        10.5%
+8 - 11        11        19.3%
+12 - 15        23        40.4%
+16 - 19        7        12.3%
+20 or more        9        15.8%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+Terrible course. Sadly, a requirement for CS. Keep reading for a rant. This course is taught SO badly. First off, I'm a sophomore CS major, and I was completely out of my depth. Not only that, the instructors literally get the slides from Carnegie-Mellon and proceed to quickly read off of them while explaining very little or assuming we already know what the heck any of this even means. There was no proper explanation of any concept, including the labs, which were downright impossible to complete. TA's had very minimal office hours (1 hour per day, during which I wasn't available) and Nikos made it very difficult to ask questions in class, due to his condescending attitude and tone. I struggled immensely in this course, and our averages were awful. I don't know why this course hasn't been redone yet. It's terribly designed and leaves me feeling that I'm not even qualified to do any work relating to assembly, caches, etc. I wish the instructors cared about our success, but from what I've observed, they really don't.
+This class is hard. The amount of information you're required to learn could easily be spread into 2 quarters. Probably half of my class dropped after the midterm. If you're taking this class, expect to work hard. By far the hardest CS core class.
+For me, lecture for this course was brutally boring. I thought that the labs and content were actually pretty interesting, but it was hard for me to see how things in lecture were relevant until after I had completed the lab for that section.
+213 is a very interesting class, but it's taught very poorly. The class is taken from Carnegie Mellon, including the lab assignments, so you can find all the answers online. While the labs are fun and interesting, they are also incredibly difficult, prompting people to use online resources. The topics learned in lecture are sometimes irrelevant to the hws and don't show up on exams. There is an expectation that you know C very well and the professors don't do a great job of explaining code in C because they assume everyone already knows it
+Avoid this class at all costs! Extremely difficult and while you learn a lot, the skills are so specific that they aren't really that useful. 4 labs that are really tough, 4 homeworks that are okay, and 2 exams that are impossible. Be sure to start assignments early and go to office hours whenever you can.
+it was hard
+THIS IS SO HARD. Unfortunately you have to take it for a CS major/minor. Some of the homeworks and labs are notoriously hard and the exams can be quite confusing. I was very lost. I still learnt a lot. But there was a lot more stuff that I just never quite understood.
+The professors are great and really know what they're talking about. Overall, the course material is super interesting, if sometimes a little hard to grasp. Professor office hours really helped me get a handle on the material, so don't forget to make use of them. That being said, this course is HARD. Homework can take a lot of time if you don't understand it and labs can take 15+ hours each. Take notes during lectures, do the reading (The textbook is really good and easy to understand), go to office hours, and start labs and homeworks as soon as they're assigned. Really cool course, a LOT of work.
+This class was very difficult and hard to keep pace with. The lectures were very dry and the assignments are difficult.
+Start the labs early and do weekly readings.
+This class is impossible. If you can get out of it, get out. No matter how much effort you put it, you'll probably just scrape by. There are only 5 hours of office hours and they're at incredibly inconvenient times. You're not prepped enough to do most of the labs and the professors are not very forgiving.
+This course is hard. Expect to not do super well unless you put in effort to understand the course material. It is important to go to lecture, but even then it is likely you won't understand everything that is going on unless you do the readings. It is also cumulative as the course goes on, so if you do not understand a concept it is important to try to figure it out before the next class. There are TA office hours every day i believe, so it shouldn't be too hard to find the help you need.
+*Disclaimer: I am not a systems person and found the course material rather dry. So take this CTEC with a large grain of salt.* In terms of assignments: this class was freaking HARD. This is straight-up the most difficult class I have ever taken at this school, graduate math classes included! The bomb and malloc labs are pure evil. That said: the teachers were amazing. They both understand the field deeply, doing a great job of pointing out overarching themes and interesting historical context. Their lecture slides were very helpful and carried me through the class. Nikos' voice is also musical and pleasant to listen to; it helps me not fall asleep in class. Heh.
+This class is so freaking hard. Seriously, it will kick your butt. The labs easily take 25+ hours a week and alot of times, we had homework assignments on top of that so it didn't make it any easier. The lectures put me to sleep and I normally don't ever come close to falling asleep in class. Often, I would actually get out of class and go take a nap because of how exhausted I was from trying to learn the material.
+Pretty tough class, but definitely interesting. There is so much sheer material covered that it can get a little overwhelming. But, if you go to class, ask for help often, and start the labs early, you will be fine.
+Without a doubt, the hardest class I have ever taken in my life, which is fitting because 213 is supposed to be one of the hardest classes you take as a CS major. This class is definitely a weed-out class and was taken from Carnegie Mellon, where it is their weed-out class as well. This class is actually so infamous that I mentioned it to an older relative who is in tech and had never gone to college and he knew of the class and how hard it was just through word of mouth. Moving forward to how this section was specifically taught, I did not like the instruction. The content covered in the class is pretty difficult and there is a lot covered. The lectures were not very clear and were too monotone and lifeless so as to make it hard to focus. Nicos wasn't terrible at explaining things but not great either. As a professor, he does not seem to care that much about his students, helping them, and doesn't really respond to student's concerns about the class in general. I generally would not recommend him as a professor for this reason. Outside of class, it didn't feel like we really had many resources for help. There were a handful of TAs that were amazing and that I owe my grade to but most of the other TAs didn't really know the content well and/or didn't really try that hard to help students. The classwork consists of homework and labs that switch off every other week. The homework is kind of hard but can be accomplished if you really understand the material and/or go to office hours; the labs, not so much. The labs are incredibly hard and the only way I got through them was by putting an incredible amount of time into them and by working together with everyone I know and help from TAs when I could; even then, I am not sure how I finished. The exams are usually pretty brutal; the average on the first exam before an unplanned curve was applied was in the 40s. The second exam wasn't as bad but was only easier in response to how poorly everyone did on the first one. Overall, this class is pretty brutal and does not have any mercy. I would not recommend taking it if you don't have to.
+Lectures are fast and it's easy to fall behind (although I will say St. Amour is a cool guy and good lecturer), use CMU's 15⼘-213 videos if you fall behind. I'll even link them here for you: http://www.cs.cmu.edu/~213/schedule.html Labs take a long time, so make sure to start early (especially malloc lab). Please please please for the love of Linux find a good partner, ditch your current partner if you have to for another one early on if they underperform, or you will forever suffer like me, have to carry hard through the later harder half, and to do 2x 8-11 hours of work per week while your partner rides on you like a space shuttle on a 747. Class is frustrating sometimes, you'll feel like you're drowning in work and don't know anything, but keep up on CMU's lectures, go to OH if needed (only the TAs who are most helpful, they vary in quality), and you'll make it, I promise.
+This was an extremely hard class, exams were very theoretical, and more than that, labs were very challenging. Homework was fairly hard but doable. Definitely find a partner you can work with and this class will be much less difficult. It is important to work alot with your partner and start early on most assignments because this is a very difficult class.
+This class requires a ton of time and is very poorly taught but it is interesting nonetheless.
+This course covered a lot of material really really fast. The professor was never able to finish all of the lecture and constantly went over time. Every lecture was a new topic, so it was really easy to fall behind. Homework involves: 4 homework assignments (problems about the content learned, not really much coding involved, involves looks at code) and 4 labs (the actually coding part). The labs took a really long time and although they were about the topics we learned in class, it was hard to use the information we learned in class to work on the labs. The TAs weren't really helpful on labs. They were pretty helpful on homework. The tests are open book but that won't really help you, just learn the material really well. All homework assignments are done in pairs, so getting a good partner is important.
+I'm not sure how useful this class will be to most people, but it's very hard and not very well taught. Things that come up in class don't always appear in the homework, but do show up on the midterm (haven't taken the final yet, it's gonna be cheeks). Reading the book before class might help if the book weren't made by the same people we steal the curriculum from. The slides and the book are confusing. @profs make sure your TAs know what they're doing so they don't confuse other students
+This is a VERY difficult and time-consuming class, do not take it with other hard classes like 212. However, Profs. Hardavellas and St. Amour are really good teachers.
+This class is really hard. The test is really hard and most people do very badly. The labs take a ton of time and don't feel like they're as applicable as the homeworks do. Make sure you keep up on the course work and start early on the labs!!
+It's the hardest EECS class I've ever taken, but it's some pretty interesting stuff. It gets less appealing as it goes on, though.
+This class is very difficult. I highly recommend reading the book before each lecture if you want to do well. Labs and homework are both challenging, and it is very important that you go to office hours when you have questions.
+I think this course showed a misunderstanding of how students best learn and how much time certain assignments will take. Malloc lab was a huge amount of work and I felt like I was only learning for the first 5 hours I put into it and the next 30 hours I put into it were just fixing seg faults.
+Everything comes from CMU. Don't bother going to class. Just watch CMU online lectures and you'll be 10x better off than going to class.
+The class is difficult, attending lectures and office hours will help you out a lot. There are no curves, so don't come in expecting one just because the course is difficult. Despite all of that, it was still very fun, and a learned a whole of stuff during the course.
+Obviously a very very difficult class, but the concepts are interesting enough to make the homeworks bearable.
+This is a very interesting class. You cover so much material, and I learned a lot about computers that I had always wanted to know. The knowledge you gain is also useful for applying to programming in general. Homework's are reasonably easy, but labs are quite difficult, so start early. Malloc lab is definitely very time consuming, but you actually learn a lot from them and they are pretty interesting in retrospect. There are 4 homework's and 4 labs, plus a midterm and a final. Nikos and Vincent are really good lecturers.
+I learned a tremendous amount in this class. This class is content-packed and it seemed almost impossible to cover so much content in only 10 weeks, but we did anyways. I think the most important thing to note about the class is that it mimicks the original class from CMU. The slides are a derivative from CMU as well as the tests, homeworks, and labs. As a result, there was plenty of online content to learn from if in-class lectures were not enough. In fact, CMU's own online video-taped lectures was one of the most important resources in this class and worth looking at. There are only 2 classes a week and each 1hr20mins. Thus, most of the learning responsibility is definitely on the student's side. The two lectures are NOT enough to cover all the material and it is extremely important to read ahead and learn. In my opinion, if it were not for the online content for 213, my learning experience would have been very different and I perhaps would have had negative opinions about this class.
+Weed out course for cs majors. It's tough and a lot of time and might not seem worth it, but you learn a lot.
+While the content of this course was not unreasonably difficult, the labs were definitely the hardest part of the class. The homeworks reflected the content of the course more so than the labs did and were a better indicator of the content of exams. The midterm was extremely difficult but the professors made it up by making the final easier. Definitely get an early start on the labs and homeworks and take advantage of office hours!
+This course is very difficult and is probably the most difficult of the core requirements for CS. Be prepared to put in a lot of time on the 4 lab assignments and spend a good amount of time outside of lecture learning the material. There is no curve in this class, but they adjust the grade ranges down. If you do a good job on the homeworks and labs, but struggle on the tests (like I did) you should be able to get a B+˺-.
+The class was quite difficult at times, but is necessary in preparation for classes to come.
+The professors are pretty bad at making tests that are feasible to finish in the allotted time period. Additionally, the course material itself is just slides that are almost verbatim content from the book.
+I think there is a lot of important material covered in this course and I learned a lot about the bridge between hardware and software and how to use this information to be a better programmer. However, this course has TOO much material squished into one quarter. I think the course needs to be split between two quarters so students really understand the material and have more time for it to click. The labs are also too difficult. Also, this course is just a copy of the CMU course which is frustrating. It is hard to want to attend lecture when you can just watch the equivalent original CMU lectures. It's also hard to respect the teachers and assignments when they just copy from CMU. It also makes people more likely to cheat on the assignments.
+I am so disappointed in this class. Peer mentor office hours were only offered Monday - Friday from 11-12 and another hour on Friday. I had to deliberately skip my other classes in order to make office hours because the homework and labs were tough. There should have been more peer mentor office hours offered maybe in the evenings.
+This class is hard. Harder than many 300 level classes. The profs weren't amazing but are the best of the 213 instructors. Having taken and dropped this class the year before, it was much better the second time around, due to better instructors and coming in ready to treat it as my hardest class. Go to class, take notes, make sure you deeply understand all the material. Also, the last lab (malloc) is the single hardest assignment I've faced yet in college. My partner and I started a week and a half early, spent over 40 hours on it, and still turned it in half done. This is a necessary class, but be prepared for it.
+God
+It's very difficult and requires very good time management to pull through.
+This class is not as bad as people may make it seem. Nikos and Vincent are great professors and as long as you go to class, you'll do fine. The readings go hand in hand with the lectures so if you cant make a lecture or you want to get ahead, the book is right there. Homeworks aren't bad and help you learn but labs are sometimes really long and not very productive
+This course is a very material-heavy approach to system-level CS. It gives you a good knowledge of x86 assembly language and of low-level operations that you don't necessarily think about programming with a higher-level language. There is also a good amount of information and a lab involving low-level security exploits, which was very interesting.
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        0        0.0%
+Communication        2        3.6%
+Graduate School        0        0.0%
+KGSM        0        0.0%
+McCormick        38        69.1%
+Medill        1        1.8%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        14        25.5%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        0        0.0%
+Sophomore        42        73.7%
+Junior        15        26.3%
+Senior        0        0.0%
+Graduate        0        0.0%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        2        3.4%
+Major/Minor requirement        54        91.5%
+Elective requirement        3        5.1%
+No requirement        0        0.0%
+Other requirement        0        0.0%
+Respondent(s)        57        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        1        1.8%
+2        8        14.0%
+3        19        33.3%
+4        16        28.1%
+5        10        17.5%
+6-Extremely interested        3        5.3%
+
+
+
+
+ Northwestern
+Student Report for Vincent St Amour ( EECS_213-0_1: Intro to Computer Systems)
+Course and Teacher Evaluations CTEC Winter 2018
+Project Audience 91
+Responses Received 73
+Response Ratio 80.2%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction, republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Fri, Apr 13, 2018
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        72
+Mean        5.24
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        72
+Mean        4.61
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        72
+Mean        5.35
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        72
+Mean        5.65
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        71
+Mean        4.96
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        2        2.7%
+4 - 7        8        11.0%
+8 - 11        21        28.8%
+12 - 15        27        37.0%
+16 - 19        8        11.0%
+20 or more        7        9.6%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+Very good at stoking interest in CS Systems without drowning you.
+This is the hardest course I have ever taken at Northwestern, but the content is fascinating. Prepare to spend lots of time on it, and make sure you have a great partner, or else you'll end up doing the labs by yourself.
+It was frustrating as I felt like I had to self-teach myself a lot about coding in the unix environment and other topics, as we were just expected to know how to use them for the labs.
+Vincent is a great lecturer. The class was really hard, but he did a great job explaining difficult concepts.
+you mostly learn on your own through CMU lectures, lectures during class don't help. you learn mostly from doing the homework as well. very large time commitment due to both homework and labs
+I very much enjoyed the course, although the workload can be challenging.
+This course was difficult but really satisfying. Vincent is great professor. He is super friendly and really ants his students to do well and understand. He is very good at explaining content and answering questions.
+This course is a grind but I honestly enjoyed it even as someone who isn't super interested in systems long term. Vincent is an excellent lecturer and genuinely caring individual--take this course with him if you have the opportunity! The malloc lab (Lab 4) is a lot, but as with all the work in this class, if you stay on top of the material, get an early start, work incrementally, and GO TO TA OFFICE HOURS throughout the week you will be okay.
+The labs are quite challenging but extremely satisfying once you figure them out! I was very glad to be working with a partner for the homework. This class is definitely hard but exams are open book/notes so if you take good notes/know where material is in the textbook, it isn't too bad.
+Vincent is the best! Take any course with him if possible!!!
+Very difficult course but learn a lot
+This is a HARD CLASS. There is a learning curve (especially if you've never taken a systems course before) so don't fall behind in the beginning of the quarter. Once you get through those first few weeks, things starts to connect and the course becomes much more easier to grasp... And then it gets hard again. So basically, just keep on top of your work. Having a partner is great, and although the Peer Mentors aren't always super helpful, Vincent is always welcoming to questions and office hours.
+This class was incredible. It was extremely difficult but also very interesting. The material is hard to grasp at first but lectures, homework, and labs really ensure a good understanding. Plus the labs were really fun!
+This class is pretty much copied from Carnagie Mellon's CS 213 class. Those notes and lectures help a lot too. St Amour cares about his students which is surprising. TAs don't have enough office hours for you have effective attention and help.
+here's the thing. this course is everything you've heard about it: time consuming, life sucking, awful, difficult. but it's also really cool and interesting if you're honest with yourself. really read the textbook (i realized that i would've had an A if i had while studying for the final); start homework early, use https://www.cs.cmu.edu⾯s˼s�mic˼lass�-s17/www/schedule.html for lectures if your teacher is bad at lecturing cuz they use the exact same slides. TA's often had no idea what they were talking about or didn't help, so you really gotta teach yourself, but it's worth it if you do.
+This class is hard and requires a lot of work but if you dedicate the time its not impossible.
+Hard class, takes a lot of work, sort of different from "normal" CS courses in that you have paper/pencil problem sets. But it's very rewarding!
+oh man. although i think this is a difficult course, it should be OK if you actually come to class and start the assignments early (its no lie, starting them earlly saves u lots of stress). homeworks were easy/medium difficulty but the labs were really tough. what i didnt like was some of the TAs just flat out could not answer questions or explain the concepts, which made the two hours of office hours per day (both at inconvenient times-by the way) sorta useless. the professor spoke a lot about concepts but didnt spend too much time on real examples, which was a shame, but the book has similar questions and solutions you can go off of. FIND A GOOD PARTNER as you two will be spending LOTS of time together. vincent was a good instrucor and lecturer, but i felt like he didnt do enough when i came to him for help. youre gonna have to do a lot of thinking, so be ready. not a class you should take just for fun (unless you dream in assembly code, in which case you probably will take the class regardless of the ctecs). but i didnt think it was as scary as everyone said, as long as you put in your best effort. good luck !!
+This class is just a word for word rip from CMU’s online lecture and book. Lectures are merely slides with almost no input from the professor. Questions get pushed off until later in the course. If you don’t have a good group, you’re done. Group work should have less emphasis.
+I always hard a hard time paying attention to Vincent, but he's a very kind professor.
+too hard
+Vincent is a really good professor and really cares about his students. The course requires a lot of time and effort and can be very challenging. It's also a partner course so make sure you know someone going in that will be willing to put in the work.
+This course can be very tough if you start lose track. And labs take tremendous amount of time.
+The labs are a handful, but all very doable except the malloc lab, to be honest I couldnt go beyond what the book described and I had spent 16+ hours on it. The homeworks are very helpful in my understanding of the course and made great guides for preparing for midterms˿inals. The exams were fair
+213 is VERY HARD. Expect to spend a lot of time on labs and homeworks. The best advice is starting early. That being said, Vincent is one of the most understanding and nice professors ever. 213 is going to be miserable no matter what but I really recommend taking it with Vincent as he's just a great guy who wants his students to do well. The exams are really hard!
+This is difficult, but the professor was good and the exams were fair.
+Hardest CS class for sure, but Vincent was always really helpful. Lectures were interesting and the labs were actually fun once you get the hang of it.
+It was a great class and St Vincent taught it great
+If you are taking Intro to Computer Systems, you are likely not too far into the CS courses at Northwestern. This will be one of your first real challenges. The content is complex and abundant, but it's also interesting. Grading is brutal, but fair. It's just one of those courses that you will have to put an absurd amount of time into in order to succeed, but you can succeed. 
+
+
+I would highly recommend taking this course alongside less demanding courses and directly after EESC 211: Fundamentals of Computer Programming II. You will use C which is similar to C++ but with all of the convenient stuff taken out. You'll want C++ fresh in your mind for some of the more challenging labs.
+
+
+Speaking of labs, this course has one that will take no prisoners: malloc. It is the last lab for this course, and by far the hardest. I'm warning you now. Start early.
+This course was the most challenging course I've taken at Northwestern, but it's also very rewarding. I felt like I learned a ton of useful skills. But, it's definitely a class that requires a lot of time during to week to be set apart for it.
+Hard course, but honestly great. Wasn't even super interested in systems beforehand either. St. Amour is a great professor capable of very good explanations. In addition, this class is taught at like every college, so there are endless other lecture materials if you're struggling (including video lectures from CMU). HW assignments take a while but aren't impossible, same for labs. This class isn't super difficult (as was 212), it just requires a lot of time input to get good results.
+The course is pretty rough - homework assignments, labs, and tests all in one class. I wish the course did not have tests as the programming assignments should prove that we know the concepts
+Vincent is great, would recommend taking it with him! He genuinely cares about all of his students and is a super nice guy, plus he knows his stuff for sure! That said, 213 is gonna kick your ass so get ready. I took this alongside 3 other CS courses and I would probably not recommend doing that! The material is interesting and a good intro to this stuff. Make sure you get a reliable partner and get ready to work your butt off. Also, if you want to come into this class with a head start on Assembly language take EECS 205 with Russ!
+Very fun and interesting.
+Vincent is a good professor and a great guy. However, this class is a ton of work. I knew a bunch of people who have taken this class previously, and from what I can deduce, every quarter this class gets even more and more work. Also, malloc lab was easily the hardest assignment in this class. Many of the TA's were not very helpful because they had not done malloc lab when they took the class. I wish we had had more instruction and guidance on malloc. I felt like I was thrown in the deep end.
+Vincent is such a great professor! I was really dreading this class because everyone I know who's taken it has told me how difficult and time-consuming it is, but Vincent made the class very engaging. I was genuinely interested in the material, so I would highly recommend taking this class with Vincent.
+Extremely challenging course but extremely rewarding at the same time. This class will push you so hard and you'll spend about six-eight hours most weeks working on the homeworks and the labs, but you come out of it with a much better understanding of how computers work and what the code you write does under the hood. I understand why it's a major requirement, and it should be. Vincent is an outstanding professor and Iɽ highly highly highly recommend taking this course with him.
+Make sure you keep up on the homework and lab assignments, doing them as far in advanced as possible is the best option. Readings can be helpful, but resources online can be just as helpful and take less time. Vincent was a good teacher and explained concepts well in lectures but you need to make sure you're paying attention and understanding the material because it will build on itself throughout the quarter and not understanding some of the information may block your further understanding as well
+The class is death. You will learn a lot, or fail. This teacher taught it well, but the class will still be death.
+This is a tough class! Take it with Vincent though, he is a great lecturer. Make sure you have a partner that will contribute. Start labs early.
+This class is as bad as everyone says it is. Exams are open note, but it honestly doesn't really help that much. Start labs and homework early, get a smart partner, and go to every office hour you can. Lecture really blows, but St-Amour has a lot of funny quirks so it's not terrible.
+Course was difficult
+This is a fantastic course, with a pretty awesome professor. But do not let that mislead you, this class is really hard. If you want an A or even an A-, you gotta grind this course out. There are 4 homework assignments, which are pretty tough (5% of your grade each). Then 4 labs, which are even tougher and take a while to complete (10% of your grade each). The labs are a huge pain and take a ton of time to do, so you HAVE to start early or you will fail them, and considering they're 10% of your grade each, you want to do well on them. Going to class is imperative. If you don't know you won't understand what's going on and won't be able to do any of the labs or the homeworks. You'll also most likely screw up the midterm. Luckily, the midterm and final are really homework based, so if you study those, read the book, and really understand the concepts you should be okay. They are 20% each. Really what you get out of this class is all based on how much you put in. If you don't go the lectures, don't read the book, and don't really try on the homeworks and labs, you will probably learn nothing and do pretty bad. Put in the time, start early on the homework and labs, and you'll be fine. Also, take this course with an easier class schedule. If you take with other tough CS classes, you will get screwed.
+The professor made very difficult concepts clearer and enjoyable to learn about.
+213 is unavoidably challenging, but Vincent is the man to take it with. He is a truly excellent, competent, and approachable teacher who doesn't just read off the slides (which are themselves great) but simplifies the material's complexity with his own explanations. It is a well-run course at every level, and we rarely went over time in lectures despite his patience in answering questions and clarifying ideas. The readings take a long time and the lectures are generally good enough on their own, but the textbook is exceptional as well. If you are a CS major, I think taking this with Vincent is a no-brainer. This was only his first time running 213 and I've no doubt he will only get better, already being one of the best professors I've had. If you're not required to take this class, I don't think it's an instant "no" as it might've been before. With Vincent it feels genuinely engaging and if you pay attention in lectures, there is no way you won't learn a ton about how computers actually work. The labs are no joke but can actually be fun if you don't wait until the last minute. In sum, Vincent is awesome and makes a tough course as enjoyable as could be expected. If you're willing to put in the work, this will probably be the most informative class about computers you've ever taken.
+This class is hard. Make sure that you have a strong understanding of the first half so that you do okay on the midterm and have more leeway for the final (where there is more material). The homeworks can take a while but going to office hours is always a good idea. Make sure to do well on the first 3 labs because Malloc is a pain!
+This course is hard but Vincent is an amazing teacher.
+The structure of the course is based on a course at CMU and I think it's very well done. The labs and homework assignments are very difficult but they prepare you well for the exams and they're very good at solidifying your understanding of the material.
+This course will be pretty challenging. Be sure to start early if possible and maintain that lead. After about half the quarter, the course will get pretty busy as each week is a lab or problem set. You will definitely learn a lot and that is dependent on how much you put into the course. The labs are pretty interesting, but office hours for this class can be a life saver. All in all, having the perspective of how programs work at the assembly level can give you quite the insight in your future classes.
+This class is hard, but overall the amount of work you put into it correlates with the grade you get (with the exception of the last lab, which honestly you can spend 30+ hours on and still not figure out, and the TAs and professor aren't very helpful for it at all).
+This course might have been one of the single hardest courses I have ever taken at Northwestern. That being said, after finishing the course I feel extremely accomplished and really feel like i have a grasp on computer systems and I actually liked the content we were learning. However, bomb lab and malloc will crush your soul (especially especially malloc wow) but you will feel awesome when you are done with them.
+This course is HARD. You will learn a lot, but you have to put the effort in if you want to do well. Start assignments as early as possible, don't put them off to the last minute. Vincent is a lovely person. He really cares about his students and wants them to do well.
+This course is very time consuming. Labs almost always take around 20 hours to complete, homeworks talks about 10-15. Office hours are helpful sometimes but often they are too crowded and debugging is inherently difficult to get help with. Vincent was a great lecturer and I am very glad I took this course with him! I ended up neglecting my other classes severely in order to complete the work for this one.
+It's the hardest core class of the CS major, but if you read the slides and do your homework you're literally fine
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        1        1.5%
+Communication        3        4.5%
+Graduate School        0        0.0%
+KGSM        0        0.0%
+McCormick        31        46.3%
+Medill        0        0.0%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        32        47.8%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        0        0.0%
+Sophomore        43        58.9%
+Junior        26        35.6%
+Senior        4        5.5%
+Graduate        0        0.0%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        0        0.0%
+Major/Minor requirement        72        98.6%
+Elective requirement        0        0.0%
+No requirement        1        1.4%
+Other requirement        0        0.0%
+Respondent(s)        73        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        4        5.5%
+2        12        16.4%
+3        14        19.2%
+4        22        30.1%
+5        16        21.9%
+6-Extremely interested        5        6.8%
+
+
+
+
+ Northwestern
+Student Report for Vincent St Amour ( EECS_213-0_20: Intro to Computer Systems)
+Course and Teacher Evaluations CTEC Spring 2018
+Project Audience 86
+Responses Received 58
+Response Ratio 67.4%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction, republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Fri, Jul 13, 2018
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        58
+Mean        5.34
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        58
+Mean        4.79
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        58
+Mean        5.53
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        57
+Mean        5.54
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        58
+Mean        5.00
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        0        0.0%
+4 - 7        7        12.1%
+8 - 11        28        48.3%
+12 - 15        17        29.3%
+16 - 19        5        8.6%
+20 or more        1        1.7%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+This class is time-consuming.
+The content is interesting but it's a lot and the labs are a lot of work too.
+This was a LOT easier than I expected. CTECS from previous quarters blew the difficulty of this class out of proportion. If you do poorly in this class, it probably means computer science isn't for you. Either you enjoy the work and spend the time to do complete it, or you're good at it and don't have to slave over it. Getting 100% on the labs which total to 40% of your grade is doable considering you just need to pass all the tests you are given.
+This class was crazy. It wasn't as hard as people say, but it wasn't easy.
+This course requires a lot of work but isn't that bad actually. Three out of four of the labs aren't too difficult. The homework can be pretty time-consuming I found but it's worth putting the time into since, at least when I took the class, the exams were a test of whether or not you did the work.
+Good class. A lot of content. Vincent is a great teacher. Don't listen to the horror stories because if you follow the steps you'll be absolutely fine. But prepare to sit down for a good number of hours for each lab and homework if you want to succeed or pass the class at all.
+Vincent is a god. I've never had Sara but Vincent is hands down the best CS prof I've had at Northwestern. Beyond the cheeky humor and funny anecdotes that he seamlessly works into lecture, he knows so much about the material and explains it so well. I would have done so much worse in this class if someone else had been teaching. There's a lot of material you cover, which is why this class has a hard reputation, but if you plan ahead and manage your time well, it's very easy to get an A in this class. If you can, I recommend taking 203 (with chi haur) the quarter before this class because that will definitely give you an edge for the first midterm.
+Great course. Just give it the time it needs and don't expect it to be easy. Go to office hours! All the time!
+This is insanely hard, and honestly packs too much into one quarter. But Vincent does an excellent job of guiding you through the whole process to make it as managable (still barely managed, myself) as possible.
+As anybody including the professor will tell you, the material and assignments + labs are going to demand a lot, but prioritize time and it's learnable for sure
+This course, as its reputation describes, is shockingly challenging. The material learned also doesn't seem particularly useful in most field of CS. However, I understand that a person going into systems would need this class, and how this being a person's first introduction to systems would require the course to cover so much material.
+This course is time-consuming but I think Vinvent tried to make the tests easier this quarter, so the class was not as difficult as it has been historically. You still have to put in a lot of work though. Go to office hours
+I really enjoyed this class, for both the material and the teaching. Vincent's a great teacher who is patient and really understands the subject to an almost unhealthy degree. The material is challenging but it makes sense, and it all ties together quite well.
+hard class
+Vincent St amour is a God lecturer. Better than the professors at CMU systems class based on which Northwestern bases this class. The pace of lectures is great to keep you engaged and also help you learn a lot about how a computer works, including hardware, memory allocation, security, and assembly programming.
+This class is HARD but also the best class I've taken so far. Read the textbook before class and go to office hours and you will do fine.
+This class has a lot of hype around it. I found it really not that hard. The topics are really manageable and the textbook provides a detailed, clear, and relevant explanation for every concept covered in this class. Vince's lectures are engaging and he makes this course entertaining. This is a required class for the CS major, so you'll have to take it. Definitely try to take it with Vince because he is an amazing lecturer. He keeps things focused and too the point, covers all the relevant material, but he also keeps the class light-hearted and goes out of his way to show the importance and interesting elements of the concepts. I learned so much in the class about CS I didn't know before. Beware, this course does have a lot of work. One homework or one lab per week. The labs can be extremely challenging, but they are designed to teach and not to bore. Some of the labs were actually quite interesting. You will learn a lot in this class if you can keep up with the workload.
+Great class despite being copied from CMU. Vincent is great and knows his stuff. Take with him if it's a required class. Labs and homeworks will boost grades although exams aren't as hard as they were in the past from what I've heard
+A challenging and intensive course. Expect to struggle and learn.
+Harder than 212 and 214 but still a reasonable class. Vincent was a great instructor. PAY ATTENTION IN CLASS AND CONSULT THE TEXTBOOK FOR HELP ON THE HOMEWORK. Office hours were very useful too.
+EECS 213 is tricky, even when you are able to understand the material with a great professor like Vincent. His lectures really help to clarify the readings that you definitely SHOULD DO, but otherwise you can go to office hours since Vincent more or less keeps the same TAs for 213 quarter to quarter. The four homeworks are worksheets that take some time and the four labs take forever. Highly recommend office hours for the labs.
+It was good
+This is an amazing class, and Vincent is an amazing instructor who really cares about students learning - he is not only very well versed in what he's teaching, but he is great at transmitting it. He met with me twice individually to go over topics I was interested in that were only tangentially related to the class. He is a great guy and will go above and beyond to help you understand all the important concepts of 213.
+Goes though a lot of challenging material in a short amount of time. Ask whenever something is not clear because it will happen. Make sure both you and your partner prioritize this class because you will struggle.
+Material is challenging but also interesting. Vincent is a good teacher.
+St-Amour is very upfront with how challenging this class is. The homework makes you think and might take some office hour questions but is generally very approachable. The labs are more challenging and will require a lot of time and mental effort, not to mention a number of office hours. Be sure to find a good partner that will contribute to both types of assignments. Thankfully, if you generally understand the material, the exams are fine. While not everyone may be super into the low-level software and hardware inner workings of computer systems, they're important concepts to understand and at least have a general idea about and I think will prove to be very useful in the future. Taking EECS 205 helps in the beginning since there's a lot of assembly.
+Vincent is an incredible professor and this class is super cool. If you opt in and commit to focusing in class and staying on top of the work, you will really enjoy this class and learn a whole lot. It gets hyped up as being incredibly difficult, but if you go to class, read the textbook, and stay on top of the assigned work, it is actually really manageable. Great course! Don't be afraid of it! Just put the time in!
+This course knocked me out. Once I stopped reading the textbook though it bacame a lot more manageable. Getting a good lab partner is the most important thing you can do.
+This course is as promised, a hard class in a rewarding subject.
+this course is a necessary evil but st-armour is a chill guy and a good professor. the homeworks really help you learn, and the midterms aren't weighted as much as the labs and homeworks
+Prof is great for this course. Content can be dry at times but is fantastic if you're interested in˼urious about computers. Tests are fair overall. Labs and homework are very hard but not unmanageable. All content covered in class is posted online.
+Course is hard but survivable. Assignments take a while and you will likely need to go to office hours for them. Lectures are very long and difficult to apply to actual problems as they base off of concept instead of actual application.
+This class is exactly what you're told to expect. Brutally challenging, but honestly manageable if you handle it responsibly. Do not underestimate the labs, they are extremely difficult. Homework can also be tricky, but prepares you so that you can get an passing grade and keep limping toward the finish line of what will probably be one of the toughest classes you ever take. You definitely learn a ton.
+I know most students won't be able to do this, but I found it really helpful to drop the class and then retake it; it was about 3x easier the second time around. The labs are definitely a challenge, but the majority of the peer mentors are really helpful. Vincent is extremely helpful in office hours and will take the time to make sure that you understand the concepts. The tests vary in difficulty. Getting started early is a really good piece of advice, but it might not be feasible if you're doing other classes. I liked this textbook more than any other CS textbook I've had; make sure to read it, and the practice problems help a lot with the homework.
+This is a difficult class, but you really get out of it what you put in. Your lab partner can definitely make or break your experience and you need to go to class.
+This class is pretty time intensive but also very valuable. The labs in particular were pretty tough. I enjoyed this class overall.
+The most time-consuming intro eecs class by far but it's very interesting. The labs are hard but solving them gives off a great sense of accomplishment. The exams are not hard, compared to other components of the class. Also, Vincent is a great lecturer. The only challenge is not to fall asleep to his melodic voice
+Wow. So, the lectures and the labs are straight up plagiarized from Carnegie Mellon. That leaves us with 2 things that the professor can give an honest effort of preparing: homeworks and exams. Both were awful. Homeworks were often off-subject and wrong, while the exams were too easy and interestingly subjective. You could lose a lot of points depending on how you understood the questions since the were no partial points and the questions were not clear. Overall extremely disappointed that the teaching staff gave 0 effort in a course that should've been one of the most interesting courses in Northwestern. I would say don't take it but do you have a choice?
+Overall, the concepts of the course are not necessarily that hard or complicated, there are just many small details to keep track of. Generally, the class takes a lot of time, but if you can spend enough time on the class, it should not be very hard. Vincent is a good teacher, and office hours are very useful to help get through the homework and labs.
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        0        0.0%
+Communication        2        4.0%
+Graduate School        0        0.0%
+KGSM        0        0.0%
+McCormick        29        58.0%
+Medill        0        0.0%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        19        38.0%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        16        27.6%
+Sophomore        30        51.7%
+Junior        11        19.0%
+Senior        1        1.7%
+Graduate        0        0.0%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        2        3.3%
+Major/Minor requirement        56        91.8%
+Elective requirement        1        1.6%
+No requirement        2        3.3%
+Other requirement        0        0.0%
+Respondent(s)        58        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        1        1.7%
+2        5        8.6%
+3        13        22.4%
+4        21        36.2%
+5        11        19.0%
+6-Extremely interested        7        12.1%
+
+
+
+
+ Northwestern
+Student Report for EECS_330-0_1: Human Computer Interaction (Michael Horn)
+Course and Teacher Evaluations CTEC Fall 2017
+Project Audience 114
+Responses Received 85
+Response Ratio 74.6%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction, republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Thu, Jan 25, 2018
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        83
+Mean        5.17
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        84
+Mean        4.83
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        84
+Mean        4.31
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        82
+Mean        3.72
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        82
+Mean        4.96
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        32        38.1%
+4 - 7        45        53.6%
+8 - 11        6        7.1%
+12 - 15        0        0.0%
+16 - 19        1        1.2%
+20 or more        0        0.0%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+I feel like if you get a bad group you can have a bad time in this class (I didn't, so I enjoyed it). But the lectures are pretty interesting.
+Good course, but not much help if you want to learn about website development.
+Easy A, really boring.
+This class is harder than it used to be, but still pretty easy if one person in your group knows how to code JS or HTML. Interesting content, but not presented in the best way tbh.
+The class isn't too hard. The main feature is a group project where your group has to design a UI. You can think of it like a DTC project, but with less work required. The HW's are pretty easy, but are used mainly to get you acquainted with the tools and design philosophies you will be using in your group project. The project was written in HTML˼SS/Javascript. The first couple weeks are used as an intro to the languages used for the project, while the rest of the quarter is used for the design philosophies and other DTC-esque topics, leaving you to figure out the rest of the programming languages. This isn't so bad, though, as they teach you enough to get the project done, and there is a in depth documentation page for the languages you can use for any questions about the languages.
+Good
+Good EECS course. Four relatively easy assignments plus one group project throughout the quarter, the workload wasn't to difficult or too much. Much of the material from the class is intuitive though.
+This class was interesting and Professor Horn is a really good professor but I wish it taught me more about how to code in html˼ss/javascript. Also the discussion sections were not helpful at all.
+Easy but interesting class. A few individual HW assignments and the rest is a group project, which is very manageable.
+Overall, this class was super easy and Professor Horn is great. If you're looking to be challenged and to learn alot, this class isn't for you. If you're looking for an easy and fun class, then you should take this class.
+This course was extremely enjoyable, and it's nice to see the teacher get so excited about design! My favorite lecture was the typography lecture. You'll have to learn HTML and CSS by yourself, but it's not too bad. Make sure to get a good group for the project though.
+great class. low workload and pretty interesting skill to learn if you dont know html˼ss previously. horn is the man.
+Homeworks at the beginning were the most challenging in this course.
+Overall, easy A. Horn is great.
+It is a good course to get start with HCI.
+The HCI part of this is very interesting, the group work is also fun and you learn alot about design principles
+This is a very interesting class. Everything is well organized. Professor always gave quick response on Piazza. Recommend!
+Did not work on technical skills a lot
+use HTML fluently
+The students in this class will be required to design a website in groups. As an international student, this kind of group work helps me not only practice my front-end programming skill, but also gives me a chance to work with the students from other culture. I meet lots of friends at the end of the course. Besides, the course covers all aspects of web page design including from graphic design to the De Morgan design principal. I not only learned the engineering knowledge but also the principal of design.
+Great course, learn interesting and useful material and relatively easy.
+I liked that this was a project based course and that I got to learn HTML, CSS and JavaScript which isn't taught in many other CS courses. The groups were fun to work with and overall it was a fun class.
+Micheal is sososo nice. But I still hope he can add more programming language in the course.
+easy class. go to discussions for participation
+its lit
+Once upon a time, EECS 330 was regarded as the easiest 300 level where it was rumored most students got A's. That still probably holds true, except now you cannot ditch class, as there are random pop quizzes almost every day so the professor can actually get a classful of students. Easy class, make sure to go to class and find a good group for the project. Otherwise, it's a breeze.
+This is a fun course to take, especially if you have a good group. And no exams!!!
+This course was great,.
+I am interesting to javascript now
+I prefer the back end of coding to the visuals, so that was a little disappointing. However, graphical design is very important, so I understand.
+The class is what you make out of it.
+The individual homework of the course is very simple with a specific guide to instruct students how to do their homework. And we also have group project. I think finding a responsible and hardworking teammates is really important, which decide whether you can have a happy time doing project through the quarter.
+loved this course all together, helped me realize would I want to go into, loved that it combined learning about technical skills and analytical skills such as how something should be made based on usabillity
+This is a self-teaching class. You learn HTML, CSS, and Javascript while making your app, for which there are milestones set throughout the process, which is why I loved the class. However, the lectures are uninteresting and I never went to class for several reasons. (1) the lecturer seems tired and disinterested (2) each class tries to cover a large topic (like fonts˼olors), and does so in a very introductory and obvious way. Still loved the class, easy too.
+Only took this course to fulfill the interface requirement in the CS major. Nonetheless, the class is fairly good and probably the best class that satisfies the interface requirement for CS majors.
+Yes, the course helped me. It teaches basics of web development and very useful to students who want to develop applications. It teaches the rules for making good interfaces.
+Wasn't a huge fan of this class. Built around a quarter long web development group project. You only need to build a pretty simple interface but most of the html˼ss you use is self taught. Pretty light workload for a 300 level EECS class.
+Easy and interesting class, no exams, projects˺ssignments are not hard or time-consuming
+actually learned way more than i expected in this class. it's harder than it used to be though. it's a good mix of individual work and project work, so find yourself a good team!
+Group work.
+it was helpful
+Its a good CS class if you want to take it easy but also want to learn how to design websites.
+This class cut right to the chase and gave the students exactly what they were looking for. I really appreciated that.
+Great course to take, it's essentially CS-oriented design 101. Learned a lot about web dev and norman design principles, which are actually all around us! Course involved a quarter long project done in groups, which centers around some these (which is quite broad). Overall fun class to take.
+This class was very fascinating. I learned a lot; it teaches some really important skills. Some thoughts: The class itself is basically DTC for web development. It focuses primarily on web design⿞velopment, which is really a tiny fraction of the entirety of HCI. Great web development class, poor HCI class. Segal offers better courses in HCI, etc. Keep track of your assignments. They are few and far between, and worth a low amount of points. But the whole class is low point scoring, so missing one can really affect your grade.
+Get into a good team, and you will enjoy the course.
+it was very easy to get a good grade, not challanging
+Great course and great instructor! You can learn what is the good design not only in web design but also in any product. And you will develop a website using HTML CSS and Javascript(backend is not required) in the group project.
+Very easy class. Not super stimulating but the project you work on as a group is fun if you have a good group.
+The course was an interesting insight into human behaviour and preference in relation to design. Professor Horn is an excellent teacher.
+Front end design
+lots of busy work and little content. prof. horn means well but the class ends up with 20% useful content and assignments and 80% busy work. quizzes, homeworks and projects are a bit of an overkill honestly. In retrospect Iɽ take another interfaces class.
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        3        4.0%
+Communication        1        1.3%
+Graduate School        13        17.3%
+KGSM        0        0.0%
+McCormick        34        45.3%
+Medill        1        1.3%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        23        30.7%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        0        0.0%
+Sophomore        26        31.3%
+Junior        20        24.1%
+Senior        17        20.5%
+Graduate        20        24.1%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        4        4.4%
+Major/Minor requirement        60        65.9%
+Elective requirement        12        13.2%
+No requirement        15        16.5%
+Other requirement        0        0.0%
+Respondent(s)        84        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        0        0.0%
+2        4        4.8%
+3        9        10.7%
+4        29        34.5%
+5        31        36.9%
+6-Extremely interested        11        13.1%
+
+
+
+
+ Northwestern
+Student Report for Eleanor O'Rourke ( EECS_330-0_20: Human Computer Interaction)
+Course and Teacher Evaluations CTEC Winter 2018
+Project Audience 209
+Responses Received 145
+Response Ratio 69.4%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction, republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Fri, Apr 13, 2018
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        144
+Mean        4.28
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        144
+Mean        4.05
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        144
+Mean        3.85
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        142
+Mean        3.39
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        141
+Mean        3.84
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        31        21.5%
+4 - 7        69        47.9%
+8 - 11        34        23.6%
+12 - 15        7        4.9%
+16 - 19        2        1.4%
+20 or more        1        0.7%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+This class was really good if you are interested in a very general survey of Human Computer Interaction. The class has changed considerably from past quarters and actually is a substantial amount of work (the project prototype checkpoints take a lot of planning, groupwork, and hours of coding if you put in your best effort). Homeworks 3 and 4 seemed kind of forced and contrived (felt like busy work). I feel like it was difficult to get much out of the lectures because the topics were very general. For example, we only spent one lecture on the entire topic of data visualization and one lecture on the topic of A˻ testing. I'm hoping that in the future they reduce the scope of the class so that they can focus on fewer topics in depth.
+This course feels a little rushed trying to cram web programming and HCI all together in one quarter. I like how you can sort of pick your group / project.
+Chill class with fun projects stuff, will help you learn front-end development
+Use HTML, CSS, and JS to create interfaces. Not difficult in terms of coding, but work can get tedious sometimes. I thought that an excessive amount of points were often docked off for the slightest mistake on assignments. Nell however does genuinely care about this subject and is very approachable. Easy to get an A if you submit assignments on time and do them decently well.
+Great course! Lots of hands on experience which I loved, and I learned a lot about GitHub, HTML, CSS, and Javascript, all of which I think is really helpful. I wish there were more HCI classes at NU.
+330 is a cool course to get a start in HCI. Honestly, I enjoyed it more than I thought I would. The only qualm I have against the course is mandatory attendance. The result of mandatory attendance is people just sitting on their computers the entire time, which is incredibly distracting to me. Projects were interesting, and allowed students to actually do something they were interested in.
+This was a great course. Focused on a quarter long project, so it is important to work with a good group. A few other homework assignments in addition to the project help you learn the coding basis in html, css, and javascript that you will use for the project. Overall a lot of fun!
+This is a pretty easy class, you can put in very little time and get an A- at least. You might not learn that much though
+This class does a good job of introducing students to web design. The quarter-long project of designing a website is fantastic- it's great to have a high-quality deliverable like that at the end of the quarter. This class does have a lot of busy work, however. Much of the material covered in lectures was not interesting or very valuable. Several of the assignments were more time-consuming than they were worthwhile. This class does take a lot of work, and not all of it is valuable. However, it is a good introduction to web design.
+This class is super easy. There are no exams and the main assignments you can do in groups.
+A good light course if especially if anyone in your group has prior web-programming experience--I personally had none and didn't feel like I learned a lot on that front through this course, but I enjoyed the broad intro to HCI, especially in the last couple weeks when the course goes beyond the web project. Similar to DTC (for any engineers) but with no real client interaction, just a more nebulous user-centered design process.
+It's cool to be able to build a website. Class is interesting but lectures are extremely pointless.
+Grading was unnecessarily harsh. No longer an easy A class. lots of busy work and writing. this is pretty much DTC for creating a website. If you get a bad group youre in for a ride. Lectures were useless
+BEWARE: this class is very easy and the course material is practically common sense, but they have now changed˺re still changing the grading system. BASICALLY, they don't want to give everyone A's, so for us they made getting full points only possible for 2 students of the 20 in a discussion section. What they were really trying to say was "some projects are worse than others, the better ones get full points." BUT, they didn't say that. Watch out.
+The team project takes quite a bit of effort. I wish the instructors let us choose our own project as the project I was assigned to was boring and demotivating to complete
+Lectures: Teaching in a full LR2 with a soft voice and no microphone. Attendance is taken through reading quizzes at the end of lecture. The answers you provide don't matter, it's just that you put down something, so there's no incentive to do the reading. Anything that is taught during lecture is a watered down version of what you learn in DSGN 306 (UX Design).
+Discussion section: Grading is entirely subjective and based on how nice your TA is. It seemed like ours had a quota to fill for certain grades in the class. Before user testing, discussion is entirely useless.
+
+
+Overall: the class has you teach yourself HTML, CSS, and Javascript. Nothing about this is covered in lectures and the amount covered in the discussion section is limited and rather useless. The project can be very hard or very easy depending on your topic and your investment. Mine happened to be very hard, and involved a lot of late nights in the library with my group trying to figure it out.
+This is not just a UI course. It feels like DTC for CS students.
+The 4 HW assignments really do improve your ability to understand the purpose of the course and improve the website you have to develop. The team assignments were harsh for me because my team did not contribute at all really to the project and the course is structured so that there is nothing you can do when your group does not contribute. I think you can learn alot in this class, but the structure of the lectures and groups are very, very weak.
+The course is project based which gives a good exposure into web design. The lectures are boring though.
+They say that you don't kneed HTML˼SS experience but man you are at a significant disadvantage if you don't know it. I didn't know it and it was a struggle. You are taking this course with grad students too so sometimes the average is just so so high. LECTURES ARE BORING AND POINTLESS UGH
+An easy CS course above 300 level.
+DON'T TAKE THIS WITH NELL. This is supposed to be an easy and fun class but NOT THIS ONE. The lectures are mandatory (reading quizzes EVERY TIME) and often times the material in lecture is so useless and the most intuitive stuff you probably knew. One time we looked at pictures of different doors to demonstrate visibility. One time we sketched. This would be fine if the individual hw and group project weren't so coding intensive. How can you expect to not teach us any HTML˼SS and have us do the hw perfectly? Also the grading rubric for this class is TERRIBLE AND ARBITRARY. The rubric literally limits the number of students who can get full marks on an assignment, no matter how good it is. It's absurd. I learned nothing and didn't even get an easy A.
+What makes or breaks the course can be the group you are working with. Try to look for a well balanced group that is organized. Each lecture introduces a new concept on designing UI if you are really interested in that area. The classes can be interactive also as interesting design problems are asked sometimes.
+It did focus on UI design theories, and maybe I needed that to have the basics.
+Fairly easy EECS class if you keep up with the work and have a decent team. The design concepts covered are essentially a rehashing of what you've already seen in DTC (if you're in McCormick). You will not learn any coding in class, although you're expected to create a prototype using fairly intermediate html, CSS, and javascript; so, either start learning those languages ahead of time, or find a group with someone who already knows them. You will not have much time in the heat of the quarter to become nearly enough familiar with these languages to make a quality prototype.
+If you don't care about not learning anything and want an easy A, this is the class for you. Lectures are like DTC lectures but about websites. All the HTML˼SS/Javascript is supposed to be learned on your own. First 2 assignments are fun and help you learn, the rest are a timesink and dont teach you anything.
+Easy-ish course. They're super nitpicky on the homework assignments which is weird because it seems like the rubric is structured not to measure your understanding of the topic, but rather just to try to take away points form students. You're also at a huge advantage if you have prior frontend experience (HTML, CSS, JS, Bootstrap, etc).
+This is an easy 300 level class. Very time consuming. Very TA dependent, so if you have a bad TA you are out of luck. Ask your TA what the rubric is or else you will lose marks for no reason.
+This course is horrible. Do NOT take it. Literally 5 minutes were spent teaching you how to code in 3 brand new languages and everything else you had to teach yourself. You don't learn anything in the lectures. There are reading quizzes during every single class and there's a password on the quiz so you have to show up to class to take the quiz
+Not too hard. You don't really need to go to lectures.
+Good topics to learn, but rather very easy.
+The content of the class was very easy but the grading is so subjective, that getting an A is not easy as it may seem. Professor won't teach you HTML, CSS, or JS but teach you about elements of design and you pretty much learn the languages on your own (and coming from someone who didn't touch the languages before hand, it was not bad at all). There is a quarter-long project and if you have a solid group where the work is mostly divided evenly, getting an A won't be hard. There are no exams.
+I like the class, although there are lots of small things you need to do every week.
+I thought that in the beginning of the course when we were learning about HTML and CSS it was pretty interesting but once we got into the last 60% of the course it got very uninteresting. We were forced to go to lecture because there were daily quizzes but I believe if that hadn't been the case then the lecture hall would've been almost empty every day
+made me write code for the first few weeks.
+Most CTECs are gonna be from people who went into this with an established group and worked with them. That's all well and good but if it's not the case with you, or you don't already have an HCI idea you're dying to build, it'll be significantly less enjoyable. Lectures are simply not engaging and if not for the in-class quizzes 80% of people wouldn't go. The readings are easy and fairly interesting so I would suggest doing them despite being totally unnecessary for said quizzes. You will have to learn HTML˼SS + JS yourself as the guidance on them you receive from the class is basically non-existent. I don't know. This class is the kind where putting in minimal effort makes it virtually impossible to get lower than a B, but don't believe people that say it's a "guaranteed" A. And don't expect the work to be that interesting rather than a slog to get through.
+This course is not a coding course, teacher only talks about many abstract but but not very useful notions. You should not except any systematic knowledge about coding. And your score is not string related to your coding skill. I pay most of my attention on coding but teacher and TAs just grade your writing in some way. So if you like listening to notions and writing and presentation, this course is fine. But if you want to learn like HTML,CSS or JS, this course is not the best choice.
+Really enjoyed the hands on side of this class and the iterative design and testing. Fun to build a website, but make sure you have a good group. Lectures were not that helpful to the project or learning web development and were often common sense.
+Pretty easy EECS class, lecture attendance is basically mandatory because of the daily reading quizzes but the homework is all easy busy-work. The majority of this class is the HCI project, so make sure you like your group.
+Not the most informative class, lecture wise, but it challenged our team in terms of coming up with an idea and developing that.
+This course was really easy, at times it felt like two separate classes: the lectures and the project˽iscussion sections. Having a good group really made the class more enjoyable, but the lectures were still pretty uninteresting and were essentially the same material as the readings. The website project was really fun to do but I ended up having to teach myself JavaScript, Git, etc.
+They changed the curriculum, and the TAs really tried to nitpick this quarter to create a normal grade distribution.
+The class is quite a joke. The class focuses on just the mundane design aspects but never really applies Javascript/JQuery lessons. Everything is pretty much self-taught and the daily in-class quizzes are pointless.
+This course is pretty easy and can be fun depending on your project group! It's more time consuming if you're not familiar with HTML˼SS/JS but the first few weeks do a decent job of catching everyone up to speed enough that anyone can confidently work on their project.
+learnt so much, but lecture was not always that helpful or necessary
+This course takes up much more time than I expected. There are homeworks on design concepts that take a decent amount of time and are graded pretty harshly, and there is a massive project that has many parts, all of which are also graded pretty harshly. It is extremely difficult to get an A in this class (this is a change from last year). Often your project seems like a great idea at the beginning and then becomes extremely difficult to create, and doesn’t fit with the point of the class.
+I enjoyed the class, and you get the chance to teach yourself how to code on HTML, CSS and JavaScript.
+They tried to make this class "harder" by giving obnoxious mandatory reading quizzes every class and grading assignments in a ridiculous manner. The lectures aren't worth going to, most of the project assignments are busywork that isn't related to interfaces, and the personal assignments are annoying. I came in with prior knowledge and learned nothing from this class- I absolutely recommend NOT TAKING this with Nell in the winter.
+Once upon a time, 330 was known throughout the EECS major for being the most cartoonishly easy class in the major. When faced with how to change this, the admins/teacher decided not to add new content, but rather to simply make standards massively harsher and add a lot more assignment for a class that still has the same cartoonishly low amount of content it always did. If you are looking for an easy class, don't take this because it takes a LOT of time and is very difficult. If you're looking for a challenging class, also don't take this because it won't teach you anything despite all the challenge. Basically just avoid this dumpster fire in general. This class has gone through two incarnations, hopefully it goes through a third because it is very needed.
+Class time was so poorly utilized by the professor. It would have been so much more beneficial to learn how to code in HTML and Java to optimize user experience. Instead, lectures covered things that seemed so common sense. Pretty easy though and project was fun.
+Get a good group, divide work equitably--there will be many prototypes, many testings, many write-ups.
+The course is not difficult but intensive. The project is focused on design interface more than the functionalities of your web application. The guidelines followed by the TAs are usually strict. But a lot t learn if interested towards learning sciences.
+It helps me a lot in HCI.
+Very cool class, Prof O'rourke hits all the relevant topics, the assignments are kinda tedious but everything is interesting and relevant to different parts of the human-computer interaction field
+Wish there were more coding aspects of the class. Not very exciting or difficult material
+.
+I was unfortunately disappointed with this class. The assignments were very long, and short/overlapping deadlines and strict requirements meant that this course gave unnecessary stress where it wasn't needed. The group project assignments were graded unnecessarily harsh and forced groups to constantly meet up outside of class to fulfill basic requirements. Lectures were interesting but dry, and the reading quizzes didn't feel like they added to my learning. My TA took a long time to grade assignments and constantly arrived late to studio and office hours. This course really needs to place less of an emphasis on fitting so much material into a short period of time and should focus more about getting students equipped with the skills necessary to approach emerging topics in HCI. It is clear that Nell and the TAs are passionate about HCI, and I hope this class can improve for the next time.
+Good class. Not too hard. I basically built our website by myself and I still wasn't overwhelmed and I still really liked the class
+I was very confused about the grading rules.
+I loved it! Got to learn HTML˼SS/JS although it was self-taught, the class gave me a reason to learn it
+This class is known for being super easy, so while I do appreciate their efforts to make it a little more rewarding, which I didn't mind, I do think they messed up by not actually teaching us the coding languages properly. The homework that required coding was something I went into completely blind because I had never coded before, so I was annoyed that we were forced to just Google everything. I'm not paying tuition to just Google. The project requirements were fine, but the busywork wasn't helpful. And finally, those quizzes every class were the most annoying and useless thing I've ever had to do in a class. Not only do people skip class intentionally and just get the code from their friends, people just answer randomly on the questions and it just takes time up. Completely useless.
+Not an interesting course for me. Much more design-focused and oriented.
+Don't take it with Prof O' Rouke!!! You don't learn much, and have to put so much effort and time into your project. But, you don't get anything out of it because it is what you can do in your free time. Even grading is very harsh, so it is not worth it.
+There were a lot of assignments. They're not very difficult, but the class was a lot more work than I expected. Having reading quizzes during each lecture was excessive, and not that helpful. The content of the course was very intuitive. It did not seem necessary to spend a lot of time engaging with the material.
+Worst class I've taken at Northwestern. This class encompasses how much the NUCS curriculum needs to improve. O'Rourke is not a bad professor, but this course is just so badly taught. The class is called human-computer interaction, which is basically "how to build a good-looking and interactive web app." But the prof spent literally 10 minutes on HTML and CSS, and NONE on Javascript. There were 2 homework assignments that were decently difficult if you had no CSS or HTML experience. Luckily, I did, so I did not struggle too much in this class, but I would have liked to learn the cooler tips and tricks regarding CSS, HTML, Javascript, and web development in general. None of this was taught, and I can't imagine how hard it was for students who came in with no CSS, HTML experience. O'Rourke spent a whole lecture literally going over font types, sizes, and colors. What a waste. Do not take this class if you have no HTML, CSS experience; most likely you will find it quite difficult, and also they grade tough. If your margins are off like 1px, they take off 1 point (homework assignments out of 20). There are no tests which are nice, the "final" is really just building a web app prototype using HTML, CSS, and Javascript given a specific idea and purpose. At the end of the quarter, you have to give a 7-minute presentation about your web app and the problem it addresses. The whole process of building this prototype is similar to DTC, where you have to do user testing, etc. Think of this class as a jank, waste of time web development version of DTC. Wouldn't recommend.
+Some take it because it teaches you 'html˼ss and javascript'. Please don't take this class for that reason. It teaches you the bare minimum of it. This class is about learning how users would interact with your product, and if you are not interested in this topic this class will bore you out of your mind. The TAs are also horrid in programming either since they are not expected to be good programmers.
+I greatly enjoyed this course, the material was interesting and not extremely challenging but you could put in more work if you wanted to get as much as you can out of the class
+This course got a lot harder than it used to be, and therefore it was harder than most people expected. Was a reasonable amount of work if you had a good group (make sure you have a good group, try not to be the only CS major in your group!!), was a LOT of work if you had a bad group. Grading was pretty harsh, seemed like there was an effort to make this not an easy A anymore. Which basically meant grading things really harshly to prevent as many people from getting A's, which felt unfair at times.
+Great class overall. It is pretty easy but still would take quite a lot of time, as any front-end development. Students are put in groups of 4 for a quarter long project. A lot depends on your team, try to arrange responsible teammates.
+The entire class is a group project in which you implement an application of your own. There is a lot of freedom, but it is a bit difficult if you've never coded in HTML˼SS before because they don't teach it in class. The TA's are pretty helpful, but there isn't a lot of time for the project so you want to make sure you're on top of your stuff. The grading is a little annoying because the TAs are only allowed to give a certain amount of each grade.
+I liked how this class was structured. Also, it's very important to go into this class with friends you know won't slack off, since the entire course is based on one cumulative project. I loved my group, so I did well. Others may not have. Also, lectures were fairly useless, and I found that learning about paper prototyping was not really useful to creating a computer prototype.
+Everything taught in this class can be self-learned easily. In fact, the class is set up in a way that forces you to self-learn, especially HTML˼SS and JavaScript. So ask yourself, why spend tuition money on this class? Maybe only if you want a moderately easy A (not too easy though) or if you're interested in doing an HCI project.
+Good course, but bad implementation of grading. The topic of the course was easy and straightforward, and if you have a good group, the class shouldn't be difficult. However, the grading was unfair. Only 2 people from each discussion section were allowed to get an A on any given assignment (according to my TA). I wish we had spent more time on actually learning javascript. But other than that, it is a fairly easy course, its a good supplement for taking with hard classes like 213 or 212. Iɽ recommend it though! Nell was a super nice professor and I enjoyed her lectures event though sometimes the material was a little boring.
+The course wasn't very involved.
+TA was quite mean, which is the awful feeling all through the course
+The project is really fun and interesting.
+Assignments could be really time consuming, and not much direction was given for the actual computer science aspect of this course, so I would recommend being familiar with HTML˼SS/JavaScript before taking this. Grading was sometimes harsh and/or unclear because they don't want the mean to be too high.
+This class has a policy of artifically curving down since only two people can get a perfect score on a single assignment per studio section. Take that as you will.
+This class has gotten a LOT harder apparently. This had made the projects significantly better but don't expect an easy A.
+The group is divided by studio, if you would like to have fixed partners, be careful to have same studio with each other. The course are mostly introductions for the graphic design principle for HCI, focusing on the website front end.
+It's cool that you get to create your own application throughout the quarter but I felt that the teaching style and evaluation methods could be greatly improved. Your grade is based entirely on homeworks and your project checkpoints with no exams, with lectures mainly rehashing the readings, so lectures seemed pretty superfluous. Furthermore, the lecture quizzes were intended to encourage lecture attendance but because everyone had their computers out, people weren't focused on the professor and overall lectures didn't seem to add much to the class, which seems pretty counterintuitive for any class. Also, although the readings and the professor teaches concepts on design concepts, they spend very little time teaching you the actual tools (HTML, CSS, Javascript, etc.) and you're forced to self-learn ALL of it, which made the project difficult because you know what it's supposed to look like but have no instruction on how to get there or how to write efficient code. You learn nothing of Bootstrap or JQuery, which end up being extremely important for the project. I think a lot of students come into the class hoping to learn HTML, CSS, Javascript, and other tools to create websites, and the fact that we spend so much time learning the theory behind HCI but not the tools doesn't make much sense and puts at a disadvantage the students who don't have prior experience in those coding areas.
+Group project is the main component of the class. Great instruction, engagement, feedback, and fair grading overall.
+This course helped me learn about human centered design and design thinking. This course did not help me learn about web technologies. 
+Do not take this course if you want to learn HTML/ CSS/ JavaScript. I went into this course already knowing a lot about any of these topics. Everything I learned from this course about HTML/ CSS/ JavaScript was things I learned by myself for the quarter project. The course material is almost all about human centered design and design concepts. This was frustrating because there was a disconnect from the course material and the testing of our websites in discussion. There are online canvas quizzes for the readings every lecture.
+The course is trivial. Every week you have to take two little quiz and complete part of the project by using HTML, CSS and Javascript. And you have to write lots of paper.
+This class forces you to learn HTML/Javascript on your own because it isn't taught. That is the main part of the class and is essential for the project. The lectures did not teach you anything if you actually do the readings for the quizzes.
+HCI is a super interesting subject, but that doesn't really translate well into a large lecture class, although it's evident that Nell is trying. The assignments are fine, but be wary of grade deflation. The TA's are very picky with grading.
+GPA booster. This can be an interesting class, and you'll learn web dev principles. It's not as ⟪sy' as people say, and you do have to put in the hours to do well. Lectures however are just recounts of the readings, and were not informative at all for the most part, and reading quizzes in lecture means you still have to attend. Interesting content, but not the best taught course at NU.
+Not bad. Project could be annoying at times. Most lectures were not directly relevant to project.
+The in-class quizzes existed solely to check attendance, and definitely did not help with learning. Lectures essentially summarized the required reading, and there was very little actual programming instruction provided or required for the main assignment—which seemed unusual for a project class. Grading frequently did not have explanations given for seemingly arbitrary number scores.
+You learn how to build a website which isn't the most exciting application for HCI but it's a useful skill; Nell was a good lecturer.
+Grading was too subjective; very difficult without prior experience with HTML, CSS, and JS (not taught in class but necessary for project)
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        0        0.0%
+Communication        7        5.3%
+Graduate School        23        17.3%
+KGSM        0        0.0%
+McCormick        69        51.9%
+Medill        0        0.0%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        34        25.6%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        2        1.4%
+Sophomore        66        46.5%
+Junior        31        21.8%
+Senior        9        6.3%
+Graduate        34        23.9%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        10        6.6%
+Major/Minor requirement        100        66.2%
+Elective requirement        26        17.2%
+No requirement        14        9.3%
+Other requirement        1        0.7%
+Respondent(s)        144        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        1        0.7%
+2        5        3.5%
+3        21        14.6%
+4        46        31.9%
+5        50        34.7%
+6-Extremely interested        21        14.6%
+
+
+
+
+ Northwestern
+Student Report for Michael Horn ( EECS_330-0_1: Human Computer Interaction)
+Course and Teacher Evaluations CTEC Spring 2018
+Project Audience 30
+Responses Received 21
+Response Ratio 70.0%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction, republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Fri, Jul 13, 2018
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        14
+Mean        4.71
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        21
+Mean        4.10
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        21
+Mean        3.95
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        21
+Mean        3.43
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        14
+Mean        4.71
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        5        23.8%
+4 - 7        10        47.6%
+8 - 11        5        23.8%
+12 - 15        1        4.8%
+16 - 19        0        0.0%
+20 or more        0        0.0%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+Not a ton of work. The class is much easier if you have a coding background˺lready know javascript/html. overall pretty easy! No tests or midterms.
+This was a really easy course and just has a bunch of busy work in it. Great if you are looking for an easy class
+The concepts were fun to learn and implement. Scoring was a bit tough but there were chances of recovering the lost marks. Not tough but needs efforts and imagination.
+Lots of interesting topics, and the early part of the course helps you learn to code
+Sometimes, it felt like we were not sufficiently challenged to utilize what we had learned in class. The material was interesting; however, it felt like the connection between the material and the projects was not strong enough.
+Your entire grade is based on a few assignments and a quarter-long group project. Lectures are pretty much useless, but they take attendance.
+Do not take this class if you expect to learn a lot. That being said it is a fine, pretty low commitment and interesting class. Lectures can be repetitive and grading arbitrary, but overall not a bad class.
+Could be awesome if you have a great group. You have almost total flexibility of your project so I really enjoyed that. Lectures were not the most interesting though, lots of overlap with DTC and is kind of surface level.
+I thought the project was a great idea, but the fact that it wasn't completed made me feel like this was a missed opportunity. Though understanding the scope of the course and the time we had this was understandable.
+Class is simultaneously easy and a pain. Lecture content is simple and easy to understand but the main part of this class is the group project which can be a hassle depending on your project/group. Assemble a good team and choose a simple project.
+Very boring class.
+design concept
+I have learned a lot about website development
+The ideas learned in this course are very similar to DTC except that it focuses more on computer interfaces. I liked the professor and I had a good group for the project (which I think really changes the class if you have a bad group)
+I really did not like this course. I wanted to learn more of the grit of web development like serious HTML,CSS, JavaScript (and even more like Ajax, jQuery, PHP). We didn't learn about any of this stuff. Instead, we focused on design principles and methodologies. Overall, I found this course very useless. It's relatively easy for a CS class / Interface Distro, but other than than, don't expect to come away with much.
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        0        0.0%
+Communication        0        0.0%
+Graduate School        2        10.5%
+KGSM        0        0.0%
+McCormick        11        57.9%
+Medill        1        5.3%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        5        26.3%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        2        9.5%
+Sophomore        6        28.6%
+Junior        6        28.6%
+Senior        1        4.8%
+Graduate        6        28.6%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        1        4.2%
+Major/Minor requirement        16        66.7%
+Elective requirement        2        8.3%
+No requirement        5        20.8%
+Other requirement        0        0.0%
+Respondent(s)        21        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        1        4.8%
+2        1        4.8%
+3        0        0.0%
+4        7        33.3%
+5        8        38.1%
+6-Extremely interested        4        19.0%

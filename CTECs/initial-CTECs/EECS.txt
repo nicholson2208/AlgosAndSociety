@@ -1,0 +1,1012 @@
+﻿Northwestern
+Student Report for EECS_111-0_20: Fund Comp Prog (Ian Horswill)
+Course and Teacher Evaluations CTEC Fall 2016
+Project Audience 284
+Responses Received 201
+Response Ratio 70.8%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction , republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Tue, Aug 01, 2017
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        197
+Mean        4.59
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        198
+Mean        4.23
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        198
+Mean        4.32
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        197
+Mean        4.47
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        196
+Mean        4.41
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        33        16.7%
+4 - 7        108        54.5%
+8 - 11        36        18.2%
+12 - 15        16        8.1%
+16 - 19        4        2.0%
+20 or more        1        0.5%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+Racket is a very odd programming language, but it provides a good framework to learn and/or review the basics of computer science and programming.
+Loved the class. One of the best I've taken this quarter. Sometimes the material can be a little dry, but Ian makes it fun and interesting!
+Great course for everyone... when if you know programming from before.
+It was very hard
+This course was chill and a nice break from the other typical high-pressure fast-paced engineering classes. Ian was a great instructor and there were so many TA's that grading was always done fast and there was always someone to answer any questions. The use of Piazza helped a lot as well. My only experience with programming was Matlab and R and I still found this course very well paced and easy to comprehend. I do wish we learned some more imperative programming languages like C or Java, but learning functional programming through Racket has it's merits.
+I think having access to so many TAs was very helpful, and learning a new coding language through this class wasn't that difficult.
+Coming in with no experience in computer science, I did fairly well in this class. The Quizzes/midterms were much easier than the actual homework exercises. I learned the most from the tutorial sessions. Make sure you understand how to do the homework exercises as many of them are very long and take a long time to finish. Lots of office hours available. Though Racket is not a very useful language, I would definitely recommend to anyone else who has no experience in computer science to start with this class.
+Material is good. Coding language is kind of annoying and I have heard that we don't use it much going forward, but was very effective in teaching us basic concepts. The lectures were a little bland and I felt like I didn't have much motivation to go, which affected my learning.
+Racket was a weird language but I think it built my program thinking. Ian is cool but I was able to learn by not going to class and just reading off the lecture slides. The most learning happened during tutorials and through homework.
+This is an easy course if you're ready to spend some time understanding the logic behind coding. Good intro class! Ian is a great professor, really fun!
+The content was rather easy to learn and understand, but the homework was either very easy or very hard depending on how well you understand the covered topics and how deep the application of the concepts was. I overall enjoyed the course and Ian is a great professor who knows what he's teaching. The quizzes given are pretty easy compared to the homework.
+I loved the professor and the way the course is organized (1 assignment per week and 3 quizzes).
+This class is hard and takes a lot of work. Lecture wasn't too useful at all, go to as many office hours as you can.
+This class is good to further your knowledge on Dr. Racket. Lectures are pretty much the slides, so attending class isn't necessary.
+the course is okay, but programming in racket is annoying. I don't recommend taking this class if you don't have to.
+I really liked this course. It was difficult for me being a beginner, but Ian was a really great instructor and the undergrad TAs were amazing. The assignments were structured so that you had enough time to get help if you needed it and ensure that you were doing it right. It's a little irritating that Racket is not actually used in the real world, but I understand the logic behind using a teaching language. Definitely not an easy class (for me anyway) but still very manageable to get a good grade. I probably would not have passed this class without going to the TAs' office hours; Sasha, Shane, and Will were super helpful.
+The professor was good, but the language itself, Racket, is dumb.
+Racket is really frustrating if you're used to Java or really any other language, but Ian is a great teacher, and the quizes are fair (make sure to familiarize yourself with the format ahead of time). All in all, EECS 111 is a good class, but could be better if the language it used wasn't so annoying at times.
+Needs more assessments, only had one quiz grade before reading week.
+Learnt a lot in this course. Not too hard.
+The course is not very time-consuming, and Ian is a great professor. TA discussions are very interactive and helpful. Homeworks can be difficult especially for a beginner programmer like myself. Paying attention in lectures is important to success. The beginning of the course is very easy and will catch you off guard because it gets much more difficult.
+Lectures were kind of boring, but the homeworks were really interesting and that was really where the learning happened.
+Supposedly, the language is difficult to understand. There are many frustrating things about this class, especially if you haven't coded before. But the TAs are great, especially Sarah, and the teacher is helpful. If you want to learn the "logic" of coding, a helpful class.
+If you don't have a background in programming, this is not a course for you. It really doesn't teach foundations for beginners - it teaches important topics for people who already have a strong background in programming. This class leaves people behind to fail. For instance the final exam - yeah, over 70 people got less than half of the problems right, but because most of the class is CS majors who have seen this stuff before, the mean was an 80% and over 100 people got an A on the exam. Additionally, some of the peer mentors (basically TAs) will make you feel stupid for not getting concepts and then they'll insinuate that you're wasting their time and the time of your classmates by going to office hours. But really it's just because this class is for people who are serious about programming, or at least that's how they look at it.
+I loved Ian's lectures, they were interesting and had a lot of background information about computer science (which some may not like). Overall the course isn't too hard and is manageable if you pay half-attention during lecture and understand the hw codes.
+Wasn't too interested. Racket isn't a very nice language.
+Really enjoyable class. Great intro class for not only CS majors but anyone interested in programming. Ian makes the information accessible to all students and really encourages everyone to do well in the class. TA's are a hit or miss. Head TA's know exactly what they're doing but some other TA's have no idea what they're doing.
+Was a good overall class.
+This course was fantastic at teaching basic computer science techniques, but the language was utterly useless.
+Ian Horswill is awesome, but lectures did not really help with learning the material. Also Racket is not a good language.
+Ok class, find people to work with you, programming concepts same as others.
+I felt that the course could have been taught in a less abstract way since the professor often times really abstracted or went off on tangents. The lectures seemed to be a little boring, especially near the end and that did not help. Perhaps if there were examples questions given in class or even just physically writing code in front of us could have been more useful. Other than that, the office hours were bountiful and spread out which was very useful and the tutorials were useful resources for understanding how to do certain topics like recursion or imperative programming.
+I didn't really learn what I expected to, and I feel like it didn't make me very excited about programming. The material was very mildly interesting, and not too hard. I did learn some concepts which I now understand are applicable to all languages, but I think the class could be improved.
+The tests were fair, the exercises were difficult and there were too many of them (why was one due during finals week?), and Ian was cool
+excellent introduction of computer science concepts. There are people who whine and complain that Racket's useless, but as someone who's taken two comp sci classes before this, I can say that it is an excellent survey of fundamental CONCEPTS in computer science, which is very important because this knowledge will carry over when you're trying to learn other programs.
+Interesting course overall, but not super useful just because we use Racket.
+Learned tons without putting in a whole lot of effort. Honest attendance is enough to get most any student through, Ian is great but can move a little slow. Easy tests, overall a great class
+This was a very solid introduction to programming. Prof. Horswill is a very clear lecturer and very willing to answer questions. This class will be fairly simple if you took AP Comp Sci or have other programming experience. If anything, you will gain a better grasp on recursion.
+Great class. I mostly learned through homework. Tests were really easy. Ian is a great professor. Lectures are interesting but definitely not necessary to do well in the class.
+The course should have been taught in a more applicable computer language such as Python or C++ as they are much more useable in jobs later on than Racket.
+Very disappointed with this class. I'm a computer science major, so this class is required, but I was not happy at all. The language we used, Racket, is a waste of time and useless in the real world. If you have no programming experience it's probably helpful to learn concepts like recursion, but as someone who already knew all the concepts taught in this class, it was very hard to motivate myself to relearn these concepts in a useless language that is literally never used outside of this class.
+Good
+The first few weeks were easy since we didn't really get any homework and the homework exercises were easy. However, at around week 5 or 6 everything got SUPER hard, especially if you started to relax and take it easy since you thought the first few weeks were easy. Basically, don't fall behind and you should be fine.
+The homework assignments were very difficult and I wish the course was a bit more practical and was taught in a language commonly used. The quizzes were not too bad though
+If you want to learn programming, this is to the course. Do one on a particular language. However, it's an easy A and a moderately interesting class.
+This class made me want to be a computer science major.
+Great class for learning about computer science concepts.
+It was labeled as a beginner class but as a student coming out of AP computer science it still felt extremely difficult.
+Ian tends to go really slow on the easy concepts and really fast on the harder concepts, the course can be initially really really hard for someone who has had zero programming experience. The programs are really, really difficult to do after the first few, but the quizzes are definitely doable if you practice a lot of problems and you know what kinds of problems to look out for.
+This class is great to take if you want to figure out if you like coding or not. Overall easy but also challenging (the assignments could be hard and not well explained)
+The course did focus on all the topics it was supposed to.
+The programming language used in this course initially did not feel too comfortable too use, so even if you've programmed in the past, there's a period of adjustment needed before you acclimate to the rhythm of the course. The class itself, however, is really not asking too much. If you just complete the weekly assignments and attend the tutorial sessions, the class should not slay you. For new programmers though, there's likely going to be a learning curve, although office hours and Sunday recitations (where a TA goes over and reviews material covered in the past week's lecture) should be sufficient to help you stay on track.
+I think this is a good class but I think they need to rethink how it is taught. I feel completely unprepared to do the homeworks and rely solely on office hours to complete them. Also, TAs should have access to the homework answers because often times they won't know an answer to a homework problem either. Homeworks should either be easier or be worth more because they take up so much time.
+I had heard that this class would be easy with prior programming experience, but that was definitely not the case. I never learned anything in lecture, and the "quizzes" were too difficult given that there was basically no way to study for them besides the practice quiz.
+Course and instructor are interesting, but the language we use is disgusting.
+Didn't offer enough resources for learning outside of class, Ian was a good professor though.
+Ian is an engaging lecturer and the material is interesting. If you are familiar with programming this class won't be too difficult but there is still enough new information to make it worth your time.
+Tutorials were a waste of time and should be optional; they're only useful for students who are struggling and need extra support. Homework was way too easy due to the excessive amount of handholding (i.e., guidance and work already done for us). Since very little theory is introduced in this class, it's pretty much just a course that covers writing basic programs. As such, it would make so much more sense to work with a more useful and widely applicable programming language like Python instead of Racket. All in all, I don't see why EECS 111 exists. I took EECS 110 last year, and it was a far better course and could certainly replace 111 in my opinion.
+lol.
+Racket seemed like a bad language to start out in, I was lost for a lot of it
+The language used in this class is by far the strangest I have ever seen and I'm not a huge fan. That being said, it's not too difficult to pick up on, the syntax is just strange.
+The class is as interesting as a class taught for a 200-person lecture hall can ever be. Ian is engaging, friendly, very funny and brilliant, and the material is well designed. The assignments are fun enough to do that I legitimately look forward to doing my homework. The only complaints I have are the complete lack of individual attention that is inevitable in a massive lecture hall, and which makes participation effectively impossible for anyone who isn't lunatically brave. However, be warned that this class teaches in a useless programming language because it communicates concepts very well, which is a cool thing for the long haul and I've heard pays off wonderfully for the major eventually, but is a bit frustrating since you can't do all that much in the real world until like three classes from now.
+This was not my most favorite class. It's difficult to learn coding quickly and effectively, so this class required, at least for me, going to any and all office hours to complete the homeworks.
+Don't try to study for this class alone. It can be confusing. Go to office hours and find classmates to work through practice tests.
+Have to put in the work to do the exercises and the quizzes are rather difficult
+The homework was really important. It really helped me learn. I wish I would have taken it more seriously.
+Only take it if you have to. I was excited to learn to code but this isn't the class for that. This is the class where everyone is passing code along (probably taken from the 1% who knows what they are doing or has coded a lot before). The lectures and tutorials DO NOT prepare you for the homework. Also, the student TAs have less of an idea of what is going on than the current students. The only time they are ever helpful is when they just feed you code. worst class ever.
+This class is not introductory. The homework assignments are long and difficult, and lectures are confusing at best for someone who has little to no exposure to computer science. The language is obscure and the assignments are so stressful that I was doing them only for the grade not to learn the material because I felt pressed for time always.
+The homework is really hard and will take up a lot of your time. In comparison the quizzes are extremely easy. Lecture is not that helpful if you are someone who is easily distracted because its not very engaging.
+DrRacket is annoying to learn if you took AP Computer Science in high school and learned Java or a different language. Ian is a good professor and his slides are understandable, but usually they are easier to comprehend than the exercise programs that are due each week. Having a good TA is essential to asking questions about these exercises.
+This course was very fun. Ian is a wonderful speaker and engages you strongly when teaching the course. As someone who has done computer programming for years, I did not learn many new ideas about programming during this course, but it was a good and engaging refresher course on basic computer programming.
+The homework assignments for this class were so very difficult for me, however there were many office hours posted and the quizzes were not that bad.
+This class seems really easy at first, but then it gets you real quick. Ian teaches well, but he teaches at more of a conceptual level. The tutorials were great for applying the concepts.
+Pretty challenging if you don't know anything about CS, lectures do not help to clarify anything. Make friends to study and figure out homework with, otherwise you will never be able to do well.
+I was super rusty with my coding skills and it brought me back up to speed. The usage of Racket as the language really levels the playing field so that people who don't have much experience with programming can do as well as the people who have a lot of experience. It was a fun course and Iɽ recommend it to nonmajors because if you like puzzle-solving, you'll probably like coding. Also, you can ask for an extension every week, which really helped spread out my workload.
+Don't take it without a friend.
+Ian is the best professor ever.
+Ian was a pretty good prof. Exercises and tests weren't too bad, there are a lot of TAs so lots of opportunities for office hours but also some are hit-or-miss. A strange mix between moving too slow for the coding-experienced and too fast for the non-experienced, though.
+SO HARD OMG IF YOU DONT LIKE COMPUTER SCIENCE!!! DO NOT TAKE THIS AS A DISTRO!!!! OMG!!!!
+Ian was a great prof. The Exercises do get pretty tough so thats annoying but the quizzes were easy.
+This is a great course to get an introduction to functional programming˼omputer science. The professor and TAs make themselves very open to helping you. The work is manageable and the topics range in difficulty.
+Professor Horswill explains the material quite well. The class itself does get progressively difficult, and the homework assignments can be difficult. The quizzes are a lot easier. There are a lot of TA's in this course, but most of them were not helpful at all during office hours. They were very under-prepared and would often not do the course work themselves. Overall, you should expect to do more work than the course number would suggest, but it's an interesting class nonetheless.
+Easy course if you have background in the subject. If not, racket can be really confusing at times.
+Racket definitely is not the most fun language to work with. It is not nearly as intuitive as many other languages are, and i saw more than one friend drop out of the course because it was taught in a strange language.
+Racket seemed like a useless language, but a lot of the topics are similar to higher-ended programming.
+It is like a nice introduction.
+As a Kellogg student, this class is great.
+This is a good class for people who have never programmed before... and those people only. The department must waive this class for students who have taken AP CS already. Using an esoteric language like Dr. Racket does NOT 'ɾven the playing field'' for people who understand programming... it just annoys people who dislike Scheme. Personally, EECS 111 was a waste of my time. The AP class was far more challenging. If you can program and have to take this class for a requirement, here's some advice: skip lecture and use that time to build side projects.
+I knew the material before the course, making it a breeze. Almost a waste of my time. But I feel like this class is a good introduction to people who are new at programming. It would have been helpful for me like 3 years ago.
+The course was very well designed for an intro course, it was thorough and went through all the fundamentals.
+The main coding language in this class is challenging, but places emphasis on the foundations of coding
+This course is a well-structured introduction to programming. The lectures are huge, but they try to compensate that with small tutorial sessions. Lecture was often dry, but the class is definitely manageable.
+Having no past experience in programming, I greatly enjoyed this course. I took it purely to see what the class is about. However, it is an introductory class and I was disappointed that most students already had copious amounts of prior knowledge.
+It definitely made me want to enroll in more EECS courses and learn more about the discipline.
+Ian is a great guy and great professor, this course is not too challenging or time consuming.
+Very very easy to fall behind
+Decent class that would be totally doable for first-time coders. Pretty much all review for people who have taken AP Comp Sci so not that challenging. Weekly projects don't take too much time and there's an army of TA's so lots of help available
+PROS: Racket language is fun, Fun assignments (video game!), Learn a lot, Easy quizzes.
+CONS: Time consuming weekly assignments. They take about 4-9 hours to do. TAs are not that helpful. Discussion/tutorial is useless but you have to go anyway.
+OVERALL: This class is meh. If I could go back in time, I would probably not take it. For the most part, you learn a lot but the class is quite tedious. Towards the second half of the class, I never went to lecture at all and could still complete the assignments and do somewhat well on quizzes. ONLY TAKE IT IF YOU NEED IT FOR THE MAJOR!
+The lecture and exam material is relatively easy, but there is a huge discrepancy when one compares it to what is on the homework programs, which can get unnecessarily hard, in my opinion.
+I thought it was odd that they put a mix of people with and without coding experience into the same class. The new language of DrRacket (which is kind of the worst, different from most languages you'll encounter) kind of levels the playing field, but having a programming mindset still helps. The lectures however aren't too intense, and the tutorials are relaxed and especially helpful if you have a good TA.
+You get what you put into this class. If you do your own work and go to class, you will do well. It's really easy to slack off, but it's even easier to do well if you just show up and do your own work.
+A good first computer science class. Gives a foundation for a variety of concepts. Lectures aren't always focused and could be more clear but overall not a super hard class.
+Prof. Ian is amazing. I really like the way he teach. The course is not very hard but stimulate your interest in programming.
+not the best class but I had a great TA and I like coding.
+This course was relatively confusing to me. Instead of simply teaching a programming language it taught the conceptual side of programming. Probably a great course for programmers looking to learn about a different side of CS. As a first time programmer, I found this course really difficult. There was a lot of computing jargon that just did not make sense to me.
+Pay attention to where the parenthesis go!
+I came into this class knowing absolutely nothing about computer programming and I learned so much! It really allows you to build your knowledge from the ground up without feeling pressured. The TAs are so friendly and office hours have saved my life time and time again.
+The most impotant thing to me was learning to think differently
+Lots of homework
+I wanted to see if I enjoyed coding and if it was potentially something I would like to pursue and it is
+Horswill does a great job of keeping students entertained during lectures. Heard Sood is easier, but definitely no complaints about Horswill.
+Good introduction class to coding, Racket gets a little annoying at times.
+Assignments can be nice challenges. Lectures are kind of boring but what can you expect from a 300 person class?
+Certain concepts were incredibly hard, however, the vast majority was too simple.
+The course was extremely tough, but helped me learn a good amount about computer programming
+It was a very challenging class. The lectures did not make sense and the homework programs took forever to complete.
+Do not take this class with Horsewill, He is not a good lecturer and he does not care about how his students do in the class. The assignments were confusing and not a good reflection of the material.
+Overall, the tests weren't too bad, if you study the practice tests and his slides you'll do fine. Also, even though the exercises are challenging they really do help in understanding how the procedures apply to a language. There's also A LOT of office hours available so you can get help to do your homework. Take advantage of them!
+This is a great intro to programming class. If you are even considering Comp sci as a minor take this class to see if you like it. For assignments, go to TA office hours they are extremely helpful!!
+It is a nice course for introduction into programming
+I took this course to see if I would be interested in computer science, but unfortunately, this course was not structured in a way that helped me realize if I cs is something that I would like to pursue or not. I felt as though I was struggling to keep up with the students who already had cs experience.
+The coding language learned is not really relevant to languages used in the world today so that was disappointing. But I did have a lot of fun in this class as I was learning the design process and that would be able to transfer over to other languages which would help me a lot in the future.
+Not too hard of a course and learned a lot about programming.
+Racket is quite a pain to learn.
+A fantastic intro to computer programming. Don't take that to mean it's easy, though. Definitely one of the harder courses I took this quarter.
+I enjoyed this course. Ian is a pretty good teacher and a pretty chill guy and clearly has a love for programming. The work load isn't bad at all: just one exercise per week due every Friday (you can get an extension until Sunday any and every week if you choose) and a one hour "tutorial" session at whatever time you choose during the week (I would recommend earlier in the week because it sometimes helps with the exercises). While I and most others don't love the Racket language or at least its syntax (Parentheses. Parentheses everywhere.), I can understand why it is used to teach us the basics. The fact that this course dealt with such a low-level language helped me to better understand concepts like recursion that you wouldn't encounter in other higher-level languages such that have loops and other things programmed in and what not. All in all, I would recommend this class to anyone taking this course who has an interest in learning to program as a discipline and is still useful even if you are planning on only learning a single language for whatever reason. Previous programming experience is certainly not required, though it does help of course.
+I learned a lot, but failed to see the usefulness of learning the language DrRacket
+A fine course!
+I thought the course was interesting and was really impressed by the amount of resources that this course had. I was able to get help in SOOO many different ways which was really comforting and helpful. Lectures did not help in understanding the course though.
+The lectures do not help with me trying to learn. If you don't learn well through just being lectured then this class is not for you. Also the TAs are snakes because a lot of them were not at their office hours
+Having already coded before, this class was very frustrating. The pace seemed slower than an average class and I don't think that it would provide that great an understanding of coding or the logic behind it had I never coded before. There wasn't much emphasis on how to approach problems or solve them as much as explaining how to do simple tasks in a language that doesn't have much practical use (Dr. Racket). The tests were not a reflection of one's ability to write or even understand code as much as they were how well you could memorize the syntax patterns for Dr. Racket
+The language is kind of annoying at times, but pretty basic. The TAs are helpful if you go to office hours--in my opinion, the lectures weren't very helpful, but a lot of people thought they were. Overall, this course is very helpful for gauging whether or not programming is a good match for you.
+Easy if you have computer science background, would NOT recommend if you do not and are looking for a place to learn CS.
+It was a hard course, especially for someone with no CS experience
+I enjoyed learning about the fundamental, abstract ideas of the course but I wish we had learned a more useful and applicable language than Racket. I did not find the lectures to be entirely helpful either.
+good course, pretty well organized
+111 is a great intro class. Although DrRacket may seem silly sometimes, it is a very simple, straight to point language to learn. It was my first time learning programming but if you follow the class and do exercise on your own, you will be able to pull it off and learn a lot.
+If you haven't programmed before, DO NOT take this class unless you have someone to act as your personal tutor. The homework could be impossible at times. But, if you get the concepts, the quizzes are fair.
+Great class, racket not used that much but it does provide you with a good foundation.
+the tutorials are where i learned most
+I enjoyed the course. Racket is not my favorite language but it was definitely an interesting perspective.
+This class will be difficult if you have no prior coding experience. Take it if you have to, but it may be an overload if you want to take it as an elective. DrRacket is such an odd programming language.
+I think this is a well done intro class, the sheer army of TA's and tutorial sessions mean help is always at the ready and you still get to learn hands on in small groups
+EECS 111 was by far my hardest class this quarter. I do not know if it was the teaching or if it was the material. I could not understand why codes were written how they were and even spending hours trying to study and learn and practice the code myself, it was infuriating. I also strongly disliked the language of Racket as well. It doesn't seem applicable anywhere but in class.
+This course is manageable. Lectures are not mandatory. If you have a background in programming, just follow up on the content through lecture slides. Spend time on the assignments and check them, double check them, triple check them. Take your time on the quizzes. 3 quizzes, each 25 % of your final grade, last quiz cumulative.
+This course is difficult but taught the fundamentals of programming.
+Racket is a very irritating language. Ian is cool and the tutorial system is a great way to get one on one help when you need it and brush up on things you learned during lecture.
+THIS CLASS IS A TRAP DON'T TAKE IT UNLESS YOU PLAN TO BE COMP SCI MAJOR OR HAVE EXPERIENCE IN CODING! NOT FOR PEOPLE NEW TO CODING I REPEAT! THIS IS A TRAP!
+This course is not for beginners. Unless you have a ton of coding experience, you will fail in this class unless you have someone to copy homework from. The lectures don't prepare you for the homeworks, and the homeworks don't prepare you for the tests. It's a huge mess that will screw you over. Most of the ta's don't know what's going on either and are more confused than you are. Ian also is not the most understanding guy.
+The class, despite being taught in a language that is not applicable outside of the class, does help people who do not have coding experience like me gain a fundamental understanding of the rationale and thought process behind coding. The class is not very difficult and the work isn't excessive. That said, there is basically no curve for the class because everyone does super well.
+It was a perfect introduction to computer programming. Very easy and entertaining, but you still learn a lot.
+Great class, Ian makes his instructions very clear on all assignments and lecture slides to help facilitate learning outside of class. Assignments were occasionally hard and takes a bit of time. Exams are very straight forward.
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        1        0.5%
+Communication        6        3.2%
+Graduate School        1        0.5%
+KGSM        0        0.0%
+McCormick        81        42.9%
+Medill        5        2.6%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        95        50.3%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        94        47.5%
+Sophomore        68        34.3%
+Junior        21        10.6%
+Senior        13        6.6%
+Graduate        1        0.5%
+Other        1        0.5%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        17        8.1%
+Major/Minor requirement        135        64.6%
+Elective requirement        10        4.8%
+No requirement        46        22.0%
+Other requirement        1        0.5%
+Respondent(s)        199        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        8        4.0%
+2        9        4.5%
+3        14        7.1%
+4        45        22.7%
+5        65        32.8%
+6-Extremely interested        57        28.8%
+
+
+
+
+ Northwestern
+Student Report for EECS_111-0_1: Fund Comp Prog (Jesse Tov)
+Course and Teacher Evaluations CTEC Spring 2018
+Project Audience 67
+Responses Received 52
+Response Ratio 77.6%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction, republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Fri, Jul 13, 2018
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        52
+Mean        4.23
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        52
+Mean        4.46
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        52
+Mean        4.65
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        52
+Mean        4.56
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        52
+Mean        4.02
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        4        7.7%
+4 - 7        33        63.5%
+8 - 11        15        28.8%
+12 - 15        0        0.0%
+16 - 19        0        0.0%
+20 or more        0        0.0%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+The class was incredibly fast-paced and hard to keep up with- especially the homework. I spent hours working on codes and the homework was very challenging. The tests were much easier than the homework and really focused on the crucial aspect of the language that you needed to know. I felt behind from most of my class because I did not have coding experience.
+I do feel like I learned, but I only learned through the lab section and the homework, never the lectures. They would often go too fast and the professor would not explain things very well. Also, Racket is not a very good beginning language because there is nothing else like Racket in the real world. Lastly, the partner system was awful. I ended up doing nearly all of the work on all of the assigned partner homeworks and it was incredibly difficult to find time that my partner and I could 'work' together. When we were able to choose our partners, that helped a lot.
+I learned the most from doing the homework, although the partner system needs improvement. Lectures were fast passed and hard to follow. Overall not to bad if you're willing to put in the time on assignments.
+This course was hard, especially with Professor Tov teaching it. He went over so many things and the TAs were extremely helpful.
+Winter and Spring quarters are completely different in the overall structure. This year, 2018, the Winter class focused on list processing and data stuff but barely touched GUI and state based game logic. Spring on the other hand had the opposite approach. Making games is a lot of fun however I'm told that 211 builds more on the Winter quarter skill set.
+Jesse Too teaches this class at a high level, including the homework being challenging and the lectures covering challenging material. The lectures were very hard to follow as the professor usually just drones on and codes for the entire hour and 20 minutes. You are expected to do over 25 pages of reading a night.
+Don't get scared away by the homework, that's the hardest part of the whole class.
+Overall, this course gave a good introduction to the principles of functional programming. However, it could have been good if it used a more popular program language instead of Racket, since Racket is rarely used in programming. A language like Python could be a much better alternative.
+Homework was extremely hard, tests were easier. If you want this to be an easy class don’t take it with tov.
+The course is one in which you get pout of it what you put into it.
+Hard class for sure, and not a walk in the park even if you've coded before. Expect to put in 8+ hours later in the course on programs.
+I found this course challenging, and it took way more of my time and effort than I wanted considering I had to take it because I am a neuroscience major, and I don't plan on taking another computer science class. The homework assignments are incredibly difficult and time consuming, so make sure you start as early as you can and go to office hours.
+Jesse is a good professor and a good teacher as long as you are paying attention in class. Jesse's 111 has a reputation for being way harder than either of the other 111 sections, but if you pay attention and don't fall behind, it ends up being super worth it because you cover so much more interesting stuff in his class than in either of the others.
+I get the feeling Jesse cares about teaching and wants to do well, but the lectures are simply ineffective. Not overly difficult, but is more difficult than the other sections of 111.
+NOT a good INTRODUCTORY Computer Science course for beginners!! Take the other intro class first, or do NOT take 111 with JESSE if you have less than a major interest in computer science. It is kind of a filter class. If you really like computer science, you will enjoy the class.
+God
+I didn't love this course. I get that we're supposed to be "learning how to program" instead of learning racket, but I feel it would be more useful to learn a language that we might use again if we're going to continue in programming.
+This course is difficult but you learn a ton. If you've heard that Jesse's class is harder than Sara or Ian's that is 100% true so be prepared for a class that is a very obvious step up in difficulty from the other professors. If you're taking 111 for a low time-commitment easier intro class take it with a different instructor. That being said, we definitely learned more in this class than we otherwise would have. GO TO LECTURE. Jesse posts all his code from lecture but it's really hard to follow them if you don't have a reference point from going to class. Lab sections are good to brush up on stuff from the week that doesn't make sense. We have a homework program due every week that range a lot in difficulty. The harder ones can take upwards of 7ish hours. Don't think I would have passed this class without office hours, some of the programs are so hard if you can't talk with someone who knows what they're doing. The homework programs are definitely harder than the exams in my opinion. First exam is really easy and the average is super high, second one is quite a bit harder and definitely requires a lot more studying. Overall I really liked this class. You learn a TON and finishing the programs is really rewarding but it's not a class that you can do well in with minimal effort. TLDR: If you want an easy 111 take with Sara or Ian, if you want to learn more take it with Jesse.
+As others have said, Tov is definitely harder than the other EECS 111 professors, but he honestly helped me learn on my own. Much of this class relies on making connections on your own and learning by doing. Although Tov's style isn't for everyone, I can definitely say that I learned in this course. Also, the exams are less complicated than the homework, so just be sure to confidently understand what every type of function does and you should be fine.
+I learned to code solely because of this course
+Everyone says that the class with Tov is the most difficult 111 class. That is true if you have no previous CS experience. If you do have CS experience, taking the class with Tov will not seem that difficult.
+Kinda boring and fairly easy, but I don't think it should be made any harder.
+The class is not as bad as other people make it sound. If you do all the homeworks properly, the midterms shouldn't be a problem. Also, do make use of the peer TA hours, it's really helpful!
+Racket is a useless language. This course is redundant and useless for EECS majors.
+oh oh oh oh and this bird you cannot change
+Lots of people did not pay attention during the lectures, but I found it helpful, even though Jesse can go over things pretty fast at times. However, most of the learning can be done through doing the homework and going over the notes posted for each class session.
+There is a learning curve to this course, especially with Jesse. He moves very quickly in lecture and it's difficult to follow along if you try to type along with him. I recommend doing to reading outside of class if you can, then downloading the lecture notes (he puts all notes online) and follow along with him. Try to focus on his explanations and how that's translated into the code. Jesse genuinely cares about his students and wants you guys to learn, he's just a little hard to follow at times, so try to follow along as best you can and ask questions when you're confused. He's good about leaving time for questions. Good luck!
+This course is harder than expected, especially with Jesse Tov. The exams aren't hard, but the homeworks can be. There's also quizzes at the beginning of every class that are pass⿺il that are sometimes hard.
+Overall the course provides a good introduction to programming and an understanding of the programming design process.
+This class is really challenging and hard to follow. It can be difficult to pay attention in class, so make sure to take notes on paper or on the program. The homeworks are difficult and challenging, but if you get started early and go to office hours they are doable. Overall, I ended up learning a lot from the class, even though it was hard to realize it during the class.
+Study for the tests, Jesse is really tough
+This class moves fast, definitely difficult if you have no programing experience. If you don't have experience you might want to take it with a different teacher.
+People complain about the teaching style of this class, but I think it actually one of the best-taught classes I have taken thus far. The language used isn't used anywhere outside of the class but it is chosen for good reason. The program has unique functionality that helps you to learn how programming works, and has simplifications that wouldn't be used in a language built for efficiency, but make learning to code less confusing. The professor provides copies of each classes notes in the form of code online, which is very useful when doing homework, which also does a good job of teaching information itself. The professor holds daily quizzes, which can be stressful, but they serve as a good check to see if you have been understanding class, and do not count much for your grade. The professor also provides useful study guides and practice tests before the midterms that do a good job of covering the necessary information. One important thing to know about the class is that you shouldn't try to type the code along him in class. You will just end up falling behind him and missing the point. Instead, it is best to just follow along, take notes if necessary, and look at the code he post online if you find something confusing or did not understand the lecture.
+Was a very good intro into basic programming structure and style.
+Functional Programming will actually be helpful in your future CS career. However, it is not the "best" for getting an internship. But it's important to learn it to set groundwork for yourself.
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        2        3.9%
+Communication        0        0.0%
+Graduate School        0        0.0%
+KGSM        0        0.0%
+McCormick        20        39.2%
+Medill        1        2.0%
+Music        1        2.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        27        52.9%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        44        84.6%
+Sophomore        4        7.7%
+Junior        2        3.8%
+Senior        1        1.9%
+Graduate        1        1.9%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        4        7.0%
+Major/Minor requirement        39        68.4%
+Elective requirement        5        8.8%
+No requirement        9        15.8%
+Other requirement        0        0.0%
+Respondent(s)        52        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        1        1.9%
+2        5        9.6%
+3        8        15.4%
+4        15        28.8%
+5        14        26.9%
+6-Extremely interested        9        17.3%
+
+
+
+
+ Northwestern
+Student Report for EECS_211-0_20: Fundmtls of Computer Prog II (Jesse Tov)
+Course and Teacher Evaluations CTEC Winter 2017
+Project Audience 159
+Responses Received 106
+Response Ratio 66.7%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction , republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Mon, Jun 26, 2017
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        104
+Mean        3.65
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        105
+Mean        3.78
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        105
+Mean        4.30
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        105
+Mean        4.70
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        102
+Mean        3.58
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        4        3.8%
+4 - 7        44        41.9%
+8 - 11        37        35.2%
+12 - 15        13        12.4%
+16 - 19        6        5.7%
+20 or more        1        1.0%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+I felt this course was helpful and integral in my CS education at NU. I liked that the homework assignments are worth 70% of the grade because those assignments take a ton of time and it felt worth it. I also liked the way the chapter/subject matter was arranged because I felt it built off each other well.
+I have never coded before coming to NU and this course was very very challenging. There was not a lot of guidance with specific commands, so I had to look a lot of them up online, which could sometimes be confusing. Live codes during class are hard to keep up with. The hw codes can get difficult and time consuming really fast, so make sure you start really really early!
+The homework assignments seemed really convoluted at times but the labs helped me learn a lot
+I thought the homework assignments were extremely complicated to what material we were learning. For me, understanding what the homework was asking was a lot more difficult than understanding the CS material that it was supposed to be supporting.
+If you've had experience with C++ in the past, this class with likely present some new ideas and some challenging but manageable homework assignments. For those who have not had prior coding experience outside of the prerequisite course, make sure to frequently go to office hours for help, unless you consider yourself to be an extremely quick learner. The pace of the class is relatively fast, so make sure to stay on top of things.
+I was very interested in the topic, so I enjoyed the course. However, I thought many aspects of the course could be greatly improved.
+The assignments were very enjoyable to code, particularly the last four.
+This could be a challenging class overall, especially when Jesse teaches it. However, if you go to the class and understand the materials, you can actually improve your coding skills and thought process.
+The lectures weren't as helpful as the discussion classes, but the professor was very accessible as were the TAs. The exams are short but kind of hard.
+Lectures were not very applicable/useful to me but the homeworks really helped challenge my understanding (as someone who has previous coding experience). Tests weren't that bad but punished silly mistakes (1 mistake could easily be 5% or more).
+I enjoyed the content of the course for the most part. It was sometimes dull but on the whole I'm happy I took it
+This class is a great introductory course into learning C++. You learn the nuances of object-oriented programming, classes, memory allocation, and C++-specific utilities such as pointers. The lectures are dry and seem to drag on (I had trouble focusing for the entire 80 minute period), but the lab sessions and homework programs are very stimulating and informative.
+I was interested in learning a new language but while taking it I was unhappy with it. The course did not do a good job of teaching me.
+The 70% homework project grades. I wish that more EECS classes are like this because programming by art cannot be done once. Knowledge is important, but debugging is a crucial aspect where we learn from our mistakes.
+Group assignments are just the worst. Find someone you can trust to work with you on this and use the TA hours--if the person bails on their work this class will be endless torture. The material learned is useful and the exams test in a reasonable way.
+Jesse is definitely more helpful in person and if you go to him he is good at explaining things. Definitely go to office hours for this course, it is absolutely crucial.
+Tov has strangely formatted lectures which involve live coding, which doesn't seem to appeal to most people I've spoken to. His online grading system for the homework was pretty ok, but sometimes the tests didn't work on code that was functional due to CLion compiling things differently on Macs vs PCs. Make sure your partner has a Mac/Linux if you don't so you can avoid the sadness that comes from having to ask him to reopen an assignment because you swear the code works on your computer.
+The HWs were often very confusing and had mistakes on them, without piazza there would consistently be many missing instructions for HW assignments.
+Most of the aspects were important to me.
+Tov is probably one of the worst *instructors* that I've had here in terms of pure teaching ability in lecture, but he is one of the fairest and most reasonable professors I've had here. His lectures weren't interesting and quite painful to sit through, and I ended up teaching myself the course through Sarah Sood's 211 lecture slides (which you should take instead of this class in the fall or spring). However, the exams were very fair, and they are not meant to trick you in the slightest. They are very straightforward. The PSETS are very hard, but they teach you a lot, definitely go to office hours, because the TAs are super helpful. Tov is a really reasonable person, he just can't teach effectively unfortunately.
+Jesse can often move fast in class, but he's definitely willing to slow it down as long as you speak up. This class isn't too difficult especially because 70% of your grade is determined by how well you do on your homework.
+Intellectually challenging course. Homeworks can be tough but are meant for you to succeed and learn by doing. Jesse may be a poor/unengaging lecturer but he truly wants his students to succeed and his very helpful answering questions
+The best advice I can give: TA hours. They were probably the saving grace for me in this class. I really would have failed this class without them, no joke. Professor Tov is one of the nicest professors, letting you resubmit code if there was an error in the code that made you fail a lot of tests. I still do not like the written style midterms and wish there was a way to be tested by actually making code on a computer. Overall, this class is not difficult if you take advantage of TA hours and do not wait until the last day to write the code.
+I got very little out from lecture because of how disorganized it was. That said, content of the course is important to know.
+This course was designed for people with a moderate to high understanding of C++. I found the classes to be way too difficult and the assignments were way too difficult as well. My partner and I would spend 20+ hours on the homework and attend office hours and felt that the content was over our heads. The powerpoints were unclear and the code that was embedded in the lectures was unorganized.
+Tov knows his stuff, but sometimes struggles with properly teaching it during lecture. Make sure to go to Office Hours so you get a proper understanding of the material.
+For those who have taken AP Computer Science A before, this class is basically more or less a repeat of the class in C++ (so + pointers and memory management). Overall, lectures were decent, but most people didn't pay too much attention and could still get by. Find a partner who is willing to split work evenly for homework, as some of the later homework assignments do take a while to complete, albeit they are not extremely difficult. There is a larger than usual focus on testing, that is, a large portion of your grade is focused on whether you have specific tests or not, which can make testing a bit tedious. Jesse is quite nice on extensions and minor mistakes, so don't feel shy to reach out to him outside of class!
+Classes in Computer Science are always classes in which most of the learning takes place through homework and studying, which makes Tov's fairly ambiguous, clumsily made homeworks a fairly large problem. Like any EECS class, lectures are tolerable but not amazing, and you learn both annoying and cool techniques, but the badly made homeworks make the difficult transition to C++ and the learning of the more complicated concepts unnecessarily difficult, so it is probably wiser to take 211 with a better teacher if possible.
+This class was a bummer. On the first day of class, Dr. Tov scared everyone by jumping directly into Shell. The rest of the quarter did not improve; the professor would blaze through code, and ask, "Are there any questions?" Before the stunned students had time to formulate their questions, he would answer, "good!" and keep chugging on. Dr. Tov spends much of his time walking us through classes and concepts that are entirely irrelevant to the homework. We had to write a lot of unit tests. This has the good intention of forcing students to think about edge cases; however, it proved to be rather tedious, time-consuming, and unnecessary. It also had the drawback of docking points from assignments even when students passed all the instructor's tests but forgot to write a specific test on their own. EECS 211 should not have been difficult if it was explained properly. However, it ended up being a royal pain.
+This class made me want to drop the CS major. It was boring and lots of repeated material. Projects weren't very interesting and the instruction was not engaging and kind of all over the place
+It is a great class for C++ lovers. However, I feel the professor was not that great at teaching.
+It was an okay class, I enjoyed it and the material was pretty interesting
+This course is much better than EECS 111. C++ is a much more fun language to learn. Jesse is smart and nice, but not great at communicating the important concepts clearly. Programs are challenging but doable if you make the effort to meet with TAs. Utilizing Piazza is also important and the instructors and students are very active on it.
+Don't take it with jesse. The homeworks are really hard and its frustrating because the last 4 build off each other, so if you screw up the first one you cant do the other ones.
+Try, try, try. I learned that in order to gain a mastery of a language, I needed to practice.
+The point of the course was to teach you C++, and in my opinion it did it well.
+This course feels completely different than 111. I didn't know what was going on for 95% of this course.
+This is a fairly straightforward class covering most of the same topics also covered in a typical AP Computer Science course but in C++ instead of Java. Homework was straightforward, but did not facilitate much learning. Exams were quite easy.
+The course was very fast-paced, but a great introduction to a real programming language. While we learned the basics of C++, we also learn how to think about building programs and abstracting methods for efficient program design. This is a really self-motivated class, so if you don't go to lecture/write your own homework code, you won't understand the content. It feels hard to catch up once you're behind, so stay on top of the workload, force yourself to focus in class, and complete all the labs and homeworks.
+This course is poorly organized. Your grade is largely based (70%) on the homework assignments, which may seem like a good thing. The homeworks are cumulative projects. Each assignment relies upon a perfect score on the last assignment in order to do well.
+I think that this course was really interesting and helped stimulate my interest in computer science. that being said, i think the assignments were too difficult for an intro class.
+I think this course offers a lot of important programming concepts, not to mention the relevant language of C++, but the teaching style was always going over a few slides then coding for the rest of the 80 minute class, which was fine for me, someone who had 2 years of coding experience in high school, but not as helpful for beginner coders learning these concepts for the first time and trying to understand them while also following along with the code being quickly written on the screen. However you are allowed to do homework in pairs which is nice and encourages people to work together to figure it out which is great.
+It's okay.
+Professor Tov was a really great instructor and made every effort to clarify anything that is unclear. It could be said the class is lacking a bit of a structural organisation, however it didn't adversey affect learning experience. Also professor was really kind and would be happy to discuss your hw/test, extend a deadline for you if you have a reason, etc.
+I couldn't understand them.
+Lectures were helpful at all. I recommend skipping lecture and just going to office hours to get the work done. Exams were relatively easy
+Get a good partner if you are doing partner work. Mine quit and it caused huge problems for me and the class.
+The wordings used in homework instruction was so unclear that most of the time I'm just confused about what to do. Codes that were never introduced were often used in the codes that the instructor has written so most of the time in the lecture I just sat there without knowing what is going on.
+It's a nice class for introduction to c++ and Jesse has explained some complex ideas pretty well in lecture. However, I think the homework can be structured to make it less confusing for some part.
+Decent class overall. Homework is reasonable since Tov provides starter code that organizes the overall program. Midterm and final were both straight forward but tricky at times. However, class instructions are quite unclear, as he codes really quickly and expects you to be able to follow. Instructions for homework is also sometimes unclear, but having more than a dozen TA sections certainly helps.
+Make sure to start the homeworks early! The first few were not particularly challenging, but they become much more difficult towards the end of the course. Take advantage of office hours and Jesse is very accessible. The tests are not particularly difficult or weighted heavily. Get the homeworks done!
+Good project assignments, liked how projects worth more than tests
+This class essentially teaches you how to code in C++. Overall, the class is not very difficult and grades are based on 7˸ homework assignments (10% each) and 2 midterms (15% each). Tov is a decent teacher although his classes can be boring and hard to understand at times. To be honest, going to class, while recommended, is not really necessary. All in all, it is a standard EECS 200 level class.
+It was an okay class. A lot of material and challenged me fairly well, but Tov's teaching style was a little dry
+The class was fairly simple at the beginning, but had a marked jump in difficulty halfway through and the instruction did not always match the homeworks
+This course was great at challenging me intellectually, as well as teaching me, because I went from nearly zero programming experience to a substantial amount in this class. I often had struggles doing the homework, but the tests were decently easy.
+Jesse is a smart and nice guy, but lectures tended to be overwhelming and hard to understand
+Learnt a lot as a non-CS major and C++ is a really useful programming language. The class was challenging and some homeworks required quite a lot of work but it was worth it.
+I had to take this for CS major, but it got very hard in the middle. The homeworks are much harder than the exams.
+The lectures for this course felt unnecessarily complicated and were not engaging. Slides were brief and often led into live coding for the second half of the class, which went by so quickly that it wasn't actually informative. Professor was nice, but not a good lecturer- take this class with another if available. Homeworks were time-consuming and often required assignment clarifications on Piazza / frantic OH visits on the days that they were due.
+Jesse's lectures are really impossible to follow along with. I don't really understand how so many people get C++ but in general, a really useful class that teaches you a crucial CS skill.
+Yes, it was challenging
+Lots of emphasis on homework, not too much on exams. Lecture not too helpful, mostly understand material when doing the HW problem sets.
+I didn't love this course because it took a ton of time, and I felt that going to lecture was pointless, which I don't think is the feeling I should get i a class is really stimulating. However, looking back on the stuff we learned in the beginning, I feel like I have learned a lot in this class that will be extremely helping in my Computer Science major.
+The homework is pretty challenging and time consuming.
+The pace is fast but Prof. Tov is very accessible and helpful.
+Tests were straightforward, but challenging. HW was extremely time consuming.
+I would high recommend against taking this class wth Tov. He explains basic ideas in a confusing, convoluted way and incorporates too much jargon. Because the lectures are so hard to follow, the homework are really tough, and take up a ton of time. Also, the grading of the homework is really rough because the instructions are very vague.
+Start your homeworks early, go to office hours early in the week
+I really enjoyed this course. Jesse was a fantastic lecturer, and I enjoyed the homework assignments.
+I wish that the topics were covered more in depth. In my opinion, it felt like the course was taught more as a review for people who already knew the material as opposed to teaching the new material, and as such the course didn't properly explain certain things and I spent a lot of time on online websites learning new concepts.
+Jesse is amazing and super smart -- he really cares about his students. Although his lectures are not super organized and go way too deep into the content, he's really good at helping us learn through homework.
+A super helpful course. Jesse was one of the most understanding professors I've had. He helped beyond class, he gave me tips on finding internships and lab work. He was super understanding when we needed extra help.
+Learning how to code, different structures used in coding.
+The course challenges you with the projects that it's giving.
+You'll learn C++. I thought it would be worse, but it was actually not that bad. Start the homework early.
+You learn the basics of programming in C++. The homework are difficult and require a lot of time in office hours but the tests are straight forward and if you know the basics you will do fine.
+I wasn't able to learn well with this professor. I couldn't follow the lectures at all. The HW and labs were more instructional, and I was only able to do them because of previous programming experience. The HW takes a while to debug but overall an OK course. Try to take with a different professor. Midterm and final were reasonable and not too much of your grade.
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        1        1.0%
+Communication        1        1.0%
+Graduate School        0        0.0%
+KGSM        0        0.0%
+McCormick        47        47.5%
+Medill        2        2.0%
+Music        1        1.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        47        47.5%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        61        58.7%
+Sophomore        30        28.8%
+Junior        8        7.7%
+Senior        4        3.8%
+Graduate        0        0.0%
+Other        1        1.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        2        1.9%
+Major/Minor requirement        88        83.8%
+Elective requirement        2        1.9%
+No requirement        12        11.4%
+Other requirement        1        1.0%
+Respondent(s)        104        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        1        1.0%
+2        2        1.9%
+3        8        7.7%
+4        26        25.0%
+5        34        32.7%
+6-Extremely interested        33        31.7%
+
+
+
+
+ Northwestern
+Student Report for EECS_211-0_20: Fundmtls of Computer Prog II (Sara Owsley)
+Course and Teacher Evaluations CTEC Spring 2018
+Project Audience 203
+Responses Received 156
+Response Ratio 76.8%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction, republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Fri, Jul 13, 2018
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        152
+Mean        5.66
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        154
+Mean        5.20
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        153
+Mean        5.37
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        150
+Mean        5.15
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        152
+Mean        5.40
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        28        18.2%
+4 - 7        90        58.4%
+8 - 11        29        18.8%
+12 - 15        5        3.2%
+16 - 19        1        0.6%
+20 or more        1        0.6%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+EECS 211 is not an easy class coming from a background without any programming experience. Professor Sood does a good job of breaking down the content in slides and then applying it in the homework programs, which makes learning the content fairly straightforward as long as you put in the time. Lectures are definitely difficult to stay engaged in, but that's just the nature of CS lectures.
+This course is definitely more challenging than EECS 111, but I wouldn't say it's too hard. Sara is great, as usual. Some of the assignments were a bit frustrating but going to office hours definitely helped.
+This course is a great course to learn computer programming and teaches many relevant skills
+difficult
+This class was hard. I have never been a huge fan of programming, but even though this class was hard I think I learned a lot. I don't think my grade will end up being great in this class, but the amount that I learned about programming and the confidence that I gained from the many assignments is great!
+Foundational
+Take this course from Sara if you can. She explains concepts extremely well and makes class enjoyable and interesting.
+READ THE HOMEWORK SHEET! the homework is super simple if you read what you are asked to do. They explain all of it. Go to office hours if you are confuse. TAKE THIS WITH SARA (Take every class you can with Sara, always.)
+This was a great course for learning C++, Sara does an absolutely amazing job at lectures keeping things interesting and engaging! Homeworks can take some time but are great for applying what we've learned in class.
+Sara is the best but the exams are definitely hard. Study far in advance if possible!
+The class itself is fine, it's hard to pay attention when things aren't directly correlated with the homework that we're currently working on. I would appreciate if the class was taught towards the homework more.
+Sara is a really good professor and as long as you get help when you need it, the class is manageable. Use the office hours and the piazza page, they are very helpful.
+I took 111 with Sara as well and she is an amazing lecturer and has a really good class structure that really helps you learn the material. In addition to TA's and office hours, all the resources necessary to do well in this class are there for you.
+This class was well taught and well structured. Highly recommend.
+The class was great! Sara will be one of the greatest professors you'll have when taking a cs class.
+I'm so glad I got to take 211 with Sara. She's probably one of the best professors you will have at Northwestern: she's fun, engaging, and knows what she's talking about. If you take 211, take it with Sara Sood!
+This class is clearly intended for CS majors, and given that I am an IE major with no coding experience, I did very poorly. I couldn't even spend time with TAs to better understand concepts because all my time was spent with them trying to do the homework assignments.
+Overall very good, I like the sequence we followed
+I learned a good deal about programming and memory, which is important to my chosen career of CS
+Hard but good to take
+Sara is very helpful and caring of her students. However, don't expect it to be as easy as 111. I would finish assignments in an hour, but then spend another three in office hours and debugging. Utilize the resources and pay attention in class if you haven't seen this material before.
+Great class! I learned a lot and Professor Sood is so amazing. I haven't met such a kind EECS professor before. She is really considerate and helpful and I can tell she wants students to learn regardless of what abilities they have coming into the class
+Go to office hours and attend all classes! It's not required, but reading the chapters on the book was really helpful especially after you come out of class and still confused on what is happening (which is a lot of times). Find a study buddy so you guys can popcorn questions while studying together! Was really helpful reviewing for the exam.
+I enjoyed this course! Sara is the best professor at NU and she makes computer science interesting. The homework can be difficult and the first exam was harder than I expected, but overall there are so many great resources like Piazza and Sara so you can always get help.
+I learned a ton and Sara does an amazing job of explaining topics. Office hours are incredibly helpful.
+Class starts of slow, but picks up pretty quick. Office hours always available tho to help
+This course was great. I felt that I was able to follow without much issue following EECS 111. Sara is a fantastic instructor and is very helpful when answering questions outside of class.
+I found it hard to focus on the lecture in class. However, the book and the peer mentor office hours were wonderful. I went every week to see Yehya, and every week he helped me learn the theory behind the assignments and I came out of the office hours with more knowledge than when I came in. Without these hours I would not have succeeded in the class.
+If you’re interested in comes I, this is a good class to gauge your interest. Much more applicable than 111
+It was a good course, it didn't matter how you did the hw as long as it gives the correct result.
+Sara was a great teacher! Only take 211 with her
+Liked this course more than EECS 111. The hw assignments are fun to do; i would suggest to start doing them early. TAKE THIS COURSE WITH PROF. SARA. It's upsetting that there's no curve in this class, but it really helps you understand whether you like coding or not.
+This course got a little fast-paced near the end of the quarter. However, the homework programs did not really test any of the topics we learned later on, like templates, STL, streams, overloading. Also, the homework programs had a lot of provided code already filled in, which was helpful for saving time, but I wish I could practice building a program on my own for the homework. Overall, though, I learned a lot in this course, and Sara was a great professor.
+This class was really important in giving me a better understanding of back-end programming.
+The lectures are rather pointless. You need hands on learning for EECS and that just doesn't come from large lectures.
+HARD!! But Sarah is amazing and it is a good course
+Sara is the best!! This class was a step up from EECS 111. It was more focused on the details of C++. Assignments probably took me 3 or 4 hours.
+This class is taught really well and I there are examples for every concept learned. Sara did a great job of teaching the material.
+this is a challenging but really great course. I loved the assignments because they took time but were really satisfying when finished. I also am fluent in C++ now ands really understand it
+It was a pretty good class. Sara's great as usual and homework isnt as bad as 111. That being said there is a lot more content than 111 so don't fall behind.
+Sara is AMAZING she's a great teacher and definitely challenges you but makes it manageable. The assignments are usually pretty fine (like you have to sit down and focus but they're not impossible to do) but if you get stuck you can spend hours and hours trying to debug your code
+It's a C++ class. If you know C++ or have done a lot of programming before, then it will be very easy. Otherwise, prepare to work.
+Sara is the reason I took on a CS minor. She is an incredible teacher. I took her 111 in the winter and loved her teaching style. Also, she's very patient when answering questions (which she asks for often) and never makes anybody feel bad for asking repetitive questions - she'll find another way to answer it instead. The course was easy to me, not too conceptually challenging, but very fascinating for someone whose only CS background was 111. C++ is a mess of a language but it was fun to learn and super useful. Exams aren't easy, but they're straightforward. Assignments and exam expectations are all very clearly outlined and easy to understand.
+The course was a good way to learn C++ programming and builds upon the previous course well
+I felt like this course well prepared me to learn how to learn other languages, which is incredibly useful skill.
+Sara is just awesome. Doesn't give more work than is necessary, and in class she is great at explaining things clearly and answering questions. Also just an awesome person to get to know. Absolutely take this with Sara if you can.
+Sara is a fantastic professor; super helpful during office hours and willing to provide guidance on anything, from assignments to course materials to future interests/paths in computer science. This class definitely goes deeper into computer science as a discipline and field beyond programming, and I learned a lot about what computer science truly is and means at a fundamental level. This class can be a challenge at times but a worthy one without a doubt.
+I thought 211 was just the right level of difficulty. I had to try hard to do well and finish homework assignments, but it was rewarding.
+Having never done object oriented programming before and very little programming in general, I found this class to be challenging but rewarding. Definitely doable without any coding experience other than 111, but I really had to be on my stuff to keep up. Everything is given to you in order to do well, but you really have to take advantage of all of it. Sara is great too; I've only had her as a EECS lecturer so I don't have much to compare to, but she makes a huge lecture hall feel so much smaller.
+I loved this course! It was a bit difficult to understand, but as long as I reviewed the material right after class and on weekends, I was able to finish the homework early every week! Sara is also extremely approachable with even the seemingly dumb questions I had! This class was so much fun! I looked forward to it every other weekday!
+Very interesting to learn about computer science; I think I will switch my major to it.
+This class is the next step up after 111. While it is harder than 111, it is definitely manageable and very worthwhile. C++ is a really useful language, and the class teaches you some good general programming techniques and practices. Exams and weekly assignments are similar to what was done in 111; I took the two courses back to back with Sara and felt like it was a very logical jump from one to the other. If you've programmed in Java before, C++ will come naturally to you, especially at the beginning, though after a certain point the similarities go out the window. Also, TAKE THIS CLASS WITH SARA! SHE IS A WONDERFUL HUMAN BEING AND AN AWESOME TEACHER! Overall, would recommend, especially if you enjoyed 111.
+We covered a lot of computer science essentials like linked lists and pointers.
+EECS 211 with Sara was an excellent class. She made the content very clear in lectures, her office hours were incredibly helpful, and the homeworks were straightforward!
+Learning a subject useful in the real computer science world for the first time, which was nice. Assignments and class times were enjoyable to complete and attend.
+It was a pretty standard course with 2 midterms and a lab every week, but definitely a step up from 111 in terms of difficulty.
+Great class. Learn a lot of important material that prepares you very well for later courses.
+This is a great course. It is challenging, but it's fair and extremely interesting. Sara is absolutely incredible.
+This class was a lot harder than EECS111 the programs were tough and it was hard to get caught up once you fell behind. Sarah does a really good job at explaining, just something you really need to practice
+Sara is by far the best professor I have had at Northwestern. She explains concepts very clearly and highlights why things are important for us to learn. It is clear that she cares about her students because she is always happy to answer questions in class and is welcoming at her many office hours. Visit her even if it's just to chat! That said, 211 could be better designed as a course. The weekly programming assignments are not quite enough to get practice with concepts from class, especially those taught at the end of the quarter. As with 111, the code structure has been designed for you, and you are really just implementing small pieces. It would be nice to see projects that allow us greater creativity.
+The class size is very large, but Professor Sood did a great job managing class size and teaching all necessary material for exams.
+Tough class. Make sure you go to class and office hours. It's hard to come back.
+Take 211 with Sara Sood. She is a great lecturer b˼ she is organized and has clear examples. Not a CS major, so this class is the reason why I learned how to code at NU.
+Very easy if you pay attention in class, ask questions if you're confused, and do the review sheets before the midterm. This quarter there were 8 coding assignments (weekly), 2 midterms, and an extra credit assignment that make up your whole grade. Also, Sara's office hours are suuuuper helpful! (Sara is just an amazing professor in general also)
+It was a challenging course for me but I learnt a lot
+Solid class but the tests can be a bit unfair, missing one multiple choice question can drop your grade by a letter
+Sara is one of the best teachers at Northwestern. Her examples are very good and the course is very fair.
+Good
+You learn to code. Nuff said.
+You do learn the language, but it's hard to concentrate in the big lectures.
+I liked how the assignments gradually built upon each other. They were the best way to test if I was keeping up with the lecture material.
+The class explained both practical and abstract topics related to the subject very well.
+This is a really helpful class to learn the basics of CS and the homework assignments can be difficult but they are very helpful for learning to concepts. The tests can also be tricky bet they are very fair.
+Overall a good class. Sara is hands down the best EECS professor so take all the classes that you can with her. Sometimes this class could be conceptually difficult since you have to understand how programs are executed and stored in memory rather than simply writing programs without considering how the computer interprets everything. The exams aren't bad either, and it's not too hard to get a good grade in this class if you enjoy computer science and put in the work.
+This class is great, but it's definitely difficult if you're not comfortable programming in C++ when you come in. It's super rewarding, and I strongly suggest it if you have any interest in programming.
+It allowed me to know another language.
+EECS 211 is great with Sara. Her presentations and teaching are very helpful for learning and also the multiple in-class examples really help you understand. The programming assignments let you put what you know to practice and thus those were also really helpful. I'm not sure Unix is necessary though so I would take that out of the curriculum, but besides that it was a very helpful and insightful class.
+211 was great! Sara is an excellent professor and I would highly recommend taking it with her. The exams and difficult but the programs are manageable.
+Definitely a harder course than 111, but well organized and well taught. Lots of resources for help!
+Sara is a great teacher, and the assignments given really help you understand the course material.
+sara was great as always, much faster than 111 but go to office hours
+I really liked this course! Sara is great and its easy to come into after EECS 111 with her. Such a good class & lots of support outside of class.
+Sara is great. Big classes are hard to pay attention
+Sara is a great teacher and this class is great. The homeworks aren't that hard even if you're not that experienced with programming and the peer mentors are very helpful.
+Very happy with the course, Sood's a wonderful professor and well suited to teaching the introductory CS courses and encouraging commitment + confidence in the subject.
+learned a lot and challenged while succeeding
+The tests are kind of difficult just because writing code on a piece of paper without a computer is difficult.
+Take this with Sara! She's a fantastic lecturer.
+Great course. Taught a ton of fundamentals that are necessary for computer science. It's taught in a way that makes the material seems really accessible.
+Sara is a very good professor and she always teaches with examples of code which are helpful for understanding the concepts. This course (especially the homeworks) is not hard at all if you have some background coding
+Course is interesting and teaches you important essentials of C++ programming. Homeworks don't take more than 2 hours per week on average.
+A refreshing, super-applicable class after Racket (111). Sara is incredible, as I'm sure you've heard time and time again. It's easy to not want to go to class after the first midterm, especially if you've had CS experience and do well (since it's for/while loops, basics, etc), but DON'T STOP GOING TO CLASS. Homeworks get harder as the quarter progresses: start them early, because last-minute coding on a Friday night is very stressful, and debugging always takes longer than you think.
+Easy if you've done C++ or really any OOP before. Pointers are the only thing that were new to my former-programmer friends. Those who hadn't done any programming outside of 111 seemed to have a difficult time.
+Over ehh, 111 was better taught and while C++ is more useful it loses clarity when you're not apply the things you learn directly.
+I enjoyed how the class built on EECS 111
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        3        2.1%
+Communication        6        4.2%
+Graduate School        1        0.7%
+KGSM        0        0.0%
+McCormick        90        62.9%
+Medill        1        0.7%
+Music        1        0.7%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        41        28.7%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        116        75.3%
+Sophomore        25        16.2%
+Junior        9        5.8%
+Senior        2        1.3%
+Graduate        2        1.3%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        9        5.6%
+Major/Minor requirement        130        80.7%
+Elective requirement        6        3.7%
+No requirement        16        9.9%
+Other requirement        0        0.0%
+Respondent(s)        154        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        1        0.7%
+2        6        3.9%
+3        15        9.8%
+4        27        17.6%
+5        45        29.4%
+6-Extremely interested        59        38.6%
+
+
+
+
+ Northwestern
+Student Report for EECS_336-0_1: Design &Analysis of Algorithms (Jason Hartline)
+Course and Teacher Evaluations CTEC Spring 2017
+Project Audience 84
+Responses Received 29
+Response Ratio 34.5%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction , republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Thu, Jul 13, 2017
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        27
+Mean        5.44
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        29
+Mean        5.24
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        29
+Mean        5.62
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        29
+Mean        5.76
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        27
+Mean        5.26
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        0        0.0%
+4 - 7        2        6.9%
+8 - 11        7        24.1%
+12 - 15        16        55.2%
+16 - 19        3        10.3%
+20 or more        1        3.4%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+This was one of the hardest CS classes I have taken at Northwestern. I'm very glad I took with Hartline as I learned a lot. The class has gotten easier than it was in the past but the weekly homeworks and peer reviews can be brutal. Leave some space open in your schedule and find a good partner before taking this class.
+This is by far the hardest class I have ever taken. That said, I think it is also one of the most useful+rewarding ones.
+There are a lot of EECS courses I have felt were unnecessarily hard and time consuming. This is NOT one of those courses. Hartline's version is hard as hell, but you will learn so much taking it that it is 100% worth taking. I genuinely feel more intelligent having taken this class and highly recommend it to anyone willing to put in the work.
+Hard, hard class. Jason fixed a lot of the issues now, so it's hard because algorithms are hard, and not hard because they're trying to screw us. With that said, expect to spend a lot of time on this class, because it's really difficult to do well. You will learn a lot, though, and will come out a much better computer scientist.
+The course was very well organized and taught exceptionally.
+This course is a lot of fun. You learn interesting techniques and solve many fun problems. Hartline is also a wonderful instructor. I was not a huge fan of the peer grading, though I do recognize that it probably did help people who had trouble evaluating proofs.
+I think we also need some courses covering some basic aspects.
+Topics were well motivated, and by the end followed a progression that seems natural. The course provided a framework for thinking about and designing algorithms that will be useful in my future work.
+The design recipe style and the very clear guidelines provided in this course is very helpful
+
+
+It's not super math-y (in sense of the requirements in the homework), but good
+
+
+I think peer reviews have both pros and cons; good: try to demand oneself to write the homework description in a clear and checkable way; not that good: the reviews aren't always helpful as there might not be comments (when there should be); nevertheless the grading system is good and effective and fix those review score
+Jason has gotten a lot nicer this year. The class is also significantly easier than it was in past years. It's still challenging, but not unreasonably so. You should absolutely take this instead of 335: it's much more useful.
+I enjoyed the course. Teach the thinking and concepts, not just providing us with a bunch of algorithms. Also peer review is a great idea!
+HW's are 2 Problems per week (Range in difficulty) plus MechTA Peer Reviews. Peer reviews are weighted just as much as HW.
+This class is interesting but very, very hard. The homework problems are extremely challenging.
+Professor Hartline is a great instructor, and I think he cares about his students. That being said, you will get left by the wayside real quick, if you cannot keep on top of your stuff. So, put in the effort outside of just the homeworks, and you will become enlightened. 2nd Midterm and Final were much harder than 1st midterm. Professor Hartline's guides to the course materials are invaluable, and they really helped my understanding.
+A lot of work but very rewarding if you go into it with the mindset that you will spend a lot of time on this class. Peer reviews are graded, so cross your fingers and hope you don't have to grade an international student's homework.
+Learned a lot, I dislike the pair reviewing, but the content of the lecture is very good and definitely worth your time. The only suggestion for this course is "take it".
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        0        0.0%
+Communication        0        0.0%
+Graduate School        5        18.5%
+KGSM        0        0.0%
+McCormick        16        59.3%
+Medill        0        0.0%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        6        22.2%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        0        0.0%
+Sophomore        5        17.2%
+Junior        8        27.6%
+Senior        3        10.3%
+Graduate        13        44.8%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        2        6.7%
+Major/Minor requirement        21        70.0%
+Elective requirement        3        10.0%
+No requirement        4        13.3%
+Other requirement        0        0.0%
+Respondent(s)        29        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        0        0.0%
+2        1        3.4%
+3        1        3.4%
+4        6        20.7%
+5        11        37.9%
+6-Extremely interested        10        34.5%
+
+
+
+
+ Northwestern
+Student Report for EECS_336-0_1: Design &Analysis of Algorithms (Konstantin Makarychev)
+Course and Teacher Evaluations CTEC Spring 2018
+Project Audience 80
+Responses Received 52
+Response Ratio 65.0%
+Report Comments
+Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction, republication or redistribution of this site's content is prohibited without the express permission of Northwestern University.
+
+
+For more information about the CTEC Guidelines please visit our website: http://www.northwestern.edu/ctec/guidelines/index.html
+    
+Creation Date    Fri, Jul 13, 2018
+ Technology powered by BLUE
+Download PDF
+COURSE QUESTIONS
+1. Provide an overall rating of the instruction.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        52
+Mean        4.12
+2. Provide an overall rating of the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        52
+Mean        3.87
+3. Estimate how much you learned in the course.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        52
+Mean        4.25
+4. Rate the effectiveness of the course in challenging you intellectually.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        52
+Mean        4.75
+5. Rate the effectiveness of the instructor in stimulating your interest in the subject.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Statistics        Value
+Response Count        52
+Mean        3.62
+TIME-SURVEY QUESTION
+6. Estimate the average number of hours per week you spent on this course outside of class and lab time.
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+3 or fewer        3        5.8%
+4 - 7        22        42.3%
+8 - 11        22        42.3%
+12 - 15        2        3.8%
+16 - 19        2        3.8%
+20 or more        1        1.9%
+ESSAY QUESTIONS
+Please summarize your reaction to this course focusing on the aspects that were most important to you.
+Comments
+Algorithms is a very important concept to learn, but I felt that I was not able to get the most out of the class. Lectures were hard to follow and understand, which resulted in a high dependence on hw assignments to learn the material. But because it was so hard to follow during class, most of the material was learned in TA office hours. We spent the first 5 weeks on greedy algorithms and breezed through the other material. The course felt badly organized, as we even spent a lecture going over material that was covered the previous week because one student voiced that they did not understand it. It felt like a waste of time to go to class, and while the prof is a very nice. he was not very good at explaining the material. The hw assignments were nice because there was a programming aspect to it, which gave the course more concrete problems to solve. The two midterms were short answer problems on greedy algos and dynamic programming, and they were very difficult. The final was a complete change in structure, as we were not tested on proofs but of algorithms such as finding the cost of minimum spanning trees. It was much easier and we knew what to expect.
+This offering of algorithms was really reasonable -- there was plenty of resources to understand the material like discussion section, office hours, and a good textbook, good structure in weekly homework assignments, and good communication to help us to be prepared and succeed.
+
+
+The homework accounted for 44% of the grade at the end, which meant that you could do reasonably well by doing consistent good work, despite messing up on a few questions during midterms.
+
+
+For a grad student, the work load was reasonable. I think the pacing was adjusted for the class, but lots of time was spent on greedy algorithms, and less time for other topics.
+Algorithms was actually pretty fun. Not too hard with very exciting problems. Konstantin really cares about his students and wants you to learn. One of the nicest professors ever.
+Algos with Makarychev was definitely not as hard as this class if often portrayed to be. I think Makarychev did a good job of making the class more accessible to many, but in the mean time it seems like we lost a lot of material from the syllabus. Only the second midterm was hard- the first midterm and final were pretty manageable. No need to be afraid of this class with Konstantin.
+This was a strange run of algorithms. We only had 6 assignments, 5 of them were on greedy algos, and none of it was excruciatingly hard. The midterms were challenging but fine, and the final was short answer/T˿. The communication from the instructor was incredibly frustrating, often questions about important logistics would be asked multiple times on piazza and would go entirely unanswered. All announcements in class were often vague as well, and that made things really confusing. Lectures were also hard to follow.
+Decent course. Professor was somewhat confusing lecturer, but was accessible to students and seems eager to improve.
+Go to office hours for help on weekly problem sets! There were three exams this quarter, the last multiple choice. Exams were pretty hard in general.
+This class is great for anyone looking to get into technical interviews or anyone interested in famous algorithms like the Knapsack problem. I feel like this class has something that everyone will find interesting.
+Professor is kind and knowledgeable but is disorganized overall.
+This was a fun course that taught me problem solving methodologies.
+It's a bit rushed and disjointed because the professor is still trying to figure out the best curriculum. Lectures can be dry, the problem sets get harder throughout the course, and the midterms are super hard but the professor really wants the students to learn, so the curve is generous and the final is super easy.
+TAKE THIS COURSE WITH KONSTATIN. He has made this course very doable in comparison to other professors here, adding also a coding component instead of just raw theory which helps to make the transition.
+Challenging course with homeworks, 2 midterms, and a final. Homework is doable, but the exams are rather difficult.
+The course was not paced very well. It's a shame; this algorithms class could be so much better.
+Lenient grading, good test cases provided to run your program against.
+The explanation to the materials is not well presented making it quite hard to understand. I normally can find some other explanations on internet which are way simpler and more clear. I am repeatedly shocked by how such a simple stuff can be explained so confusing. The TA never gave full solution just drawing some basic idea on blackboard. While, the grading criteria seems require very detailed solution and can vary much between different graders.
+Professor Makarychev is the man. You can tell he genuinely wants you to learn, and given the complexity of the material, he tends to present it in as understandable a way as possible. The content itself is interesting, but there is a bit too much of a focus on greedy algorithms. Dynamic programming was interesting, but it wasn't covered for very long... All in all, great course.
+I'm unfortunately really disappointed with this class. For context, I had dropped this course the quarter prior, and this time around some positive changes were put in place (but unfortunately not enough were made). My main struggle with the class was the lack of helpful resources for students. Slides were severly underdetailed, making it very hard to study for exams. Professor Makarychev moved at a very fast pace, and sometimes verbally explained algorithms without diagrams or slides. If you got lost early on in the lecture, there was little chance youɽ be able to catch up without asking lots of questions. As well, there were practically no formal introductions to the techniques of how to prove algorithms, which forced students to have to deduce strategies or terminology either from class examples or online resources. I know from fellow students that professors who taught this course in the past used to have handouts explaining strategies to develop proofs; there was no such resource in this course, but we were expected to use these strategies nonetheless. Getting feedback was incredibly slow, as homeworks˾xams took on average more than a month to get back. Tests were incredibly difficult, one of which only had a single question, and I know of many students who were caught off guard by the exams. Professor Makarychev does care about his students, as shown by his willingness to answer questions and provide opportunities to earn back credit, but I really hope he takes the time to revise the course in a way that focuses less on specific examples of algorithms and more on actually learning how to design and prove them.
+I didn't learn about as many topics as I would have liked. The teacher went really slow, so I only really got to spend lots of time on greedy and DP algorithms. Homework was easy; exams were much harder.
+Algorithms are a very fascinating subject, but only if they explained well. The professor is a nice guy and means well, but the structure and organization of the class are abysmal. Lectures are usually not worth going to. It seems often that the professor is not quite "in touch" with the student perspective and doesn't realize what is and isn't challenging to students. Reading the book generally does a better job
+This class was hard. Weekly assignment, 2 extremely difficult midterms and a pretty easy final. It was challenging throughout, every single assignment challenged me and it took the full week to come up with solutions. However, it's extremely satisfying when it works out and you find one because you feel like you are truly learning, and learning very prominent information for your future (if computer science).
+We spent like 6 weeks learning about greedy algorithms and then 2 weeks for DP and another 2 of misc lectures. Going to lecture wasn't that useful since it was quite slow and repetitive but the exams are pretty easy and Konstantin is a very smart guy so Iɽ recommend you take Algos with him.
+THIS CLASS IS HARD. Granted, I don't like theory and that has a lot to do with my view. This is the only theory class I've taken here so I don't have anything to compare it to but the material is often confusing and difficult to apply to new questions/situations. The professor is good though, he really wants his students to understand and is really nice when you ask him questions about anything.
+I have mixed feelings for algorithms with Konstantin. We had 6 homeworks, 5 of which were on greedy algorithms, which is essentially the first half of the course. Alright, fine. The first two midterms were very challenging, and the second focused on dynamic programming, which we sort of rushed through and no one understood. However, the final is more objective⿪sy, and the grading˺ssignments could have been worse. Definitely not as nightmarishly hard as what previous quarters of this class have been. Still, one could always hope to get more out of a core class for all CS majors.
+Seemed to be a hard quarter on the professor. Homework covered only greedy and dynamic programming since lectures kept on being pushed back due to unclear communication and teaching. I don't think Markarychev is a bad professor (he's great in office hours), but students don't like his lecture style and as a result resort to self-learning and self-teaching. Take this class if you want a relatively easy grade, but take it with Hartline if you want to learn more.
+Take this class w/ Makarychev. This class was not nearly as bad as I expected. The assignments aren't super easy, but by no means awful. Basically, this class is about practicing designing algorithms (and proving that they're correct), not about facts. It's getting better at thinking in this way. I hated 212, and this class wasn't nearly as painful.
+Take this class with Makarychev, he really cares about the students doing well, and the class is very manageable (seems like less work than with the other professors).
+This seems like an important class to take but we didn't cover that many topics so I didn't learn as much as I expected to.
+Taking this class Makarychev is probably easier than with Hartline, but I also feel like we didn't learn that much, which is unfortunate for a college-level computer science algorithms class. We spent a lot of time on greedy algorithms and not much else. Kostya is also quite a dry and boring lecturer, and his smooth Russian accent put me to sleep more times than I want to admit. Madhav, our graduate TA, was awesome though! I ended up mostly learning by going to his weekly discussion sections instead of going to lecture itself.
+We didn't cover nearly enough relative to what we should've learned in this class
+I really enjoyed the course. Some people were saying that Prof. Makarychev's accent is a bit unclear however I found it just fine.
+Midterms were tough, especially the second one (open notes, creative problem solving), but the final was straight forward if you study for it (closed notes, lecture material based questions).
+DEMOGRAPHICS
+What is the name of your school?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Education & SP        0        0.0%
+Communication        2        4.1%
+Graduate School        6        12.2%
+KGSM        0        0.0%
+McCormick        31        63.3%
+Medill        1        2.0%
+Music        0        0.0%
+Summer        0        0.0%
+SPS        0        0.0%
+WCAS        9        18.4%
+Your Class
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Freshman        0        0.0%
+Sophomore        16        30.8%
+Junior        26        50.0%
+Senior        3        5.8%
+Graduate        7        13.5%
+Other        0        0.0%
+What is your reason for taking the course? (mark all that apply)
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+Distribution requirement        5        8.8%
+Major/Minor requirement        45        78.9%
+Elective requirement        3        5.3%
+No requirement        4        7.0%
+Other requirement        0        0.0%
+Respondent(s)        51        
+What was your Interest in this subject before taking the course?
+Graphs illustrating the information in the accessible table that should immediately follow it.
+Options        Count        Percentage
+1-Not interested at all        2        3.8%
+2        2        3.8%
+3        6        11.5%
+4        18        34.6%
+5        14        26.9%
+6-Extremely interested        10        19.2%
