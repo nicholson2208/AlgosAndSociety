@@ -443,7 +443,7 @@ Options        Count        Percentage
 
 
  Northwestern
-MUSIC_111-1_23: Music Theory I Susan Piagentini
+Student report for Susan Piagentini (MUSIC_111-1_23: Music Theory I )
 Course and Teacher Evaluations CTEC Fall 2016
 Project Audience 16
 Responses Received 7
@@ -1462,7 +1462,7 @@ Options        Count        Percentage
 
 
  Northwestern
-MUSIC_126-1_25: Aural Skills I Noah Jenkins
+Student report for Noah Jenkins (MUSIC_126-1_25: Aural Skills I )
 Course and Teacher Evaluations CTEC Fall 2016
 Project Audience 15
 Responses Received 9
