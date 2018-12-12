@@ -20,9 +20,15 @@ gender.comments.dept.df <- dat.df %>%
 # one word per row
 comment.words <- gender.comments.dept.df %>%
   unnest %>%
-  unnest_tokens(word, comments)
+  unnest_tokens(ngram, comments, token="ngrams", n=2)
+
+# bigrams
+comment.bigrams <- gender.comments.dept.df %>%
+  unnest %>%
+  unnest_tokens(ngram, comments, token="ngrams", n=5)
 
 # filter only words that have a sentiment score
+# skip when n > 1
 comment.words.interesting <- semi_join(comment.words, nrc_lex)
 
 # create total word counts
@@ -30,6 +36,33 @@ gender.word.count <- comment.words.interesting %>%
   count(instructor_gender, word, sort=TRUE) %>%
   # count(dept_gender, department, instructor_gender, word, sort=TRUE) %>%
   ungroup()
+
+# bigrams
+gender.bigram.count <- comment.bigrams %>%
+  count(instructor_gender, ngram, sort=TRUE) %>%
+  ungroup()
+
+gender.total.bigrams <- gender.bigram.count %>%
+  group_by(instructor_gender) %>%
+  summarize(total = sum(n))
+
+gender.bigrams <- left_join(gender.bigram.count, gender.total.bigrams)
+
+gender.bigrams <- gender.bigrams %>%
+  bind_tf_idf(ngram, instructor_gender, n)
+
+gender.bigrams %>%
+  # filter(department == 'BME' | department == 'EECS') %>%
+  arrange(desc(tf_idf)) %>%
+  mutate(ngram = factor(ngram, levels=rev(unique(ngram)))) %>%
+  group_by(instructor_gender) %>%
+  top_n(10) %>%
+  ungroup %>%
+  ggplot(aes(ngram, tf_idf, fill=instructor_gender)) +
+  geom_col(show.legend = FALSE) +
+  labs(x = NULL, y = "tf-idf") +
+  facet_wrap(~instructor_gender, ncol=2, scales = "free") +
+  coord_flip()
 
 # group word counts
 gender.total.words <- gender.word.count %>%
